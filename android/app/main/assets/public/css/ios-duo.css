@@ -1,0 +1,596 @@
+/* ============================================================
+   LingoStep — ios-duo.css
+   v2.2 design layer: iPhone-style (iOS) look + Duolingo-style
+   practice feedback. Component layer only — the global color
+   tokens come from style.css + themes.css (see css/redesign.css).
+
+   1. iOS font stack (colors come from the global tokens)
+   2. iOS components (buttons, cards, switches, inputs, nav…)
+   3. Duolingo-style feedback sheet, confetti, combo badge,
+      word-by-word dots, celebration animations
+
+   v2.2 changes:
+   - Toggle is now RTL-safe and size-independent (uses
+     inset-inline-start instead of translateX).
+   - .btn:active no longer fires on disabled buttons.
+   - backdrop-filter wrapped in @supports with solid fallback.
+   - Focus ring uses color-mix() for a proper visible halo.
+   - sww-pulse animation now uses theme tokens (works in dark).
+   - brand-badge shadow uses --shadow-sm token.
+   ============================================================ */
+
+/* ---------------- 1. design tokens ----------------
+   The global palette now lives in style.css + themes.css and the
+   UI-refresh layer css/redesign.css (loaded last). This file no
+   longer redefines color tokens, so the practice screens inherit
+   the same sky-blue palette as the rest of the app. Only the iOS
+   font stack is kept locally. */
+
+:root {
+  --font-ios: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
+    "SF Arabic", ui-rounded, "SF Pro Rounded", system-ui, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ---------------- base / typography ---------------- */
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: var(--font-ios);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.018em;
+}
+
+/* Arabic must never inherit Latin tightening (it breaks joining) */
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] .brand-name {
+  letter-spacing: 0;
+}
+
+
+/* ============================================================
+   2. iOS components
+   ============================================================ */
+
+/* frosted-glass header (with graceful fallback for older browsers) */
+.app-header {
+  background: var(--surface);
+  border-bottom: 0.5px solid var(--border);
+  box-shadow: none;
+}
+
+@supports (backdrop-filter: blur(20px)) or (-webkit-backdrop-filter: blur(20px)) {
+  .app-header {
+    background: var(--surface-blur);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+  }
+}
+
+.brand-badge {
+  border-radius: 10px;
+  box-shadow: var(--shadow-sm, 0 2px 8px rgba(0, 0, 0, .1));
+}
+
+.brand-name {
+  font-weight: 700;
+}
+
+/* buttons — iOS filled / tinted, springy press */
+.btn {
+  border-radius: 14px;
+  border-width: 1px;
+  font-weight: 600;
+  letter-spacing: 0;
+  transition: transform .16s cubic-bezier(.2, .8, .3, 1),
+    background .16s ease, border-color .16s ease, box-shadow .16s ease,
+    filter .16s ease, opacity .16s ease;
+}
+
+/* Only active feedback for buttons that can actually be pressed. */
+.btn:not(:disabled):active {
+  transform: scale(.96);
+  filter: brightness(.94);
+}
+
+.btn-primary {
+  background: var(--primary);
+  border-color: transparent;
+  box-shadow: 0 6px 16px rgba(0, 122, 255, .28);
+}
+
+.btn-primary:hover {
+  background: var(--primary-strong);
+  border-color: transparent;
+}
+
+[data-theme="dark"] .btn-primary,
+[data-theme="system"] .btn-primary {
+  color: #FFFFFF;
+}
+
+.btn-lg { border-radius: 16px; }
+.btn-sm { border-radius: 11px; }
+.btn-round { border-radius: 50%; }
+
+/* cards — iOS grouped-list look */
+.card,
+.sentence-card,
+.section-card,
+.path-card,
+.stat-card,
+.lesson-item,
+.done-card,
+.state-box {
+  border-radius: var(--radius);
+}
+
+.card,
+.sentence-card {
+  border: 0.5px solid var(--border);
+  box-shadow: var(--shadow-card);
+}
+
+.sentence-card { border-radius: var(--radius-lg); }
+.sentence-card::before { height: 4px; }
+
+/* switches — real iOS toggle (green when on)
+   Positioned via inset-inline-start so RTL works without overrides
+   and the knob follows the track even if the size changes. */
+.toggle {
+  position: relative;
+  width: 51px;
+  height: 31px;
+  background: var(--surface-2);
+  box-shadow: inset 0 0 0 0.5px rgba(0, 0, 0, .04);
+  transition: background .22s ease;
+}
+
+.toggle::after {
+  position: absolute;
+  top: 2px;
+  inset-inline-start: 2px;
+  width: 27px;
+  height: 27px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, .18), 0 0 0 0.5px rgba(0, 0, 0, .04);
+  transition: inset-inline-start .22s cubic-bezier(.2, .8, .3, 1);
+}
+
+.toggle[aria-checked="true"] {
+  background: var(--success);
+}
+
+.toggle[aria-checked="true"]::after {
+  inset-inline-start: calc(100% - 29px); /* 27px knob + 2px start */
+}
+
+/* inputs & selects — iOS gray fill, no hard borders */
+input[type="text"],
+input[type="number"],
+.select-pill,
+input.select-pill {
+  background: var(--surface-2);
+  border: 0.5px solid transparent;
+  border-radius: 12px;
+  color: var(--text);
+  transition: border-color .15s ease, background .15s ease, box-shadow .15s ease;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+.select-pill:focus {
+  background: var(--surface);
+  border-color: var(--primary);
+  outline: none;
+  box-shadow: 0 0 0 3.5px color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+/* progress bars — slim iOS style */
+.progress {
+  border-radius: 999px;
+  background: var(--surface-2);
+}
+
+.progress > span {
+  border-radius: 999px;
+  background: var(--primary);
+  transition: width .5s cubic-bezier(.2, .8, .3, 1);
+}
+
+/* chips */
+.chip {
+  border-radius: 999px;
+  background: var(--surface-2);
+  color: var(--muted);
+  font-weight: 600;
+}
+
+/* audio controls — iOS blue play + tinted turtle */
+.audio-main {
+  background: var(--primary);
+  color: #FFFFFF;
+  box-shadow: 0 10px 24px rgba(0, 122, 255, .32);
+}
+
+.audio-main:hover {
+  background: var(--primary-strong);
+}
+
+.audio-slow {
+  border: 1.5px solid var(--primary);
+  color: var(--primary);
+  background: var(--surface);
+}
+
+.audio-slow:hover {
+  background: var(--primary-tint);
+}
+
+/* multiple-choice options */
+.mc-option {
+  border-radius: 14px;
+  border-width: 1.5px;
+  font-weight: 600;
+}
+
+/* word-order chips */
+.wo-chip {
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+}
+
+/* toast — iOS HUD (with graceful fallback) */
+.toast {
+  border-radius: 999px;
+  background: var(--toast-bg);
+  color: #FFFFFF;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .25);
+}
+
+@supports (backdrop-filter: blur(16px)) or (-webkit-backdrop-filter: blur(16px)) {
+  .toast {
+    backdrop-filter: saturate(180%) blur(16px);
+    -webkit-backdrop-filter: saturate(180%) blur(16px);
+  }
+}
+
+/* mobile bottom tab bar — full-width frosted iOS tab bar */
+@media (max-width: 639px) {
+  .mobile-bottom-nav {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: .4rem .3rem calc(.4rem + env(safe-area-inset-bottom, 0px));
+    background: var(--nav-bg);
+    border: none;
+    border-top: 0.5px solid var(--border);
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  @supports (backdrop-filter: blur(20px)) or (-webkit-backdrop-filter: blur(20px)) {
+    .mobile-bottom-nav {
+      background: var(--nav-bg);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+    }
+  }
+
+  .app-shell {
+    padding-bottom: calc(5.2rem + env(safe-area-inset-bottom, 0px));
+  }
+
+  .mobile-nav-link { border-radius: 12px; }
+  .mobile-nav-link.is-active { color: var(--primary); }
+}
+
+/* hero — big iOS title card */
+.hero h1 { letter-spacing: -0.022em; }
+[dir="rtl"] .hero h1 { letter-spacing: 0; }
+
+/* feedback box inside the card */
+.feedback { border-radius: 16px; }
+
+/* summary medal bounce on lesson completion */
+.duo-medal-bounce {
+  animation: medal-bounce .9s cubic-bezier(.34, 1.56, .64, 1);
+}
+
+@keyframes medal-bounce {
+  0%   { transform: scale(.3) rotate(-12deg); opacity: 0; }
+  55%  { transform: scale(1.14) rotate(4deg); opacity: 1; }
+  75%  { transform: scale(.96) rotate(-2deg); }
+  100% { transform: scale(1) rotate(0); }
+}
+
+
+/* ============================================================
+   3. Duolingo-style practice feedback
+   ============================================================ */
+
+/* backdrop behind the feedback sheet */
+.duo-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, .3);
+  opacity: 0;
+  transition: opacity .26s ease;
+  z-index: 90;
+}
+
+.duo-backdrop.is-open { opacity: 1; }
+
+/* bottom sheet that slides up after every answer */
+.duo-sheet-wrap {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 95;
+  transform: translateY(105%);
+  transition: transform .4s cubic-bezier(.22, 1.14, .32, 1);
+  pointer-events: none;
+}
+
+.duo-sheet-wrap.is-open {
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.duo-sheet {
+  max-width: 640px;
+  margin: 0 auto;
+  background: var(--surface);
+  border-radius: 24px 24px 0 0;
+  padding: 22px 20px calc(16px + env(safe-area-inset-bottom, 0px));
+  box-shadow: 0 -14px 44px rgba(0, 0, 0, .2);
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+
+.duo-sheet-wrap.is-ok .duo-sheet {
+  border-top: 4px solid var(--success);
+  background: linear-gradient(180deg, var(--success-tint), var(--surface) 62%);
+}
+
+.duo-sheet-wrap.is-bad .duo-sheet {
+  border-top: 4px solid var(--danger);
+  background: linear-gradient(180deg, var(--danger-tint), var(--surface) 62%);
+}
+
+/* big check / cross badge */
+.duo-sheet-icon {
+  width: 66px;
+  height: 66px;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  color: #FFFFFF;
+  margin-bottom: 10px;
+  animation: duo-pop .5s cubic-bezier(.34, 1.56, .64, 1);
+}
+
+.duo-sheet-icon .ui-icon {
+  width: 36px;
+  height: 36px;
+}
+
+.duo-sheet-wrap.is-ok .duo-sheet-icon {
+  background: var(--success);
+  box-shadow: 0 10px 26px rgba(52, 199, 89, .4);
+}
+
+.duo-sheet-wrap.is-bad .duo-sheet-icon {
+  background: var(--danger);
+  box-shadow: 0 10px 26px rgba(255, 59, 48, .4);
+}
+
+.duo-sheet-title {
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.duo-sheet-wrap.is-ok .duo-sheet-title { color: var(--success-strong); }
+.duo-sheet-wrap.is-bad .duo-sheet-title { color: var(--danger-strong); }
+[dir="rtl"] .duo-sheet-title { letter-spacing: 0; }
+
+/* correct-answer box shown on wrong answers */
+.duo-sheet-answer {
+  background: var(--surface);
+  border: 0.5px solid var(--border);
+  border-radius: 14px;
+  padding: 12px 16px;
+  margin: 14px auto 0;
+  max-width: 520px;
+  text-align: start;
+  animation: duo-rise .4s ease both;
+}
+
+.duo-answer-label {
+  font-size: .78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--muted);
+  margin-bottom: .25rem;
+}
+
+.duo-answer-en {
+  font-size: 1.14rem;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.duo-sheet-answer .ar-meaning {
+  margin-top: .3rem;
+  color: var(--muted);
+  font-size: .95rem;
+}
+
+/* floating "+N XP" chip */
+.xp-float {
+  position: absolute;
+  inset-inline-end: 18px;
+  top: 16px;
+  font-weight: 800;
+  font-size: 1.02rem;
+  color: var(--warn);
+  background: var(--surface);
+  border: 0.5px solid var(--warn-border);
+  border-radius: 999px;
+  padding: .3rem .75rem;
+  box-shadow: var(--shadow-sm);
+  animation: xp-rise 1.7s ease-out forwards;
+  pointer-events: none;
+}
+
+/* full-width iOS continue button */
+.duo-continue {
+  width: 100%;
+  max-width: 520px;
+  display: flex;
+  margin: 16px auto 0;
+  min-height: 52px;
+  font-size: 1.05rem;
+}
+
+/* combo badge — 3+ correct answers in a row */
+.combo-badge {
+  position: fixed;
+  top: calc(env(safe-area-inset-top, 0px) + 76px);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 80;
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  background: linear-gradient(135deg, #FF9500, #FF375F);
+  color: #FFFFFF;
+  font-weight: 800;
+  font-size: 1.02rem;
+  border-radius: 999px;
+  padding: .45rem 1rem;
+  box-shadow: 0 12px 28px rgba(255, 55, 95, .4);
+  animation: combo-pop .5s cubic-bezier(.34, 1.56, .64, 1);
+  pointer-events: none;
+}
+
+.combo-badge .ui-icon {
+  width: 20px;
+  height: 20px;
+  color: #FFFFFF;
+}
+
+/* confetti particles */
+.fx-confetti {
+  position: fixed;
+  top: -24px;
+  z-index: 120;
+  pointer-events: none;
+  border-radius: 2px;
+  animation: confetti-fall var(--dur, 2s) cubic-bezier(.25, .46, .45, .94) forwards;
+}
+
+/* word-by-word slow audio: progress dots + pulsing turtle button */
+.sww-dots {
+  display: none;
+  gap: 7px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: .55rem auto .1rem;
+  min-height: 10px;
+  max-width: 420px;
+}
+
+.sww-dots.is-active { display: flex; }
+
+.sww-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--border-strong);
+  opacity: .45;
+  transition: background .18s ease, transform .18s ease, opacity .18s ease;
+}
+
+.sww-dot.lit {
+  background: var(--primary);
+  opacity: 1;
+  transform: scale(1.3);
+}
+
+.audio-slow.is-speaking {
+  animation: sww-pulse 1.05s ease-in-out infinite;
+}
+
+
+/* ---------------- keyframes ---------------- */
+
+@keyframes duo-pop {
+  0%   { transform: scale(.35); opacity: 0; }
+  60%  { transform: scale(1.12); opacity: 1; }
+  100% { transform: scale(1); }
+}
+
+@keyframes duo-rise {
+  0%   { transform: translateY(10px); opacity: 0; }
+  100% { transform: translateY(0);    opacity: 1; }
+}
+
+@keyframes xp-rise {
+  0%   { opacity: 0; transform: translateY(10px) scale(.9); }
+  18%  { opacity: 1; transform: translateY(0) scale(1); }
+  72%  { opacity: 1; }
+  100% { opacity: 0; transform: translateY(-30px) scale(1); }
+}
+
+@keyframes combo-pop {
+  0%   { transform: translateX(-50%) scale(.3); opacity: 0; }
+  70%  { transform: translateX(-50%) scale(1.12); }
+  100% { transform: translateX(-50%) scale(1); }
+}
+
+@keyframes confetti-fall {
+  0%   { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+  100% { transform: translate(var(--dx, 0px), 110vh) rotate(var(--rot, 360deg)); opacity: .85; }
+}
+
+/* uses theme tokens so the halo looks right in dark mode too */
+@keyframes sww-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 var(--primary-soft); }
+  50%      { box-shadow: 0 0 0 12px transparent; }
+}
+
+
+/* ---------------- reduced motion ---------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .duo-sheet-wrap,
+  .duo-backdrop {
+    transition-duration: .01s;
+  }
+
+  .duo-sheet-icon,
+  .duo-sheet-answer,
+  .combo-badge,
+  .duo-medal-bounce,
+  .xp-float {
+    animation: none;
+  }
+
+  .fx-confetti { display: none; }
+  .audio-slow.is-speaking { animation: none; }
+}

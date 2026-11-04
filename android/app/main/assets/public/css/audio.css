@@ -1,0 +1,105 @@
+/* ============================================================
+   LingoStep — css/audio.css  (Section 20 audio upgrade)
+   Styles for the upgraded speech settings + speaking practice.
+   Uses the app's existing CSS variables so light/dark themes work.
+   ============================================================ */
+
+/* segmented control (accent / speed / repeat) */
+.audio-seg {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm, 10px);
+  background: var(--bg);
+  flex-wrap: wrap;
+}
+
+.audio-seg button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--primary);
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: calc(var(--radius-sm, 10px) - 4px);
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.audio-seg button[aria-pressed="true"] {
+  background: var(--primary);
+  color: #fff;
+  font-weight: 600;
+}
+
+.audio-seg button:focus-visible {
+  outline: 2px solid var(--focus-ring, var(--primary));
+  outline-offset: 1px;
+}
+
+/* volume row */
+.audio-vol-row { display: flex; align-items: center; gap: 0.6rem; min-width: 0; }
+.audio-vol { flex: 1 1 160px; max-width: 220px; accent-color: var(--primary); }
+
+/* custom sentence input */
+.audio-custom {
+  width: 100%;
+  max-width: 420px;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm, 10px);
+  background: var(--bg);
+  color: var(--primary);
+  font: inherit;
+}
+.audio-custom:focus { outline: 2px solid var(--focus-ring, var(--primary)); outline-offset: 1px; }
+
+/* sentence preview chip */
+.audio-sentence-preview {
+  margin: 0.2rem 0 0.6rem;
+  padding: 0.45rem 0.7rem;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius-sm, 10px);
+  color: var(--primary);
+  background: var(--primary-tint, transparent);
+  min-height: 1.2em;
+}
+
+/* speaking practice card */
+.audio-practice { margin: 0.6rem 0; }
+.audio-practice > summary {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--primary);
+  padding: 0.4rem 0.2rem;
+  list-style: none;
+}
+.audio-practice > summary::-webkit-details-marker { display: none; }
+.audio-practice .more-section-content { margin-top: 0.4rem; }
+
+/* action rows */
+.audio-actions { flex-wrap: wrap; gap: 0.4rem; }
+
+/* small polish: keep select/input rows from overflowing on narrow screens */
+.audio-panel .setting-row select,
+.audio-panel .setting-row input[type="text"] { max-width: 100%; }
+
+/* recording pulse dot */
+.audio-panel.is-recording .audio-actions { animation: audio-pulse 1.2s ease-in-out infinite; }
+@keyframes audio-pulse { 50% { opacity: 0.65; } }
+
+/* respect reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .audio-panel.is-recording .audio-actions { animation: none; }
+}
+
+/* narrow screens: keep the 3-option segmented controls on one line */
+@media (max-width: 400px) {
+  .audio-seg { gap: 3px; padding: 3px; }
+  .audio-seg button { padding: 0.35rem 0.5rem; font-size: 0.8rem; }
+}
