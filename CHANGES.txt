@@ -1,0 +1,46 @@
+LingoStep v9.0.0 — Android app + smart learning engine transformation
+======================================================================
+Commit: "Transform to Android app with smart touch engine (v9.0.0)"
+
+NEW FILES (17):
+  js/exercise-state.js               word state machine: empty/active/incorrect/
+                                     locked/complete + first-letter hint cap +
+                                     word-order sessions + skip-alternative picker
+  js/native.js                       Android bridge: back button, status bar, splash,
+                                     daily reminder, lifecycle audio pause
+  js/audio-upgrade/native.js         native Android TTS bridge (web fallback kept)
+  css/premium.css                    v9 premium design layer (blue/turquoise)
+  scripts/build-www.js               web build → www/ (Capacitor webDir)
+  scripts/content/gen-food-services.mjs
+  scripts/content/banks/food-services/*.json (25 topic banks)
+  scripts/content/patch-dup-071-095.mjs
+  lessons/food-services/lesson-071..095.js (25 RESTORED lessons, 1390 exercises)
+  tests/exercise-state-tests.js      locking/hint-cap/skip-alternative guarantees
+  .github/workflows/android.yml      APK build workflow (debug + release artifacts)
+  android/                           full Capacitor 8 Android project
+  assets/icon-only.png, assets/splash.png  (icon/splash sources)
+  docs/TRANSFORMATION-v9.md          full change report
+
+MAJOR CHANGES:
+  - QWERTY keyboard COMPLETELY removed: js/keyboard.js, speech.next.js,
+    listening-writing-enhancements.js deleted; touch QWERTY pad removed from
+    touch-typing.js (letter-tile bank for the active word instead)
+  - Smart hints: first letter of the current word only, capped at half the
+    word, never the Arabic meaning, never the answer (enforced in state)
+  - Word-by-word locking: green locked words cannot be deleted/edited/moved;
+    incorrect answers never lock; no clear-all button anywhere
+  - Restart/exit require explicit confirmation dialogs (no window.confirm)
+  - Mandatory skip: skipped question earns nothing, an alternative question
+    from the same lesson must be answered (chained, blocked when exhausted)
+  - Audio: native Android TTS preferred, play/pause/replay/speed controls
+  - More hub: 4 categories (Learning / My Progress / App Settings / Help),
+    new real pages: #/audio, #/help, #/faq, #/history
+  - Backup v2 (xp/review/vocab/placement/plan) + all orphaned tests registered
+  - 25 missing food-services lessons restored (content parity baseline intact)
+  - Bottom nav redesign, premium theme, RTL verified; version → v9.0.0
+
+TESTS: node tests/run-all.js  ->  17/17 suites passed
+APK:   android assembleDebug (6.8MB) + assembleRelease (5.4MB) verified
+BROWSER: dictation tiles + locking, hint cap, skip->alternative, word-order
+         lock/remove, restart dialog, More hub, Arabic RTL — all verified
+         in Chromium (2 bugs found and fixed, regression-tested).

@@ -1,0 +1,30 @@
+{
+  "name": "lingostep",
+  "version": "9.0.0",
+  "description": "LingoStep — listen, build, and master English step by step. Keyboard-free touch learning app (plain HTML/CSS/JS ES modules) for Android via Capacitor and the web (PWA).",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "build": "node scripts/build-www.js",
+    "test": "node tests/run-all.js",
+    "validate": "node scripts/validate-project.js",
+    "validate:lessons": "node scripts/validate-lessons.js",
+    "detect:duplicates": "node scripts/detect-duplicates.js",
+    "audio:check": "node scripts/apply-audio-upgrade.js --check",
+    "android:sync": "npm run build && cap sync android",
+    "android:debug": "cd android && ./gradlew assembleDebug",
+    "android:release": "cd android && ./gradlew assembleRelease"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/local-notifications": "^8.0.0",
+    "@capacitor/status-bar": "^8.0.0",
+    "@capacitor-community/text-to-speech": "^8.0.2"
+  }
+}

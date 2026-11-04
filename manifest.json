@@ -1,0 +1,49 @@
+{
+  "name": "LingoStep — Learn English Step by Step",
+  "short_name": "LingoStep",
+  "id": "/LingoStep11/",
+  "description": "Listen, build, and master English with 252 lessons across 11 sections, 14,000+ keyboard-free touch exercises, spaced revision and full offline support — in English and Arabic.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#f7fafc",
+  "theme_color": "#1e88e5",
+  "lang": "en",
+  "dir": "auto",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
