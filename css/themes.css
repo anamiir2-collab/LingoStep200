@@ -1,0 +1,221 @@
+/* ============================================================
+   LingoStep — design tokens (UI refresh)
+   Bright educational palette: sky-blue primary, orange secondary,
+   purple / turquoise / green support. White surfaces, airy layout.
+   Green = correct · orange = hint · red = wrong (unchanged semantics).
+   ============================================================ */
+
+:root {
+  --radius: 22px;
+  --radius-lg: 28px;
+  --radius-sm: 16px;
+
+  /* light theme (default) */
+  --bg: #f7fafc;
+  --surface: #ffffff;
+  --surface-2: #eff7fc;
+  --surface-blur: rgba(255, 255, 255, .92);
+  --border: #e4eef5;
+  --border-strong: #d2e2ee;
+  --text: #202a35;
+  --muted: #64778c;
+
+  --primary: #42b5e8;
+  --primary-strong: #1e9cd7;
+  --primary-deep: #0f6e9e;
+  --primary-soft: #bfe6f9;
+  --primary-tint: #eaf8ff;
+  --focus-ring: #42b5e8;
+
+  /* pastel family for stat tiles and accents */
+  --mint: #eaf8ff;
+  --blue-soft: #a8dff7;
+  --blue-tint: #eaf8ff;
+  --pink-soft: #ffd9a8;
+  --pink-tint: #fff4e4;
+  --yellow-soft: #ffd98e;
+  --yellow-tint: #fff6e0;
+
+  /* support colors (UI refresh) */
+  --purple: #777bbe;
+  --purple-strong: #5c60a8;
+  --purple-tint: #efeffa;
+  --turquoise: #50d2ce;
+  --turquoise-strong: #2ba8a4;
+  --turquoise-tint: #e4f9f8;
+
+  /* green = correct · orange = hint · red = wrong */
+  --success: #3d9e63;
+  --success-strong: #2e7f4e;
+  --success-tint: #e7f6ed;
+  --success-border: #c3e6d1;
+
+  --warn: #d9820f;
+  --warn-strong: #b26a00;
+  --warn-tint: #fff3dd;
+  --warn-border: #f7dcaa;
+
+  --danger: #de6b6b;
+  --danger-strong: #c24e52;
+  --danger-tint: #fdeeee;
+  --danger-border: #f5cfcf;
+
+  /* Listening & Writing states (theme-aware) */
+  --lw-success: #3d9e63;
+  --lw-danger: #de5f5f;
+
+  /* hero decorative circles */
+  --hero-deco-1: rgba(255, 255, 255, .30);
+  --hero-deco-2: rgba(255, 255, 255, .18);
+
+  /* secondary accent tones for stat & section icons */
+  --accent-teal: #26a8a1;
+  --accent-pink: #777bbe;
+  --accent-gold: #e8951a;
+
+  --level-tint: #eaf8ff;
+  --toast-bg: #202a35;
+  --shadow-sm: 0 1px 2px rgba(32, 42, 53, .05);
+  --shadow-card: 0 8px 24px rgba(66, 181, 232, .10);
+  --shadow: 0 14px 34px rgba(32, 42, 53, .12);
+  --header-grad: linear-gradient(180deg, #ffffff 0%, #fbfdfe 100%);
+  --hero-grad: linear-gradient(135deg, #55c5f0 0%, #42b5e8 52%, #2e9fd8 100%);
+  --nav-bg: #ffffff;
+}
+
+[data-theme="dark"] {
+  --bg: #0e1620;
+  --surface: #16212d;
+  --surface-2: #1c2a38;
+  --surface-blur: rgba(14, 22, 32, .92);
+  --border: #28394a;
+  --border-strong: #38506a;
+  --text: #eaf2f8;
+  --muted: #93a6b8;
+
+  --primary: #42b5e8;
+  --primary-strong: #74c9f0;
+  --primary-deep: #0e2230;
+  --primary-soft: #1e4a63;
+  --primary-tint: #14303f;
+  --focus-ring: #42b5e8;
+
+  --mint: #14303f;
+  --blue-soft: #1e4a63;
+  --blue-tint: #13293a;
+  --pink-soft: #4a3418;
+  --pink-tint: #392a14;
+  --yellow-soft: #4a3d18;
+  --yellow-tint: #382f14;
+
+  --purple: #999cd9;
+  --purple-strong: #b6b9e8;
+  --purple-tint: #23253d;
+  --turquoise: #50d2ce;
+  --turquoise-strong: #7cded9;
+  --turquoise-tint: #10312f;
+
+  --success: #5bcb86;
+  --success-strong: #8adca8;
+  --success-tint: #16301f;
+  --success-border: #2c5a3c;
+
+  --warn: #f2a83b;
+  --warn-strong: #ffc46a;
+  --warn-tint: #36270e;
+  --warn-border: #5c4519;
+
+  --danger: #e57f7f;
+  --danger-strong: #f0a3a3;
+  --danger-tint: #392222;
+  --danger-border: #663a3a;
+
+  --lw-success: #5bcb86;
+  --lw-danger: #e57f7f;
+
+  --hero-deco-1: rgba(255, 255, 255, .06);
+  --hero-deco-2: rgba(255, 255, 255, .03);
+
+  --accent-teal: #50d2ce;
+  --accent-pink: #999cd9;
+  --accent-gold: #ffb32c;
+
+  --level-tint: #13293a;
+  --toast-bg: #eaf2f8;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, .4);
+  --shadow-card: 0 8px 24px rgba(0, 0, 0, .35);
+  --shadow: 0 14px 34px rgba(0, 0, 0, .5);
+  --header-grad: linear-gradient(180deg, #16212d 0%, #111a25 100%);
+  --hero-grad: linear-gradient(135deg, #1d4b66 0%, #174156 60%, #123549 100%);
+  --nav-bg: #16212d;
+}
+
+/* system preference when theme = system */
+@media (prefers-color-scheme: dark) {
+  [data-theme="system"] {
+    --bg: #0e1620;
+    --surface: #16212d;
+    --surface-2: #1c2a38;
+    --surface-blur: rgba(14, 22, 32, .92);
+    --border: #28394a;
+    --border-strong: #38506a;
+    --text: #eaf2f8;
+    --muted: #93a6b8;
+
+    --primary: #42b5e8;
+    --primary-strong: #74c9f0;
+    --primary-deep: #0e2230;
+    --primary-soft: #1e4a63;
+    --primary-tint: #14303f;
+    --focus-ring: #42b5e8;
+
+    --mint: #14303f;
+    --blue-soft: #1e4a63;
+    --blue-tint: #13293a;
+    --pink-soft: #4a3418;
+    --pink-tint: #392a14;
+    --yellow-soft: #4a3d18;
+    --yellow-tint: #382f14;
+
+    --purple: #999cd9;
+    --purple-strong: #b6b9e8;
+    --purple-tint: #23253d;
+    --turquoise: #50d2ce;
+    --turquoise-strong: #7cded9;
+    --turquoise-tint: #10312f;
+
+    --success: #5bcb86;
+    --success-strong: #8adca8;
+    --success-tint: #16301f;
+    --success-border: #2c5a3c;
+
+    --warn: #f2a83b;
+    --warn-strong: #ffc46a;
+    --warn-tint: #36270e;
+    --warn-border: #5c4519;
+
+    --danger: #e57f7f;
+    --danger-strong: #f0a3a3;
+    --danger-tint: #392222;
+    --danger-border: #663a3a;
+
+    --lw-success: #5bcb86;
+    --lw-danger: #e57f7f;
+
+    --hero-deco-1: rgba(255, 255, 255, .06);
+    --hero-deco-2: rgba(255, 255, 255, .03);
+
+    --accent-teal: #50d2ce;
+    --accent-pink: #999cd9;
+    --accent-gold: #ffb32c;
+
+    --level-tint: #13293a;
+    --toast-bg: #eaf2f8;
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, .4);
+    --shadow-card: 0 8px 24px rgba(0, 0, 0, .35);
+    --shadow: 0 14px 34px rgba(0, 0, 0, .5);
+    --header-grad: linear-gradient(180deg, #16212d 0%, #111a25 100%);
+    --hero-grad: linear-gradient(135deg, #1d4b66 0%, #174156 60%, #123549 100%);
+    --nav-bg: #16212d;
+  }
+}
