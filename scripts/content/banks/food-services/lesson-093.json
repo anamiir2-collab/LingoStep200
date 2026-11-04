@@ -1,0 +1,94 @@
+{
+  "id": "lesson-093",
+  "objectives": [
+    "Book a table by phone or in person",
+    "Say the time and size of your party",
+    "Confirm, change, or cancel a reservation"
+  ],
+  "grammar": {
+    "explanation": "We use 'would like' to make polite requests and reservations. It is softer than 'want'. Say 'I would like to book a table' or 'We'd like a table for four'. In questions, we start with Would: 'Would you like a table by the window?'",
+    "explanationAr": "نستخدم would like للطلب المهذب ولحجز الطاولات، وهي أرقى من want. نقول: I would like to book a table. والاختصار هو I'd like. وفي السؤال نبدأ بـ Would.",
+    "examples": [
+      {"en": "I'd like to book a table for tonight.", "ar": "أريد حجز طاولة لهذه الليلة."},
+      {"en": "We would like a quiet table for two.", "ar": "نريد طاولة هادئة لشخصين."},
+      {"en": "Would you like a table inside or outside?", "ar": "هل تريد طاولة في الداخل أم في الخارج؟"}
+    ]
+  },
+  "vocabulary": [
+    {"word": "reservation", "meaningAr": "حجز", "example": "I have a reservation for eight o'clock."},
+    {"word": "table", "meaningAr": "طاولة", "example": "A table for four, please."},
+    {"word": "book", "meaningAr": "يحجز", "example": "You can book a table by phone."},
+    {"word": "available", "meaningAr": "متاح", "example": "No tables are available right now."},
+    {"word": "confirm", "meaningAr": "يؤكد", "example": "Can you confirm the time, please?"},
+    {"word": "cancel", "meaningAr": "يلغي", "example": "Can I cancel my reservation, please?"},
+    {"word": "guest", "meaningAr": "ضيف", "example": "We have six guests tonight."},
+    {"word": "waiter", "meaningAr": "نادل", "example": "The waiter showed us our table."},
+    {"word": "menu", "meaningAr": "قائمة الطعام", "example": "Can we see the menu, please?"},
+    {"word": "quiet", "meaningAr": "هادئ", "example": "We would like a quiet table."},
+    {"word": "window", "meaningAr": "نافذة", "example": "She likes the table by the window."},
+    {"word": "busy", "meaningAr": "مزدحم", "example": "The restaurant is busy on weekends."}
+  ],
+  "lt": [
+    {"en": "I'd like to book a table for four.", "alt": "I would like to book a table for four.", "ar": "أريد حجز طاولة لأربعة أشخاص."},
+    {"en": "Do you have a table for two tonight?", "ar": "هل لديكم طاولة لشخصين الليلة؟"},
+    {"en": "A reservation under the name Omar.", "ar": "حجز باسم عمر."},
+    {"en": "What time does the kitchen close?", "ar": "متى يغلق المطبخ؟"},
+    {"en": "Can we come at eight o'clock?", "ar": "هل يمكننا الحضور في الثامنة؟"},
+    {"en": "Sorry, we are fully booked tonight.", "ar": "عذرًا، نحن محجوزون بالكامل الليلة."},
+    {"en": "For how many people, please?", "ar": "لكم من الأشخاص من فضلك؟"},
+    {"en": "We are a party of six.", "ar": "نحن مجموعة من ستة أشخاص."},
+    {"en": "Is a table available at half past seven?", "ar": "هل تتوفر طاولة في السابعة والنصف؟"},
+    {"en": "I need to cancel my reservation for Friday.", "ar": "أحتاج إلى إلغاء حجزي ليوم الجمعة."},
+    {"en": "Could we sit by the window?", "ar": "هل يمكننا الجلوس قرب النافذة؟"},
+    {"en": "The restaurant is very busy on Fridays.", "ar": "المطعم مزدحم جدًا أيام الجمعة."},
+    {"en": "Please confirm your booking for tomorrow.", "ar": "من فضلك أكد حجزك للغد."},
+    {"en": "What name is the reservation under?", "ar": "باسم من هو الحجز؟"},
+    {"en": "We don't eat fish or meat.", "ar": "لا نأكل السمك أو اللحم."},
+    {"en": "Can I change my booking to Saturday?", "ar": "هل يمكنني تغيير حجزي إلى السبت؟"},
+    {"en": "Your table will be ready in ten minutes.", "ar": "ستكون طاولتك جاهزة بعد عشر دقائق."},
+    {"en": "Do you take reservations on Sundays?", "ar": "هل تقبلون الحجوزات أيام الأحد؟"},
+    {"en": "We'd like a quiet table in the corner.", "alt": "We would like a quiet table in the corner.", "ar": "نريد طاولة هادئة في الزاوية."},
+    {"en": "I'm calling to book a table for tonight.", "ar": "أتصل لحجز طاولة لهذه الليلة."},
+    {"en": "Your reservation is for seven thirty.", "ar": "حجزك هو للسابعة والنصف."},
+    {"en": "How long can we keep the table?", "ar": "كم مدة الاحتفاظ بالطاولة؟"},
+    {"en": "Please wait here for a moment.", "ar": "من فضلك انتظر هنا لحظة."},
+    {"en": "The wait is about fifteen minutes.", "ar": "مدة الانتظار حوالي خمس عشرة دقيقة."},
+    {"en": "Do you have tables outside?", "ar": "هل لديكم طاولات في الخارج؟"},
+    {"en": "We are celebrating my birthday tonight.", "ar": "نحن نحتفل بعيد ميلادي الليلة."},
+    {"en": "Can you add two more guests to the booking?", "ar": "هل يمكنك إضافة ضيفين اثنين إلى الحجز؟"},
+    {"en": "Here is the menu while you wait.", "ar": "تفضل قائمة الطعام أثناء انتظارك."},
+    {"en": "Half the restaurant is already full.", "ar": "نصف المطعم ممتلئ بالفعل."},
+    {"en": "We are waiting for one more guest.", "ar": "نحن ننتظر ضيفًا آخر."},
+    {"en": "See you tomorrow at seven.", "ar": "نراك غدًا في السابعة."},
+    {"en": "My phone number is on the booking.", "ar": "رقم هاتفي مدوَّن في الحجز."},
+    {"en": "The waiter met us at the door.", "ar": "استقبلنا النادل عند الباب."},
+    {"en": "We arrived a little early.", "ar": "وصلنا مبكرين قليلًا."},
+    {"en": "Our table is not ready yet.", "ar": "طاولتنا غير جاهزة بعد."},
+    {"en": "Do you have a chair for the baby?", "ar": "هل لديكم كرسي للطفل؟"},
+    {"en": "Thank you for calling our restaurant.", "ar": "شكرًا لاتصالك بمطعمنا."},
+    {"en": "The reservation is confirmed for six people.", "ar": "تم تأكيد الحجز لستة أشخاص."},
+    {"en": "We will take the table near the door.", "ar": "سنأخذ الطاولة قرب الباب."},
+    {"en": "Let's make it eight o'clock instead.", "ar": "لنجعله في الثامنة بدلًا من ذلك."},
+    {"en": "Do I need to pay in advance?", "ar": "هل أحتاج إلى الدفع مسبقًا؟"},
+    {"en": "Enjoy your meal this evening.", "ar": "استمتع بوجبتك هذا المساء."}
+  ],
+  "fb": [
+    {"display": "I would like to ___ a table for tonight.", "blank": "book", "en": "I would like to book a table for tonight.", "ar": "أريد حجز طاولة لهذه الليلة."},
+    {"display": "Is any table ___ at seven?", "blank": "available", "en": "Is any table available at seven?", "ar": "هل تتوفر أي طاولة في السابعة؟"},
+    {"display": "Please ___ your reservation by phone.", "blank": "confirm", "en": "Please confirm your reservation by phone.", "ar": "من فضلك أكد حجزك عبر الهاتف."},
+    {"display": "I need to ___ my booking for Monday.", "blank": "cancel", "en": "I need to cancel my booking for Monday.", "ar": "أحتاج إلى إلغاء حجزي ليوم الاثنين."},
+    {"display": "How many people are in your ___?", "blank": "party", "en": "How many people are in your party?", "ar": "كم عدد الأشخاص في مجموعتك؟"},
+    {"display": "We'd like a table ___ the window.", "blank": "by", "en": "We'd like a table by the window.", "ar": "نريد طاولة قرب النافذة."}
+  ],
+  "wo": [
+    {"en": "A table for two, please.", "ar": "طاولة لشخصين من فضلك."},
+    {"en": "Can I change my reservation?", "ar": "هل يمكنني تغيير حجزي؟"},
+    {"en": "The table is ready now.", "ar": "الطاولة جاهزة الآن."},
+    {"en": "We want to book a table.", "ar": "نريد حجز طاولة."}
+  ],
+  "mc": [
+    {"question": "What does 'available' mean?", "options": ["متاح", "محجوز", "مغلق"], "answerIndex": 0, "ar": "ما معنى كلمة available؟"},
+    {"question": "Which sentence is the most polite?", "options": ["Give me a table.", "I would like to book a table.", "I want a table now."], "answerIndex": 1, "ar": "أي جملة هي الأكثر تهذيبًا؟"},
+    {"question": "In a restaurant, what is your 'party'?", "options": ["the group of people eating together", "the bill", "the menu"], "answerIndex": 0, "ar": "ما معنى كلمة party في المطعم؟"}
+  ]
+}

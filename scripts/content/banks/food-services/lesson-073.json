@@ -1,0 +1,348 @@
+{
+  "id": "lesson-073",
+  "objectives": [
+    "Ask for and check the bill politely",
+    "Choose how to pay and ask about cards and cash",
+    "Talk about tipping and splitting the bill"
+  ],
+  "grammar": {
+    "explanation": "When paying, ask questions with \"How much ...?\" for money: \"How much is the bill?\". Use \"How many ...?\" for countable things, like people: \"How many people?\". Offer to pay with \"I'll pay\" or \"Let me pay this time\", and use \"by card\" or \"in cash\" to say the payment method.",
+    "explanationAr": "عند الدفع اسأل عن المال بصيغة How much مثل: How much is the bill؟ واستخدم How many للأشياء المعدودة كالأشخاص مثل: How many people؟ واعرض الدفع بقول I'll pay أو Let me pay this time، وحدد طريقة الدفع بـ by card أو in cash.",
+    "examples": [
+      {
+        "en": "How much is the bill?",
+        "ar": "بكم الحساب؟"
+      },
+      {
+        "en": "Can I pay by card?",
+        "ar": "هل يمكنني الدفع بالبطاقة؟"
+      },
+      {
+        "en": "Let me pay this time.",
+        "ar": "دعني أدفع هذه المرة."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "bill",
+      "meaningAr": "فاتورة / الحساب",
+      "example": "Please bring the bill soon."
+    },
+    {
+      "word": "tip",
+      "meaningAr": "إكرامية",
+      "example": "She gave the waiter a tip."
+    },
+    {
+      "word": "receipt",
+      "meaningAr": "إيصال",
+      "example": "Keep your receipt safe."
+    },
+    {
+      "word": "cash",
+      "meaningAr": "نقد",
+      "example": "I have fifty dollars in cash."
+    },
+    {
+      "word": "card",
+      "meaningAr": "بطاقة (دفع)",
+      "example": "I pay with my card."
+    },
+    {
+      "word": "change",
+      "meaningAr": "الباقي (من النقود)",
+      "example": "Count your change, please."
+    },
+    {
+      "word": "pay",
+      "meaningAr": "يدفع",
+      "example": "It is my turn to pay."
+    },
+    {
+      "word": "include",
+      "meaningAr": "يشمل",
+      "example": "Does the price include drinks?"
+    },
+    {
+      "word": "total",
+      "meaningAr": "المجموع",
+      "example": "The total is thirty dollars."
+    },
+    {
+      "word": "split",
+      "meaningAr": "يقسّم",
+      "example": "We can split the cost."
+    },
+    {
+      "word": "free",
+      "meaningAr": "مجاني",
+      "example": "Bread is free at this café."
+    },
+    {
+      "word": "service",
+      "meaningAr": "خدمة",
+      "example": "The service here is fast."
+    }
+  ],
+  "lt": [
+    {
+      "en": "Could I have the bill, please?",
+      "alt": "May I have the bill, please?",
+      "ar": "هل يمكنني الحصول على الحساب من فضلك؟"
+    },
+    {
+      "en": "Can we pay by card?",
+      "ar": "هل يمكننا الدفع بالبطاقة؟"
+    },
+    {
+      "en": "I will pay in cash.",
+      "ar": "سأدفع نقدًا."
+    },
+    {
+      "en": "How much is the bill?",
+      "ar": "بكم الحساب؟"
+    },
+    {
+      "en": "Keep the change, please.",
+      "ar": "احتفظ بالباقي، من فضلك."
+    },
+    {
+      "en": "The service was excellent tonight.",
+      "ar": "كانت الخدمة ممتازة الليلة."
+    },
+    {
+      "en": "Let's split the bill three ways.",
+      "ar": "دعونا نقسم الحساب على ثلاثة أشخاص."
+    },
+    {
+      "en": "Is the service included?",
+      "ar": "هل الخدمة مشمولة؟"
+    },
+    {
+      "en": "Can I get a receipt, please?",
+      "ar": "هل يمكنني الحصول على إيصال من فضلك؟"
+    },
+    {
+      "en": "The total is twenty dollars.",
+      "ar": "المجموع هو عشرون دولارًا."
+    },
+    {
+      "en": "I'll pay this time, my treat.",
+      "alt": "I will pay this time, my treat.",
+      "ar": "سأدفع هذه المرة، الدعوة عليّ."
+    },
+    {
+      "en": "Do you accept credit cards?",
+      "ar": "هل تقبلون بطاقات الائتمان؟"
+    },
+    {
+      "en": "There is a mistake in the bill.",
+      "ar": "هناك خطأ في الحساب."
+    },
+    {
+      "en": "Please check the bill again.",
+      "ar": "من فضلك تحقق من الحساب مرة أخرى."
+    },
+    {
+      "en": "We ordered two pizzas, not three.",
+      "ar": "طلبنا بيتزتين، وليس ثلاثًا."
+    },
+    {
+      "en": "How much is the tip here?",
+      "ar": "كم مقدار الإكرامية هنا؟"
+    },
+    {
+      "en": "In this country, we leave about ten percent.",
+      "ar": "في هذا البلد نترك نحو عشرة بالمئة."
+    },
+    {
+      "en": "The tip is not obligatory.",
+      "ar": "الإكرامية ليست إجبارية."
+    },
+    {
+      "en": "You don't need to tip in a coffee shop.",
+      "ar": "لا تحتاج إلى إعطاء إكرامية في مقهى."
+    },
+    {
+      "en": "This ten dollars is for you.",
+      "ar": "هذه العشرة دولارات لك."
+    },
+    {
+      "en": "The meal was delicious, thank you.",
+      "ar": "كانت الوجبة لذيذة، شكرًا لك."
+    },
+    {
+      "en": "Can I pay at the table?",
+      "ar": "هل يمكنني الدفع على الطاولة؟"
+    },
+    {
+      "en": "We would like to pay now.",
+      "ar": "نريد أن ندفع الآن."
+    },
+    {
+      "en": "My card does not work.",
+      "ar": "بطاقتي لا تعمل."
+    },
+    {
+      "en": "Do you have an ATM nearby?",
+      "ar": "هل يوجد صراف آلي قريب؟"
+    },
+    {
+      "en": "The bill is wrong, it is too high.",
+      "ar": "الحساب خاطئ، إنه مرتفع جدًا."
+    },
+    {
+      "en": "Let me see the bill again, please.",
+      "ar": "دعني أرى الحساب مرة أخرى، من فضلك."
+    },
+    {
+      "en": "We pay separately, please.",
+      "ar": "ندفع منفصلين، من فضلك."
+    },
+    {
+      "en": "Is the water free in this restaurant?",
+      "ar": "هل الماء مجاني في هذا المطعم؟"
+    },
+    {
+      "en": "The coffee is on the house.",
+      "ar": "القهوة على حساب المطعم."
+    },
+    {
+      "en": "Your change is five dollars.",
+      "ar": "الباقي خمسة دولارات."
+    },
+    {
+      "en": "I paid yesterday, remember?",
+      "ar": "لقد دفعت أمس، أتذكر؟"
+    },
+    {
+      "en": "Does the bill include the drinks?",
+      "ar": "هل يشمل الحساب المشروبات؟"
+    },
+    {
+      "en": "Please bring the bill when we finish.",
+      "ar": "من فضلك أحضر الحساب عندما ننتهي."
+    },
+    {
+      "en": "We are in a hurry, the bill please.",
+      "ar": "نحن على عجلة، الحساب من فضلك."
+    },
+    {
+      "en": "The waiter deserves a good tip.",
+      "ar": "النادل يستحق إكرامية جيدة."
+    },
+    {
+      "en": "She left a generous tip.",
+      "ar": "تركت إكرامية سخية."
+    },
+    {
+      "en": "How do we pay, at the counter or here?",
+      "ar": "كيف ندفع، عند الصندوق أم هنا؟"
+    },
+    {
+      "en": "The restaurant accepts cash only.",
+      "ar": "المطعم يقبل النقد فقط."
+    },
+    {
+      "en": "Sorry, I have no cash today.",
+      "ar": "آسف، ليس معي نقود اليوم."
+    },
+    {
+      "en": "This meal is my gift to you.",
+      "ar": "هذه الوجبة هدية مني لك."
+    },
+    {
+      "en": "Thank you for the wonderful service.",
+      "ar": "شكرًا لكم على الخدمة الرائعة."
+    }
+  ],
+  "fb": [
+    {
+      "display": "I always pay by ___.",
+      "blank": "card",
+      "en": "I always pay by card.",
+      "ar": "أدفع دائمًا بالبطاقة."
+    },
+    {
+      "display": "Please keep the ___.",
+      "blank": "change",
+      "en": "Please keep the change.",
+      "ar": "من فضلك احتفظ بالباقي."
+    },
+    {
+      "display": "Do you want the ___?",
+      "blank": "receipt",
+      "en": "Do you want the receipt?",
+      "ar": "هل تريد الإيصال؟"
+    },
+    {
+      "display": "Let's ___ the bill between us.",
+      "blank": "split",
+      "en": "Let's split the bill between us.",
+      "ar": "دعونا نقسم الحساب بيننا."
+    },
+    {
+      "display": "How much is the ___, waiter?",
+      "blank": "bill",
+      "en": "How much is the bill, waiter?",
+      "ar": "بكم الحساب يا نادل؟"
+    },
+    {
+      "display": "Is the service ___ in the price?",
+      "blank": "included",
+      "en": "Is the service included in the price?",
+      "ar": "هل الخدمة مشمولة في السعر؟"
+    }
+  ],
+  "wo": [
+    {
+      "en": "Can we split the bill?",
+      "ar": "هل يمكننا تقسيم الحساب؟"
+    },
+    {
+      "en": "Can I pay here?",
+      "ar": "هل يمكنني الدفع هنا؟"
+    },
+    {
+      "en": "We had a great dinner.",
+      "ar": "تناولنا عشاء رائعًا."
+    },
+    {
+      "en": "Here is your receipt.",
+      "ar": "هذا إيصالك."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'tip' mean?",
+      "options": [
+        "الفاتورة",
+        "إكرامية إضافية",
+        "الطبق الرئيسي"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة tip؟"
+    },
+    {
+      "question": "Which question asks about the price correctly?",
+      "options": [
+        "How many is the bill?",
+        "How much is the bill?",
+        "How long is the bill?"
+      ],
+      "answerIndex": 1,
+      "ar": "أي سؤال يسأل عن السعر بشكل صحيح؟"
+    },
+    {
+      "question": "What does 'Let's split the bill' mean?",
+      "options": [
+        "We share the cost together.",
+        "We cook the food at home.",
+        "We leave without paying."
+      ],
+      "answerIndex": 0,
+      "ar": "ماذا تعني عبارة Let's split the bill؟"
+    }
+  ]
+}

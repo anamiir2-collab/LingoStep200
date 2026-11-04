@@ -1,0 +1,348 @@
+{
+  "id": "lesson-091",
+  "objectives": [
+    "Join a gym and ask about membership plans",
+    "Talk about training routines and schedules",
+    "Use frequency adverbs like always, usually and never"
+  ],
+  "grammar": {
+    "explanation": "Use the present simple with frequency adverbs to describe routines: 'She never misses a workout.' 'I always bring my own towel.' The adverb goes before the main verb. Ask about frequency with 'How often…?': 'How often do you go to the gym?'",
+    "explanationAr": "نستخدم المضارع البسيط مع ظروف التكرار لوصف العادات، مثل: لا تفوت تمرينًا أبدًا. ويأتي ظرف التكرار قبل الفعل الرئيسي. ولسؤال عن التكرار نقول: كم مرة تذهب إلى الصالة الرياضية؟",
+    "examples": [
+      {
+        "en": "She never misses a workout.",
+        "ar": "لا تفوت تمرينًا أبدًا."
+      },
+      {
+        "en": "How often do you go to the gym?",
+        "ar": "كم مرة تذهب إلى الصالة الرياضية؟"
+      },
+      {
+        "en": "I always warm up first.",
+        "ar": "أقوم دائمًا بتمارين الإحماء أولاً."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "membership",
+      "meaningAr": "عضوية",
+      "example": "My membership starts today."
+    },
+    {
+      "word": "gym",
+      "meaningAr": "صالة رياضية",
+      "example": "The gym is open until ten."
+    },
+    {
+      "word": "trainer",
+      "meaningAr": "مدرب",
+      "example": "The trainer is very patient."
+    },
+    {
+      "word": "equipment",
+      "meaningAr": "معدات",
+      "example": "The gym has modern equipment."
+    },
+    {
+      "word": "schedule",
+      "meaningAr": "جدول",
+      "example": "Check the schedule online."
+    },
+    {
+      "word": "locker",
+      "meaningAr": "خزانة",
+      "example": "I keep my bag in a locker."
+    },
+    {
+      "word": "treadmill",
+      "meaningAr": "جهاز سير",
+      "example": "I run on the treadmill for twenty minutes."
+    },
+    {
+      "word": "weights",
+      "meaningAr": "أثقال",
+      "example": "He lifts weights on Mondays."
+    },
+    {
+      "word": "class",
+      "meaningAr": "حصة",
+      "example": "There is a spin class at noon."
+    },
+    {
+      "word": "join",
+      "meaningAr": "ينضم",
+      "example": "She wants to join a class."
+    },
+    {
+      "word": "cancel",
+      "meaningAr": "يلغي",
+      "example": "Don't cancel before the year ends."
+    },
+    {
+      "word": "workout",
+      "meaningAr": "تمرين",
+      "example": "That was a hard workout."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I want to join the gym.",
+      "ar": "أريد الانضمام إلى الصالة الرياضية."
+    },
+    {
+      "en": "How much is a monthly membership?",
+      "ar": "كم تبلغ تكلفة العضوية الشهرية؟"
+    },
+    {
+      "en": "Is there a joining fee?",
+      "ar": "هل توجد رسوم انضمام؟"
+    },
+    {
+      "en": "Can I try one free session?",
+      "ar": "هل يمكنني تجربة حصة مجانية؟"
+    },
+    {
+      "en": "The gym opens at six in the morning.",
+      "ar": "تفتح الصالة الرياضية في السادسة صباحًا."
+    },
+    {
+      "en": "I usually train after work.",
+      "ar": "أتدرب عادةً بعد العمل."
+    },
+    {
+      "en": "How often do you come here?",
+      "ar": "كم مرة تأتي إلى هنا؟"
+    },
+    {
+      "en": "I come three times a week.",
+      "ar": "آتي ثلاث مرات في الأسبوع."
+    },
+    {
+      "en": "Do you offer student discounts?",
+      "ar": "هل تقدمون خصمًا للطلاب؟"
+    },
+    {
+      "en": "The trainer showed me the equipment.",
+      "ar": "عرّفني المدرب على المعدات."
+    },
+    {
+      "en": "Can I book a personal trainer?",
+      "ar": "هل يمكنني حجز مدرب شخصي؟"
+    },
+    {
+      "en": "The yoga class starts at six.",
+      "ar": "تبدأ حصة اليوغا في السادسة."
+    },
+    {
+      "en": "Where are the lockers?",
+      "ar": "أين الخزائن؟"
+    },
+    {
+      "en": "Your locker is number twelve.",
+      "ar": "خزانتك رقم اثنا عشر."
+    },
+    {
+      "en": "I always bring my own towel.",
+      "ar": "أحضر منشفتي الخاصة دائمًا."
+    },
+    {
+      "en": "The treadmill is free now.",
+      "ar": "جهاز السير متاح الآن."
+    },
+    {
+      "en": "Please clean the equipment after use.",
+      "ar": "من فضلك نظّف المعدات بعد الاستخدام."
+    },
+    {
+      "en": "I never miss my morning workout.",
+      "ar": "لا أفوت تمريني الصباحي أبدًا."
+    },
+    {
+      "en": "She lifts weights twice a week.",
+      "ar": "ترفع الأثقال مرتين في الأسبوع."
+    },
+    {
+      "en": "Is the pool included in the membership?",
+      "ar": "هل المسبح مشمول في العضوية؟"
+    },
+    {
+      "en": "Can I cancel my membership anytime?",
+      "ar": "هل يمكنني إلغاء عضويتي في أي وقت؟"
+    },
+    {
+      "en": "You can freeze your membership for a month.",
+      "ar": "يمكنك تجميد عضويتك لمدة شهر."
+    },
+    {
+      "en": "What are the busy hours?",
+      "ar": "ما هي ساعات الذروة؟"
+    },
+    {
+      "en": "It is usually quiet in the morning.",
+      "ar": "تكون الصالة هادئة في الصباح عادةً."
+    },
+    {
+      "en": "Do I need to sign a contract?",
+      "ar": "هل يجب أن أوقّع عقدًا؟"
+    },
+    {
+      "en": "The pool closes at ten at night.",
+      "ar": "يُغلق مسبح الصالة في العاشرة ليلاً."
+    },
+    {
+      "en": "I'd like to pay monthly.",
+      "alt": "I would like to pay monthly.",
+      "ar": "أودّ الدفع شهريًا."
+    },
+    {
+      "en": "Is there a parking lot?",
+      "ar": "هل يوجد موقف للسيارات؟"
+    },
+    {
+      "en": "The changing rooms are downstairs.",
+      "ar": "غرف تبديل الملابس في الطابق السفلي."
+    },
+    {
+      "en": "Can I bring a guest?",
+      "ar": "هل يمكنني إحضار ضيف؟"
+    },
+    {
+      "en": "Guests pay a small fee.",
+      "ar": "يدفع الضيوف رسمًا بسيطًا."
+    },
+    {
+      "en": "My membership expires in June.",
+      "ar": "تنتهي عضويتي في يونيو."
+    },
+    {
+      "en": "How do I renew my membership?",
+      "ar": "كيف أجدد عضويتي؟"
+    },
+    {
+      "en": "The schedule is on the website.",
+      "ar": "الجدول موجود على الموقع الإلكتروني."
+    },
+    {
+      "en": "I sometimes take a spin class.",
+      "ar": "أحضر أحيانًا إلى حصة الدراجات."
+    },
+    {
+      "en": "This machine is out of order.",
+      "ar": "هذا الجهاز معطل."
+    },
+    {
+      "en": "Drink water before and after training.",
+      "ar": "اشرب الماء قبل التدريب وبعده."
+    },
+    {
+      "en": "Stretch before you start.",
+      "alt": "Stretch before you begin.",
+      "ar": "قم بتمارين التمدد قبل البدء."
+    },
+    {
+      "en": "I don't like crowded gyms.",
+      "ar": "لا أحب الصالات الرياضية المزدحمة."
+    },
+    {
+      "en": "The new equipment arrives next week.",
+      "ar": "تصل المعدات الجديدة الأسبوع القادم."
+    },
+    {
+      "en": "Why did you choose this gym?",
+      "ar": "لماذا اخترت هذه الصالة الرياضية؟"
+    },
+    {
+      "en": "The staff are friendly and helpful.",
+      "ar": "الموظفون ودودون ومتعاونون."
+    }
+  ],
+  "fb": [
+    {
+      "display": "I want to ___ the gym near my house.",
+      "blank": "join",
+      "en": "I want to join the gym near my house.",
+      "ar": "أريد الانضمام إلى الصالة الرياضية قرب بيتي."
+    },
+    {
+      "display": "How much is the monthly ___?",
+      "blank": "membership",
+      "en": "How much is the monthly membership?",
+      "ar": "كم تبلغ تكلفة العضوية الشهرية؟"
+    },
+    {
+      "display": "Do I need to ___ a class first?",
+      "blank": "book",
+      "en": "Do I need to book a class first?",
+      "ar": "هل يجب أن أحجز حصة أولاً؟"
+    },
+    {
+      "display": "The ___ showed me how to use the machines.",
+      "blank": "trainer",
+      "en": "The trainer showed me how to use the machines.",
+      "ar": "أوضح لي المدرب كيفية استخدام الأجهزة."
+    },
+    {
+      "display": "Please ___ the equipment after use.",
+      "blank": "wipe",
+      "en": "Please wipe the equipment after use.",
+      "ar": "من فضلك امسح المعدات بعد الاستخدام."
+    },
+    {
+      "display": "I need to ___ my membership.",
+      "blank": "cancel",
+      "en": "I need to cancel my membership.",
+      "ar": "أحتاج إلى إلغاء عضويتي."
+    }
+  ],
+  "wo": [
+    {
+      "en": "How often do you train?",
+      "ar": "كم مرة تتدرب؟"
+    },
+    {
+      "en": "Where can I leave my bag?",
+      "ar": "أين يمكنني ترك حقيبتي؟"
+    },
+    {
+      "en": "The gym is very clean.",
+      "ar": "الصالة الرياضية نظيفة جدًا."
+    },
+    {
+      "en": "I go to the gym on Saturdays.",
+      "ar": "أذهب إلى الصالة الرياضية أيام السبت."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'membership' mean?",
+      "options": [
+        "عضوية",
+        "مدرب",
+        "جدول"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى كلمة membership؟"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "I go always to the gym.",
+        "I always go to the gym.",
+        "Always I go to the gym."
+      ],
+      "answerIndex": 1,
+      "ar": "أي جملة تستخدم ظرف التكرار بشكل صحيح؟"
+    },
+    {
+      "question": "Where do you keep your bag at the gym?",
+      "options": [
+        "In a locker",
+        "On the treadmill",
+        "In the pool"
+      ],
+      "answerIndex": 0,
+      "ar": "أين تحتفظ بحقيبتك في الصالة الرياضية؟"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "lesson-082",
+  "objectives": [
+    "Describe the haircut or trim you want",
+    "Book and change a salon appointment",
+    "Use would like for polite requests"
+  ],
+  "grammar": {
+    "explanation": "'Would like' is the polite way to say 'want' at a salon or barbershop. Say 'I would like a trim' to ask for a service, or 'Would you like a wash?' to offer one. In everyday speech, 'I would' often becomes 'I'd'.",
+    "explanationAr": "تُستخدم would like للتعبير عن الرغبة بلطف في الصالون أو عند الحلاق: I would like a trim أي أريد تشذيبًا، و Would you like a wash? لتقديم خدمة. وفي الكلام اليومي تُختصر I would غالبًا إلى I'd.",
+    "examples": [
+      {
+        "en": "I would like to make an appointment.",
+        "ar": "أريد تحديد موعد."
+      },
+      {
+        "en": "I'd like it short on the sides.",
+        "ar": "أريده قصيرًا من الجوانب."
+      },
+      {
+        "en": "Would you like to wait here?",
+        "ar": "هل تريد الانتظار هنا؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "barber",
+      "meaningAr": "حلاق",
+      "example": "My barber works on the main street."
+    },
+    {
+      "word": "salon",
+      "meaningAr": "صالون حلاقة",
+      "example": "The new salon is near my house."
+    },
+    {
+      "word": "haircut",
+      "meaningAr": "قصة شعر",
+      "example": "I need a haircut this week."
+    },
+    {
+      "word": "trim",
+      "meaningAr": "تشذيب (قصّ بسيط)",
+      "example": "The trim takes ten minutes."
+    },
+    {
+      "word": "beard",
+      "meaningAr": "لحية",
+      "example": "His beard is short and clean."
+    },
+    {
+      "word": "moustache",
+      "meaningAr": "شارب",
+      "example": "He trims his moustache carefully."
+    },
+    {
+      "word": "appointment",
+      "meaningAr": "موعد",
+      "example": "I booked an appointment online."
+    },
+    {
+      "word": "shave",
+      "meaningAr": "حلاقة الذقن",
+      "example": "Do you want a shave today?"
+    },
+    {
+      "word": "shampoo",
+      "meaningAr": "شامبو",
+      "example": "Use this shampoo twice a week."
+    },
+    {
+      "word": "scissors",
+      "meaningAr": "مقص",
+      "example": "The scissors are very sharp."
+    },
+    {
+      "word": "style",
+      "meaningAr": "تسريحة",
+      "example": "I like this style."
+    },
+    {
+      "word": "length",
+      "meaningAr": "طول",
+      "example": "The length is perfect now."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I would like a haircut, please.",
+      "ar": "أريد قص شعري من فضلك."
+    },
+    {
+      "en": "I would like a short haircut, please.",
+      "ar": "أريد قصة شعر قصيرة، من فضلك.",
+      "alt": "I'd like a short haircut, please."
+    },
+    {
+      "en": "Just a small trim, please.",
+      "ar": "تشذيب بسيط فقط، من فضلك."
+    },
+    {
+      "en": "How short do you want it?",
+      "ar": "إلى أي درجة تريده قصيرًا؟"
+    },
+    {
+      "en": "Keep the same length, please.",
+      "ar": "أبقِ الطول نفسه، من فضلك."
+    },
+    {
+      "en": "Take a little off the top.",
+      "ar": "قصّ قليلًا من الأعلى."
+    },
+    {
+      "en": "Please trim my beard too.",
+      "ar": "من فضلك شذّب لحيتي أيضًا."
+    },
+    {
+      "en": "Do you also want a shave?",
+      "ar": "هل تريد حلاقة للذقن أيضًا؟"
+    },
+    {
+      "en": "Would you like a wash first?",
+      "ar": "هل تريد غسل شعرك أولًا؟"
+    },
+    {
+      "en": "Yes, a wash with warm water.",
+      "ar": "نعم، غسلة بماء فاتر."
+    },
+    {
+      "en": "The water is too hot.",
+      "ar": "الماء ساخن جدًا."
+    },
+    {
+      "en": "Can you cut it shorter in front?",
+      "ar": "هل يمكنك تقصيره من الأمام أكثر؟"
+    },
+    {
+      "en": "Do not cut too much.",
+      "ar": "لا تقص كثيرًا.",
+      "alt": "Don't cut too much."
+    },
+    {
+      "en": "I do not want it very short.",
+      "ar": "لا أريده قصيرًا جدًا."
+    },
+    {
+      "en": "How much does a haircut cost?",
+      "ar": "كم تكلفة قصة الشعر؟"
+    },
+    {
+      "en": "A haircut costs fifteen dollars.",
+      "ar": "قصة الشعر بخمسة عشر دولارًا."
+    },
+    {
+      "en": "Can I come without an appointment?",
+      "ar": "هل يمكنني المجيء بدون موعد؟"
+    },
+    {
+      "en": "I need a haircut before the wedding.",
+      "ar": "أحتاج قصة شعر قبل حفل الزفاف."
+    },
+    {
+      "en": "My hair grows fast.",
+      "ar": "شعري ينمو بسرعة."
+    },
+    {
+      "en": "I come here every three weeks.",
+      "ar": "آتي إلى هنا كل ثلاثة أسابيع."
+    },
+    {
+      "en": "The barber is quick and careful.",
+      "ar": "الحلاق سريع ودقيق."
+    },
+    {
+      "en": "Is it my turn?",
+      "ar": "هل حان دوري؟"
+    },
+    {
+      "en": "Please sit here and wait.",
+      "ar": "من فضلك اجلس هنا وانتظر."
+    },
+    {
+      "en": "My hair is very dry.",
+      "ar": "شعري جاف جدًا."
+    },
+    {
+      "en": "Can you wash it with this shampoo?",
+      "ar": "هل يمكنك غسله بهذا الشامبو؟"
+    },
+    {
+      "en": "This shampoo smells good.",
+      "ar": "رائحة هذا الشامبو جيدة."
+    },
+    {
+      "en": "Be careful with the scissors.",
+      "ar": "كن حذرًا مع المقص."
+    },
+    {
+      "en": "Look in the mirror, please.",
+      "ar": "انظر إلى المرآة، من فضلك."
+    },
+    {
+      "en": "Is this the right style for me?",
+      "ar": "هل هذه التسريحة مناسبة لي؟"
+    },
+    {
+      "en": "I want a new style for summer.",
+      "ar": "أريد تسريحة جديدة للصيف."
+    },
+    {
+      "en": "My son is here for a haircut too.",
+      "ar": "ابني هنا لقصة شعر أيضًا."
+    },
+    {
+      "en": "He trims his moustache every week.",
+      "ar": "يشذّب شاربه كل أسبوع."
+    },
+    {
+      "en": "Cut carefully around my ears.",
+      "ar": "اقص بحذر حول أذنيّ."
+    },
+    {
+      "en": "Shorter on the sides, please.",
+      "ar": "أقصر من الجوانب، من فضلك."
+    },
+    {
+      "en": "I am growing my hair long.",
+      "ar": "أنا أُطيل شعري."
+    },
+    {
+      "en": "I have a photo of the style I want.",
+      "ar": "عندي صورة للتسريحة التي أريدها."
+    },
+    {
+      "en": "Great, show me the photo.",
+      "ar": "جيد، أرني الصورة."
+    },
+    {
+      "en": "Should I book another appointment?",
+      "ar": "هل ينبغي أن أحجز موعدًا آخر؟"
+    },
+    {
+      "en": "Can we change my appointment to Friday?",
+      "ar": "هل يمكن تغيير موعدي إلى الجمعة؟"
+    },
+    {
+      "en": "The salon is busy on Saturdays.",
+      "ar": "الصالون مزدحم أيام السبت."
+    },
+    {
+      "en": "Thank you, it looks great.",
+      "ar": "شكرًا، يبدو رائعًا."
+    },
+    {
+      "en": "I always feel good after a haircut.",
+      "ar": "أشعر دائمًا بالرضا بعد قصة الشعر."
+    }
+  ],
+  "fb": [
+    {
+      "display": "I would like to ___ an appointment.",
+      "blank": "book",
+      "en": "I would like to book an appointment.",
+      "ar": "أريد أن أحجز موعدًا."
+    },
+    {
+      "display": "How ___ is a haircut here?",
+      "blank": "much",
+      "en": "How much is a haircut here?",
+      "ar": "بكم قصة الشعر هنا؟"
+    },
+    {
+      "display": "Do you want a ___ too?",
+      "blank": "shave",
+      "en": "Do you want a shave too?",
+      "ar": "هل تريد حلاقة أيضًا؟"
+    },
+    {
+      "display": "Keep the same ___.",
+      "blank": "length",
+      "en": "Keep the same length.",
+      "ar": "أبقِ الطول نفسه."
+    },
+    {
+      "display": "My beard is too ___.",
+      "blank": "long",
+      "en": "My beard is too long.",
+      "ar": "لحيتي طويلة جدًا."
+    },
+    {
+      "display": "The ___ knows my style.",
+      "blank": "barber",
+      "en": "The barber knows my style.",
+      "ar": "الحلاق يعرف أسلوبي."
+    }
+  ],
+  "wo": [
+    {
+      "en": "I need a haircut today.",
+      "ar": "أحتاج قصة شعر اليوم."
+    },
+    {
+      "en": "Can you trim my beard?",
+      "ar": "هل يمكنك تشذيب لحيتي؟"
+    },
+    {
+      "en": "The salon opens at ten o'clock.",
+      "ar": "يفتح الصالون في العاشرة."
+    },
+    {
+      "en": "Please cut it very short.",
+      "ar": "من فضلك اقصه قصيرًا جدًا."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'barber' mean?",
+      "options": [
+        "الحلاق",
+        "الطبيب",
+        "السائق"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى كلمة barber؟"
+    },
+    {
+      "question": "Choose the polite sentence.",
+      "options": [
+        "I would like a trim.",
+        "I want trim.",
+        "I am liking a trim."
+      ],
+      "answerIndex": 0,
+      "ar": "اختر الجملة المهذبة."
+    },
+    {
+      "question": "What does 'appointment' mean?",
+      "options": [
+        "موعد",
+        "مقص",
+        "مرآة"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى كلمة appointment؟"
+    }
+  ]
+}

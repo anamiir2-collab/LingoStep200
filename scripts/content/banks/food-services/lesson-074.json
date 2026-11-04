@@ -1,0 +1,348 @@
+{
+  "id": "lesson-074",
+  "objectives": [
+    "Shop for groceries and ask about prices",
+    "Use countable and uncountable nouns when shopping",
+    "Ask for help and locate items in a store"
+  ],
+  "grammar": {
+    "explanation": "Use 'much' with uncountable food like rice, milk, and water. Use 'many' with countable food like eggs, apples, and bottles. We often put uncountable food into units when we shop: a bag of rice, a bottle of water, a box of eggs.",
+    "explanationAr": "نستخدم كلمة much مع الأسماء غير المعدودة مثل الأرز والحليب والماء، ونستخدم كلمة many مع الأسماء المعدودة مثل البيض والتفاح والزجاجات. وعند التسوق نضع الطعام غير المعدود في وحدات مثل: كيس من الأرز، وزجاجة ماء، وعلبة بيض.",
+    "examples": [
+      {
+        "en": "How much rice do you want?",
+        "ar": "كم من الأرز تريد؟"
+      },
+      {
+        "en": "How many tomatoes do we need?",
+        "ar": "كم حبة طماطم نحتاج؟"
+      },
+      {
+        "en": "I need a bottle of oil.",
+        "ar": "أحتاج زجاجة زيت."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "cart",
+      "meaningAr": "عربة تسوق",
+      "example": "Push the cart to the checkout."
+    },
+    {
+      "word": "basket",
+      "meaningAr": "سلة صغيرة",
+      "example": "I took a basket instead of a cart."
+    },
+    {
+      "word": "aisle",
+      "meaningAr": "ممر بين الرفوف",
+      "example": "The cereal is in aisle three."
+    },
+    {
+      "word": "shelf",
+      "meaningAr": "رفّ",
+      "example": "The jars are on the middle shelf."
+    },
+    {
+      "word": "checkout",
+      "meaningAr": "نقطة الدفع",
+      "example": "The checkout closes at nine."
+    },
+    {
+      "word": "cashier",
+      "meaningAr": "أمين الصندوق",
+      "example": "The cashier was very helpful."
+    },
+    {
+      "word": "bag",
+      "meaningAr": "كيس",
+      "example": "Can I have two paper bags, please?"
+    },
+    {
+      "word": "dairy",
+      "meaningAr": "قسم الألبان",
+      "example": "The yogurt is in the dairy section."
+    },
+    {
+      "word": "frozen",
+      "meaningAr": "مجمَّد",
+      "example": "I bought a frozen pizza."
+    },
+    {
+      "word": "fresh",
+      "meaningAr": "طازج",
+      "example": "This fish is very fresh."
+    },
+    {
+      "word": "price",
+      "meaningAr": "سعر",
+      "example": "The price is on the label."
+    },
+    {
+      "word": "list",
+      "meaningAr": "قائمة",
+      "example": "Check the list before you pay."
+    }
+  ],
+  "lt": [
+    {
+      "en": "Where can I find the milk?",
+      "ar": "أين أجد الحليب؟"
+    },
+    {
+      "en": "The milk is in aisle five.",
+      "ar": "الحليب في الممر الخامس."
+    },
+    {
+      "en": "How much is this bread?",
+      "ar": "كم سعر هذا الخبز؟"
+    },
+    {
+      "en": "Do you have fresh eggs today?",
+      "ar": "هل لديكم بيض طازج اليوم؟"
+    },
+    {
+      "en": "I need two bottles of cooking oil.",
+      "ar": "أحتاج زجاجتين من زيت الطهي."
+    },
+    {
+      "en": "We need two bottles of water.",
+      "ar": "نحتاج زجاجتين من الماء."
+    },
+    {
+      "en": "How many eggs are in the box?",
+      "ar": "كم بيضة في العلبة؟"
+    },
+    {
+      "en": "This cart is too heavy.",
+      "ar": "هذه العربة ثقيلة جدًا."
+    },
+    {
+      "en": "Can I get a smaller basket?",
+      "ar": "هل يمكنني أن آخذ سلة أصغر؟"
+    },
+    {
+      "en": "She doesn't shop on Fridays.",
+      "alt": "She does not shop on Fridays.",
+      "ar": "لا تتسوق أيام الجمعة."
+    },
+    {
+      "en": "She is buying fruit for the week.",
+      "ar": "إنها تشتري الفاكهة للأسبوع."
+    },
+    {
+      "en": "Please put the bags in the cart.",
+      "ar": "من فضلك ضع الأكياس في العربة."
+    },
+    {
+      "en": "Is there a discount on this cheese?",
+      "ar": "هل هناك خصم على هذا الجبن؟"
+    },
+    {
+      "en": "The checkout line is very long.",
+      "ar": "طابور الدفع طويل جدًا."
+    },
+    {
+      "en": "Excuse me, where is the dairy section?",
+      "ar": "عفوًا، أين قسم الألبان؟"
+    },
+    {
+      "en": "How much does this chicken cost?",
+      "ar": "كم يكلِّف هذا الدجاج؟"
+    },
+    {
+      "en": "I always make a shopping list.",
+      "ar": "أعدِّ دائمًا قائمة مشتريات."
+    },
+    {
+      "en": "He forgot to buy the sugar.",
+      "ar": "نسي أن يشتري السكر."
+    },
+    {
+      "en": "This apple looks really fresh.",
+      "ar": "هذه التفاحة تبدو طازجة جدًا."
+    },
+    {
+      "en": "Do you want paper or plastic bags?",
+      "ar": "هل تريد أكياسًا ورقية أم بلاستيكية؟"
+    },
+    {
+      "en": "I can't find the orange juice.",
+      "ar": "لا أستطيع أن أجد عصير البرتقال."
+    },
+    {
+      "en": "The cashier is very friendly.",
+      "ar": "أمين الصندوق ودود جدًا."
+    },
+    {
+      "en": "We buy rice every month.",
+      "ar": "نشتري الأرز كل شهر."
+    },
+    {
+      "en": "There isn't any bread left.",
+      "ar": "لم يتبقَّ أي خبز.",
+      "alt": "There is not any bread left."
+    },
+    {
+      "en": "Could you help me reach the top shelf?",
+      "ar": "هل يمكنك مساعدتي في الوصول إلى الرف العلوي؟"
+    },
+    {
+      "en": "How many bottles of juice do you want?",
+      "ar": "كم زجاجة عصير تريد؟"
+    },
+    {
+      "en": "I put the vegetables in a plastic bag.",
+      "ar": "وضعت الخضار في كيس بلاستيكي."
+    },
+    {
+      "en": "The eggs are next to the butter.",
+      "ar": "البيض بجوار الزبدة."
+    },
+    {
+      "en": "Is this cheese on sale?",
+      "ar": "هل هذا الجبن عليه تخفيض؟"
+    },
+    {
+      "en": "I need a loaf of bread, please.",
+      "ar": "أحتاج رغيفًا من الخبز، من فضلك."
+    },
+    {
+      "en": "She doesn't like frozen food.",
+      "ar": "إنها لا تحب الأطعمة المجمَّدة."
+    },
+    {
+      "en": "Where is the nearest supermarket?",
+      "ar": "أين أقرب سوبر ماركت؟"
+    },
+    {
+      "en": "The store closes at ten tonight.",
+      "ar": "يغلق المتجر أبوابه في العاشرة الليلة."
+    },
+    {
+      "en": "How much is the rice per kilo?",
+      "ar": "كم سعر الأرز للكيلوغرام؟"
+    },
+    {
+      "en": "Let's go to the checkout now.",
+      "ar": "لنذهب إلى نقطة الدفع الآن."
+    },
+    {
+      "en": "Are the bags free here?",
+      "ar": "هل الأكياس مجانية هنا؟"
+    },
+    {
+      "en": "I bought too many snacks this time.",
+      "ar": "اشتريت عددًا كبيرًا جدًا من الوجبات الخفيفة هذه المرة."
+    },
+    {
+      "en": "We don't need more milk today.",
+      "ar": "لا نحتاج مزيدًا من الحليب اليوم."
+    },
+    {
+      "en": "Can you tell me where the frozen food is?",
+      "ar": "هل يمكنك أن تخبرني أين الطعام المجمَّد؟"
+    },
+    {
+      "en": "This yogurt is cheaper than that one.",
+      "ar": "هذا اللبن أرخص من ذاك."
+    },
+    {
+      "en": "Please weigh these tomatoes for me.",
+      "ar": "من فضلك زِن هذه الطماطم لي."
+    },
+    {
+      "en": "Thank you for shopping with us.",
+      "ar": "شكرًا لتسوقكم معنا."
+    }
+  ],
+  "fb": [
+    {
+      "display": "How ___ milk do we need?",
+      "blank": "much",
+      "en": "How much milk do we need?",
+      "ar": "كم حليبًا نحتاج؟"
+    },
+    {
+      "display": "How ___ eggs did you buy?",
+      "blank": "many",
+      "en": "How many eggs did you buy?",
+      "ar": "كم بيضة اشتريت؟"
+    },
+    {
+      "display": "The eggs are ___ the top shelf.",
+      "blank": "on",
+      "en": "The eggs are on the top shelf.",
+      "ar": "البيض على الرف العلوي."
+    },
+    {
+      "display": "Put the fruit in the ___.",
+      "blank": "cart",
+      "en": "Put the fruit in the cart.",
+      "ar": "ضع الفاكهة في العربة."
+    },
+    {
+      "display": "The bread is on the top ___.",
+      "blank": "shelf",
+      "en": "The bread is on the top shelf.",
+      "ar": "الخبز على الرف العلوي."
+    },
+    {
+      "display": "Please pay at the ___.",
+      "blank": "checkout",
+      "en": "Please pay at the checkout.",
+      "ar": "من فضلك ادفع عند نقطة الدفع."
+    }
+  ],
+  "wo": [
+    {
+      "en": "Where is the shopping cart?",
+      "ar": "أين عربة التسوق؟"
+    },
+    {
+      "en": "How much are these grapes?",
+      "ar": "كم سعر هذا العنب؟"
+    },
+    {
+      "en": "This milk is past its expiry date.",
+      "ar": "هذا الحليب تجاوز تاريخ الصلاحية."
+    },
+    {
+      "en": "Can I pay with a card?",
+      "ar": "هل يمكنني الدفع بالبطاقة؟"
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'aisle' mean?",
+      "options": [
+        "عربة التسوق",
+        "ممر بين الرفوف",
+        "قائمة المشتريات"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة aisle؟"
+    },
+    {
+      "question": "Which question is correct for uncountable rice?",
+      "options": [
+        "How much rice do you need?",
+        "How many rice do you need?",
+        "How long rice do you need?"
+      ],
+      "answerIndex": 0,
+      "ar": "أي سؤال صحيح مع كلمة rice غير المعدودة؟"
+    },
+    {
+      "question": "Where do you pay in a supermarket?",
+      "options": [
+        "In the freezer",
+        "On the shelf",
+        "At the checkout"
+      ],
+      "answerIndex": 2,
+      "ar": "أين تدفع في السوبر ماركت؟"
+    }
+  ]
+}

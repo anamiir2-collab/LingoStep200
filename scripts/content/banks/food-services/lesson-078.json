@@ -1,0 +1,348 @@
+{
+  "id": "lesson-078",
+  "objectives": [
+    "Ask for a lower price politely",
+    "Compare prices with comparative adjectives",
+    "Agree on a final price with a seller"
+  ],
+  "grammar": {
+    "explanation": "When you negotiate, you compare prices with comparative adjectives. Add -er to short adjectives: cheap becomes cheaper. Use more before longer adjectives: more expensive. You can also say something is a problem with too: 'That is too expensive.'",
+    "explanationAr": "عند التفاوض نستخدم صيغة المقارنة: نضيف er إلى الصفات القصيرة مثل cheaper، ونضع more قبل الصفات الطويلة مثل more expensive. ونستخدم too قبل الصفة للدلالة على الزيادة عن اللزوم.",
+    "examples": [
+      {
+        "en": "This bag is cheaper than that one.",
+        "ar": "هذه الحقيبة أرخص من تلك."
+      },
+      {
+        "en": "The leather bag is more expensive.",
+        "ar": "الحقيبة الجلدية أغلى."
+      },
+      {
+        "en": "Is the big one more expensive?",
+        "ar": "هل القطعة الكبيرة أغلى؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "price",
+      "meaningAr": "سعر",
+      "example": "What is the price of this rug?"
+    },
+    {
+      "word": "cheap",
+      "meaningAr": "رخيص",
+      "example": "This scarf is very cheap."
+    },
+    {
+      "word": "expensive",
+      "meaningAr": "غالٍ",
+      "example": "That vase is too expensive."
+    },
+    {
+      "word": "discount",
+      "meaningAr": "خصم",
+      "example": "They gave me a ten percent discount."
+    },
+    {
+      "word": "bargain",
+      "meaningAr": "صفقة جيدة",
+      "example": "This table is a real bargain."
+    },
+    {
+      "word": "offer",
+      "meaningAr": "عرض",
+      "example": "Is that your best offer?"
+    },
+    {
+      "word": "deal",
+      "meaningAr": "اتفاق",
+      "example": "We made a deal quickly."
+    },
+    {
+      "word": "sell",
+      "meaningAr": "يبيع",
+      "example": "They sell fruit here."
+    },
+    {
+      "word": "cost",
+      "meaningAr": "يكلف",
+      "example": "How much does it cost?"
+    },
+    {
+      "word": "pay",
+      "meaningAr": "يدفع",
+      "example": "I will pay at the desk."
+    },
+    {
+      "word": "fair",
+      "meaningAr": "عادل",
+      "example": "Ten dollars is a fair price."
+    },
+    {
+      "word": "reduce",
+      "meaningAr": "يخفّض",
+      "example": "Can you reduce the price?"
+    }
+  ],
+  "lt": [
+    {
+      "en": "Is the price open to negotiation?",
+      "ar": "هل السعر قابل للتفاوض؟"
+    },
+    {
+      "en": "He isn't happy with the final price.",
+      "alt": "He is not happy with the final price.",
+      "ar": "هو غير راضٍ عن السعر النهائي."
+    },
+    {
+      "en": "Can you make it cheaper?",
+      "ar": "هل يمكنك أن تجعله أرخص؟"
+    },
+    {
+      "en": "What is your best price?",
+      "ar": "ما هو أفضل سعر لديك؟"
+    },
+    {
+      "en": "I can give you a small discount.",
+      "ar": "يمكنني أن أمنحك خصمًا بسيطًا."
+    },
+    {
+      "en": "Is this the final price?",
+      "ar": "هل هذا هو السعر النهائي؟"
+    },
+    {
+      "en": "We can talk about the price.",
+      "ar": "يمكننا أن نتحدث عن السعر."
+    },
+    {
+      "en": "This one costs twenty dollars.",
+      "ar": "هذا يكلف عشرين دولارًا."
+    },
+    {
+      "en": "I only have fifteen dollars.",
+      "ar": "معي خمسة عشر دولارًا فقط."
+    },
+    {
+      "en": "Could you do it for fifteen?",
+      "ar": "هل توافق على خمسة عشر؟"
+    },
+    {
+      "en": "Okay, fifteen is fine.",
+      "ar": "حسنًا، خمسة عشر مقبولة."
+    },
+    {
+      "en": "You have a deal.",
+      "ar": "اتفقنا إذن."
+    },
+    {
+      "en": "Can I pay half now?",
+      "ar": "هل يمكنني دفع نصف المبلغ الآن؟"
+    },
+    {
+      "en": "Two for ten dollars?",
+      "ar": "اثنان بعشرة دولارات؟"
+    },
+    {
+      "en": "That sounds like a good deal.",
+      "ar": "يبدو هذا صفقة جيدة."
+    },
+    {
+      "en": "It is cheaper at the other shop.",
+      "alt": "It's cheaper at the other shop.",
+      "ar": "إنه أرخص في المتجر الآخر."
+    },
+    {
+      "en": "But our quality is better.",
+      "ar": "لكن جودتنا أفضل."
+    },
+    {
+      "en": "I will give you ten percent off.",
+      "ar": "سأمنحك خصمًا بنسبة عشرة بالمئة."
+    },
+    {
+      "en": "Ten percent is not enough.",
+      "ar": "عشرة بالمئة ليست كافية."
+    },
+    {
+      "en": "Can you add a free gift?",
+      "ar": "هل يمكنك إضافة هدية مجانية؟"
+    },
+    {
+      "en": "You can have this bag for free.",
+      "ar": "يمكنك أن تأخذ هذه الحقيبة مجانًا."
+    },
+    {
+      "en": "How about two for fifteen?",
+      "ar": "ما رأيك باثنين بخمسة عشر؟"
+    },
+    {
+      "en": "Hmm, that is still too much.",
+      "ar": "هذا لا يزال كثيرًا."
+    },
+    {
+      "en": "What if I buy two?",
+      "ar": "ماذا لو اشتريت اثنين؟"
+    },
+    {
+      "en": "Then I can lower the price.",
+      "ar": "عندها يمكنني خفض السعر."
+    },
+    {
+      "en": "Do you accept cards?",
+      "ar": "هل تقبلون البطاقات؟"
+    },
+    {
+      "en": "Cash only, sorry.",
+      "ar": "نقدًا فقط، آسف."
+    },
+    {
+      "en": "Here is twenty dollars.",
+      "ar": "هذه عشرون دولارًا."
+    },
+    {
+      "en": "And here is your change.",
+      "ar": "وهذا هو الباقي."
+    },
+    {
+      "en": "Thank you for coming.",
+      "ar": "شكرًا لمجيئك."
+    },
+    {
+      "en": "Come back anytime.",
+      "ar": "عد في أي وقت."
+    },
+    {
+      "en": "Is the price the same for both?",
+      "ar": "هل السعر نفسه للاثنين؟"
+    },
+    {
+      "en": "The big one costs more.",
+      "ar": "القطعة الكبيرة تكلف أكثر."
+    },
+    {
+      "en": "Why is it more expensive?",
+      "ar": "لماذا هي أغلى؟"
+    },
+    {
+      "en": "Because it is handmade.",
+      "ar": "لأنها مصنوعة يدويًا."
+    },
+    {
+      "en": "Handmade things last longer.",
+      "ar": "الأشياء المصنوعة يدويًا تدوم أطول."
+    },
+    {
+      "en": "I will think about it.",
+      "ar": "سأفكر في الأمر."
+    },
+    {
+      "en": "Okay, but the offer ends today.",
+      "ar": "حسنًا، لكن العرض ينتهي اليوم."
+    },
+    {
+      "en": "Can you hold it for me?",
+      "ar": "هل يمكنك الاحتفاظ بها من أجلي؟"
+    },
+    {
+      "en": "For one hour, yes.",
+      "ar": "لساعة واحدة، نعم."
+    },
+    {
+      "en": "I will come back before six.",
+      "ar": "سأعود قبل السادسة."
+    },
+    {
+      "en": "Twenty dollars is my final offer.",
+      "ar": "عشرون دولارًا هي عرضي الأخير."
+    }
+  ],
+  "fb": [
+    {
+      "display": "Can you give me a ___?",
+      "blank": "discount",
+      "en": "Can you give me a discount?",
+      "ar": "هل يمكنك منحي خصم؟"
+    },
+    {
+      "display": "How much does this hat ___?",
+      "blank": "cost",
+      "en": "How much does this hat cost?",
+      "ar": "بكم تكلف هذه القبعة؟"
+    },
+    {
+      "display": "That is a very ___ price.",
+      "blank": "fair",
+      "en": "That is a very fair price.",
+      "ar": "هذا سعر عادل جدًا."
+    },
+    {
+      "display": "This shop is ___ than that one.",
+      "blank": "cheaper",
+      "en": "This shop is cheaper than that one.",
+      "ar": "هذا المتجر أرخص من ذاك."
+    },
+    {
+      "display": "I will ___ twenty dollars.",
+      "blank": "pay",
+      "en": "I will pay twenty dollars.",
+      "ar": "سأدفع عشرين دولارًا."
+    },
+    {
+      "display": "Okay, it is a ___.",
+      "blank": "deal",
+      "en": "Okay, it is a deal.",
+      "ar": "حسنًا، اتفقنا."
+    }
+  ],
+  "wo": [
+    {
+      "en": "Can you lower the price a little?",
+      "ar": "هل يمكنك خفض السعر قليلًا؟"
+    },
+    {
+      "en": "This bag is cheaper than that one.",
+      "ar": "هذه الحقيبة أرخص من تلك."
+    },
+    {
+      "en": "How much do you want for it?",
+      "ar": "كم تريد مقابله؟"
+    },
+    {
+      "en": "I will take two for fifteen.",
+      "ar": "سآخذ اثنين بخمسة عشر."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'discount' mean?",
+      "options": [
+        "زيادة في السعر",
+        "خصم من السعر",
+        "ضمان"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة discount؟"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "This one is more cheap.",
+        "This one is cheaper.",
+        "This one is more cheaper."
+      ],
+      "answerIndex": 1,
+      "ar": "أي جملة صحيحة؟"
+    },
+    {
+      "question": "What is a polite way to ask for a lower price?",
+      "options": [
+        "Lower the price now!",
+        "Could you do it for ten dollars?",
+        "Your prices are terrible."
+      ],
+      "answerIndex": 1,
+      "ar": "ما الطريقة المهذبة لطلب سعر أقل؟"
+    }
+  ]
+}

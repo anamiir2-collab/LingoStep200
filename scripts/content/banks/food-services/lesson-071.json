@@ -1,0 +1,349 @@
+{
+  "id": "lesson-071",
+  "objectives": [
+    "Order a meal politely in a restaurant",
+    "Ask about ingredients and recommend dishes",
+    "Use can/could/would for requests"
+  ],
+  "grammar": {
+    "explanation": "In a restaurant, use can, could and would to make polite requests. Could is softer and more polite than can: \"Could I see the menu, please?\". When you order food, say \"I would like ...\" or the short form \"I'd like ...\", and add \"please\" at the end. To offer politely, use \"Would you like ...?\".",
+    "explanationAr": "في المطعم نستخدم can و could و would للطلب المهذب. صيغة could ألطف من can مثل: Could I see the menu, please؟ وعند طلب الطعام قل I would like أو صورتها المختصرة I'd like وأضف please في نهاية الطلب. وللعرض بأدب استخدم Would you like ...؟",
+    "examples": [
+      {
+        "en": "Could I see the menu, please?",
+        "ar": "هل يمكنني رؤية قائمة الطعام من فضلك؟"
+      },
+      {
+        "en": "I would like grilled chicken, please.",
+        "ar": "أريد دجاجًا مشويًا من فضلك."
+      },
+      {
+        "en": "Can we sit by the window?",
+        "ar": "هل يمكننا الجلوس بجانب النافذة؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "menu",
+      "meaningAr": "قائمة الطعام",
+      "example": "This menu has many dishes."
+    },
+    {
+      "word": "waiter",
+      "meaningAr": "نادل",
+      "example": "The waiter is very kind."
+    },
+    {
+      "word": "order",
+      "meaningAr": "يطلب (الطعام)",
+      "example": "I want to order now."
+    },
+    {
+      "word": "starter",
+      "meaningAr": "مقبلات",
+      "example": "The starter today is soup."
+    },
+    {
+      "word": "dish",
+      "meaningAr": "طبق",
+      "example": "This dish is famous here."
+    },
+    {
+      "word": "dessert",
+      "meaningAr": "تحلية",
+      "example": "I love chocolate dessert."
+    },
+    {
+      "word": "recommend",
+      "meaningAr": "يوصي بـ",
+      "example": "I recommend the fish soup."
+    },
+    {
+      "word": "grilled",
+      "meaningAr": "مشوي",
+      "example": "I like grilled tomatoes."
+    },
+    {
+      "word": "spicy",
+      "meaningAr": "حار",
+      "example": "This pepper is very spicy."
+    },
+    {
+      "word": "sauce",
+      "meaningAr": "صلصة",
+      "example": "The pasta has white sauce."
+    },
+    {
+      "word": "drink",
+      "meaningAr": "مشروب",
+      "example": "Tea is my favorite drink."
+    },
+    {
+      "word": "special",
+      "meaningAr": "طبق اليوم / مميز",
+      "example": "Today's special is grilled fish."
+    }
+  ],
+  "lt": [
+    {
+      "en": "Could I see the menu, please?",
+      "ar": "هل يمكنني رؤية قائمة الطعام من فضلك؟"
+    },
+    {
+      "en": "I'd like the grilled fish, please.",
+      "alt": "I would like the grilled fish, please.",
+      "ar": "أريد السمك المشوي من فضلك."
+    },
+    {
+      "en": "Can we sit by the window?",
+      "ar": "هل يمكننا الجلوس بجانب النافذة؟"
+    },
+    {
+      "en": "Are you ready to order?",
+      "ar": "هل أنتم مستعدون لطلب الطعام؟"
+    },
+    {
+      "en": "Yes, we are ready to order now.",
+      "ar": "نعم، نحن مستعدون للطلب الآن."
+    },
+    {
+      "en": "What do you recommend?",
+      "ar": "ماذا توصي به؟"
+    },
+    {
+      "en": "The fish looks very fresh today.",
+      "ar": "يبدو السمك طازجًا جدًا اليوم."
+    },
+    {
+      "en": "I will have the tomato soup.",
+      "ar": "سأتناول شوربة الطماطم."
+    },
+    {
+      "en": "How is the chicken cooked?",
+      "ar": "كيف يُطهى الدجاج؟"
+    },
+    {
+      "en": "Is the soup hot and spicy?",
+      "ar": "هل الحساء حار ومتبل؟"
+    },
+    {
+      "en": "We need a few more minutes, please.",
+      "ar": "نحتاج إلى بضع دقائق أخرى، من فضلك."
+    },
+    {
+      "en": "Can I have a glass of water?",
+      "ar": "هل يمكنني الحصول على كوب ماء؟"
+    },
+    {
+      "en": "For my starter, I want a green salad.",
+      "ar": "للمقبلات، أريد سلطة خضراء."
+    },
+    {
+      "en": "My friend will take the pasta.",
+      "ar": "سيتناول صديقي المعكرونة."
+    },
+    {
+      "en": "Does the rice come with the dish?",
+      "ar": "هل يأتي الأرز مع الطبق؟"
+    },
+    {
+      "en": "I prefer my steak well done.",
+      "ar": "أفضّل ستيك مطهوًا جيدًا."
+    },
+    {
+      "en": "The waiter brings the drinks first.",
+      "ar": "يحضر النادل المشروبات أولاً."
+    },
+    {
+      "en": "Could you bring more bread, please?",
+      "ar": "هل يمكنك إحضار خبز إضافي، من فضلك؟"
+    },
+    {
+      "en": "We would like a table for four.",
+      "ar": "نريد طاولة لأربعة أشخاص."
+    },
+    {
+      "en": "What is today's special?",
+      "ar": "ما هو طبق اليوم؟"
+    },
+    {
+      "en": "I will try the lamb today.",
+      "ar": "سأجرب لحم الضأن اليوم."
+    },
+    {
+      "en": "Could you repeat that, please?",
+      "ar": "هل يمكنك تكرار ذلك من فضلك؟"
+    },
+    {
+      "en": "The salad comes with olive oil.",
+      "ar": "تأتي السلطة مع زيت الزيتون."
+    },
+    {
+      "en": "I would like it without onions, please.",
+      "ar": "أريده بدون بصل، من فضلك."
+    },
+    {
+      "en": "Everything looks delicious on the menu.",
+      "ar": "كل شيء يبدو لذيذًا في قائمة الطعام."
+    },
+    {
+      "en": "Can I order a small pizza?",
+      "ar": "هل يمكنني طلب بيتزا صغيرة؟"
+    },
+    {
+      "en": "We are ready for our main course.",
+      "ar": "نحن مستعدون للطبق الرئيسي."
+    },
+    {
+      "en": "She would like the vegetable dish.",
+      "ar": "هي تريد طبق الخضار."
+    },
+    {
+      "en": "Do you want anything to drink?",
+      "ar": "هل تريدون أي مشروب؟"
+    },
+    {
+      "en": "Two orange juices, please.",
+      "ar": "عصيران برتقال، من فضلك."
+    },
+    {
+      "en": "This soup smells wonderful.",
+      "ar": "رائحة هذه الشوربة رائعة."
+    },
+    {
+      "en": "Could we have some more water, please?",
+      "ar": "هل يمكننا الحصول على مزيد من الماء، من فضلك؟"
+    },
+    {
+      "en": "I don't want any dessert, thank you.",
+      "alt": "I do not want any dessert, thank you.",
+      "ar": "لا أريد أي تحلية، شكرًا لك."
+    },
+    {
+      "en": "My son wants pasta with cheese.",
+      "ar": "ابني يريد معكرونة بالجبن."
+    },
+    {
+      "en": "The restaurant is full tonight.",
+      "ar": "المطعم مزدحم الليلة."
+    },
+    {
+      "en": "We drink tea after the meal.",
+      "ar": "نشرب الشاي بعد الوجبة."
+    },
+    {
+      "en": "Your table is ready now.",
+      "ar": "طاولتك جاهزة الآن."
+    },
+    {
+      "en": "How many people are with you?",
+      "ar": "كم عدد الأشخاص معكم؟"
+    },
+    {
+      "en": "Do you have a children's menu?",
+      "ar": "هل لديكم قائمة طعام للأطفال؟"
+    },
+    {
+      "en": "I will have the fish with rice.",
+      "ar": "سأتناول السمك مع الأرز."
+    },
+    {
+      "en": "The pizza here is very good.",
+      "ar": "البيتزا هنا جيدة جدًا."
+    },
+    {
+      "en": "Could I order now, please?",
+      "ar": "هل يمكنني الطلب الآن، من فضلك؟"
+    }
+  ],
+  "fb": [
+    {
+      "display": "The ___ of the day is lentil.",
+      "blank": "soup",
+      "en": "The soup of the day is lentil.",
+      "ar": "شوربة اليوم هي العدس."
+    },
+    {
+      "display": "Are you ready to ___ now?",
+      "blank": "order",
+      "en": "Are you ready to order now?",
+      "ar": "هل أنت مستعد للطلب الآن؟"
+    },
+    {
+      "display": "What do you ___, waiter?",
+      "blank": "recommend",
+      "en": "What do you recommend, waiter?",
+      "ar": "بماذا تنصح يا نادل؟"
+    },
+    {
+      "display": "I would like grilled ___, please.",
+      "blank": "chicken",
+      "en": "I would like grilled chicken, please.",
+      "ar": "أريد دجاجًا مشويًا من فضلك."
+    },
+    {
+      "display": "I will ___ the chicken soup.",
+      "blank": "have",
+      "en": "I will have the chicken soup.",
+      "ar": "سآخذ حساء الدجاج."
+    },
+    {
+      "display": "Is the lamb dish very ___?",
+      "blank": "spicy",
+      "en": "Is the lamb dish very spicy?",
+      "ar": "هل طبق لحم الضأن حار جدًا؟"
+    }
+  ],
+  "wo": [
+    {
+      "en": "Could we have some water?",
+      "ar": "هل يمكننا الحصول على بعض الماء؟"
+    },
+    {
+      "en": "I would like tea, please.",
+      "ar": "أريد شايًا من فضلك."
+    },
+    {
+      "en": "Is the soup included with the meal?",
+      "ar": "هل الحساء مشمول مع الوجبة؟"
+    },
+    {
+      "en": "My sister likes spicy food.",
+      "ar": "أختي تحب الطعام الحار."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'menu' mean?",
+      "options": [
+        "الطعام",
+        "قائمة الطعام",
+        "الفاتورة",
+        "النادل"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة menu؟"
+    },
+    {
+      "question": "Which sentence is the most polite way to order?",
+      "options": [
+        "Give me a coffee.",
+        "Could I have a coffee, please?",
+        "I want coffee now."
+      ],
+      "answerIndex": 1,
+      "ar": "أي جملة هي الأكثر تهذيبًا عند الطلب؟"
+    },
+    {
+      "question": "Who takes your order in a restaurant?",
+      "options": [
+        "the waiter",
+        "the driver",
+        "the pilot"
+      ],
+      "answerIndex": 0,
+      "ar": "من الذي يأخذ طلبك في المطعم؟"
+    }
+  ]
+}

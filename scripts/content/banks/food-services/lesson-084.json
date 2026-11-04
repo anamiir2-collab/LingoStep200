@@ -1,0 +1,348 @@
+{
+  "id": "lesson-084",
+  "objectives": [
+    "Describe what is broken at home",
+    "Ask a technician to repair an appliance",
+    "Use can and could to make polite requests"
+  ],
+  "grammar": {
+    "explanation": "We use can and could to ask someone to do something politely. Could is a little more polite than can, and adding please makes the request softer. For example: Can you check the machine? Could you come today, please?",
+    "explanationAr": "نستخدم can و could لطلب شيء من شخص بشكل مهذّب، وصيغة could أكثر تهذيبًا من can، وإضافة please تجعل الطلب ألطف.",
+    "examples": [
+      {
+        "en": "Can you fix my fridge?",
+        "ar": "هل يمكنك إصلاح ثلاجتي؟"
+      },
+      {
+        "en": "Could you come this afternoon?",
+        "ar": "هل يمكنك المجيء بعد الظهر؟"
+      },
+      {
+        "en": "Can you check the switch, please?",
+        "ar": "هل يمكنك فحص المفتاح من فضلك؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "broken",
+      "meaningAr": "معطّل",
+      "example": "My radio is broken."
+    },
+    {
+      "word": "repair",
+      "meaningAr": "يُصلح",
+      "example": "He will repair the oven."
+    },
+    {
+      "word": "fix",
+      "meaningAr": "يُصلح",
+      "example": "I can fix this chair."
+    },
+    {
+      "word": "technician",
+      "meaningAr": "فني",
+      "example": "The technician knows this machine well."
+    },
+    {
+      "word": "appliance",
+      "meaningAr": "جهاز كهربائي",
+      "example": "This appliance is almost new."
+    },
+    {
+      "word": "fridge",
+      "meaningAr": "ثلاجة",
+      "example": "Put the milk in the fridge."
+    },
+    {
+      "word": "oven",
+      "meaningAr": "فرن",
+      "example": "The oven gets very hot."
+    },
+    {
+      "word": "leak",
+      "meaningAr": "تسرّب",
+      "example": "There is a leak in the pipe."
+    },
+    {
+      "word": "noise",
+      "meaningAr": "ضجيج",
+      "example": "I hear a noise from the kitchen."
+    },
+    {
+      "word": "part",
+      "meaningAr": "قطعة",
+      "example": "We need a new part for the pump."
+    },
+    {
+      "word": "warranty",
+      "meaningAr": "ضمان",
+      "example": "The warranty ends in May."
+    },
+    {
+      "word": "work",
+      "meaningAr": "يعمل",
+      "example": "The television does not work."
+    }
+  ],
+  "lt": [
+    {
+      "en": "The washing machine is not working.",
+      "ar": "الغسالة لا تعمل."
+    },
+    {
+      "en": "Can you fix my fridge today?",
+      "ar": "هل يمكنك إصلاح ثلاجتي اليوم؟"
+    },
+    {
+      "en": "The oven door won't close.",
+      "ar": "باب الفرن لا يُغلق.",
+      "alt": "The oven door will not close."
+    },
+    {
+      "en": "There is a water leak under the sink.",
+      "ar": "يوجد تسرّب للماء تحت الحوض."
+    },
+    {
+      "en": "The heater makes a loud noise.",
+      "ar": "السخّان يُصدر ضجيجًا عاليًا."
+    },
+    {
+      "en": "When can the technician arrive?",
+      "ar": "متى يصل الفني؟"
+    },
+    {
+      "en": "The technician will come tomorrow morning.",
+      "ar": "سيأتي الفني صباح الغد."
+    },
+    {
+      "en": "How much does the repair cost?",
+      "ar": "كم تكلّف عملية الإصلاح؟"
+    },
+    {
+      "en": "I need to repair the dishwasher.",
+      "ar": "أحتاج إلى إصلاح غسالة الأطباق."
+    },
+    {
+      "en": "Could you send someone today?",
+      "ar": "هل يمكنك إرسال أحدهم اليوم؟"
+    },
+    {
+      "en": "The light switch doesn't work.",
+      "ar": "مفتاح الإضاءة لا يعمل."
+    },
+    {
+      "en": "Can you check the air conditioner?",
+      "ar": "هل يمكنك فحص المكيّف؟"
+    },
+    {
+      "en": "It stopped working last night.",
+      "ar": "توقف عن العمل ليلة أمس."
+    },
+    {
+      "en": "The machine is still under warranty.",
+      "ar": "لا تزال الآلة تحت الضمان.",
+      "alt": "The appliance is still under warranty."
+    },
+    {
+      "en": "Do you have the spare part?",
+      "ar": "هل لديكم قطعة الغيار؟"
+    },
+    {
+      "en": "The part will arrive next week.",
+      "ar": "ستصل القطعة الأسبوع القادم."
+    },
+    {
+      "en": "Please come as soon as possible.",
+      "ar": "يرجى المجيء في أقرب وقت ممكن."
+    },
+    {
+      "en": "Is the repair expensive?",
+      "ar": "هل الإصلاح مكلف؟"
+    },
+    {
+      "en": "No, it is a small problem.",
+      "ar": "لا، إنها مشكلة صغيرة."
+    },
+    {
+      "en": "The pump is broken again.",
+      "ar": "المضخة معطلة مرة أخرى."
+    },
+    {
+      "en": "Can you repair it this time?",
+      "ar": "هل يمكنك إصلاحها هذه المرة؟"
+    },
+    {
+      "en": "I called you about my broken oven.",
+      "ar": "اتصلتُ بك بشأن فرني المعطل."
+    },
+    {
+      "en": "What is the problem exactly?",
+      "ar": "ما المشكلة بالضبط؟"
+    },
+    {
+      "en": "The fridge is not cold enough.",
+      "ar": "الثلاجة ليست باردة بما يكفي."
+    },
+    {
+      "en": "It makes a loud noise at night.",
+      "ar": "تُصدر ضجيجًا عاليًا في الليل."
+    },
+    {
+      "en": "How old is the appliance?",
+      "ar": "كم عمر هذا الجهاز؟"
+    },
+    {
+      "en": "It is only two years old.",
+      "ar": "عمره سنتان فقط."
+    },
+    {
+      "en": "Could you give me a price first?",
+      "ar": "هل يمكنك إخباري بالسعر أولًا؟"
+    },
+    {
+      "en": "Yes, we check it free of charge.",
+      "ar": "نعم، نفحصه مجانًا."
+    },
+    {
+      "en": "The repair takes about an hour.",
+      "ar": "يستغرق الإصلاح نحو ساعة."
+    },
+    {
+      "en": "Do I need to stay at home?",
+      "ar": "هل أحتاج إلى البقاء في المنزل؟"
+    },
+    {
+      "en": "No, you can go out.",
+      "ar": "لا، يمكنك الخروج."
+    },
+    {
+      "en": "The kitchen sink is blocked.",
+      "ar": "حوض المطبخ مسدود."
+    },
+    {
+      "en": "Water is coming from the bottom.",
+      "ar": "يخرج الماء من الأسفل."
+    },
+    {
+      "en": "Turn off the water, please.",
+      "ar": "أغلق الماء من فضلك."
+    },
+    {
+      "en": "Is it fixed now?",
+      "ar": "هل تم إصلاحه الآن؟"
+    },
+    {
+      "en": "Yes, try it and see.",
+      "ar": "نعم، جرّبه وسترى."
+    },
+    {
+      "en": "It works fine now.",
+      "ar": "يعمل بشكل جيد الآن."
+    },
+    {
+      "en": "Thank you for coming so fast.",
+      "ar": "شكرًا لمجيئك بهذه السرعة."
+    },
+    {
+      "en": "Here is your bill for the repair.",
+      "ar": "هذه فاتورتك مقابل الإصلاح."
+    },
+    {
+      "en": "When can you come to fix it?",
+      "ar": "متى يمكنك القدوم لإصلاحه؟"
+    },
+    {
+      "en": "Of course, we take cards.",
+      "ar": "بالطبع، نقبل البطاقات."
+    }
+  ],
+  "fb": [
+    {
+      "display": "Can you ___ my fridge tomorrow?",
+      "blank": "fix",
+      "en": "Can you fix my fridge tomorrow?",
+      "ar": "هل يمكنك إصلاح ثلاجتي غدًا؟"
+    },
+    {
+      "display": "My washing machine is not ___.",
+      "blank": "working",
+      "en": "My washing machine is not working.",
+      "ar": "غسالتي لا تعمل."
+    },
+    {
+      "display": "There is a ___ under the sink.",
+      "blank": "leak",
+      "en": "There is a leak under the sink.",
+      "ar": "يوجد تسرّب تحت الحوض."
+    },
+    {
+      "display": "When can the ___ come?",
+      "blank": "technician",
+      "en": "When can the technician come?",
+      "ar": "متى يستطيع الفني القدوم؟"
+    },
+    {
+      "display": "The washing machine is ___ again.",
+      "blank": "broken",
+      "en": "The washing machine is broken again.",
+      "ar": "الغسالة معطلة مرة أخرى."
+    },
+    {
+      "display": "The heater makes a strange ___.",
+      "blank": "noise",
+      "en": "The heater makes a strange noise.",
+      "ar": "السخّان يُصدر ضجيجًا غريبًا."
+    }
+  ],
+  "wo": [
+    {
+      "en": "Could you repair my oven, please?",
+      "ar": "هل يمكنك إصلاح فرني من فضلك؟"
+    },
+    {
+      "en": "The technician is not here yet.",
+      "ar": "الفني ليس هنا بعد."
+    },
+    {
+      "en": "Please fix the door handle.",
+      "ar": "من فضلك أصلح مقبض الباب."
+    },
+    {
+      "en": "Is the washing machine under warranty?",
+      "ar": "هل الغسالة تحت الضمان؟"
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'appliance' mean?",
+      "options": [
+        "جهاز كهربائي",
+        "قطعة غيار",
+        "فاتورة كهرباء"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى appliance؟"
+    },
+    {
+      "question": "Which request is more polite?",
+      "options": [
+        "Fix my fridge!",
+        "Could you fix my fridge, please?",
+        "You fix the fridge."
+      ],
+      "answerIndex": 1,
+      "ar": "أي طلب أكثر تهذيبًا؟"
+    },
+    {
+      "question": "What does 'leak' mean?",
+      "options": [
+        "تسرّب مياه",
+        "ضجيج عالٍ",
+        "مقبض باب"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى leak؟"
+    }
+  ]
+}

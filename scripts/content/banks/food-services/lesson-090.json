@@ -1,0 +1,348 @@
+{
+  "id": "lesson-090",
+  "objectives": [
+    "Renew a passport or ID card at a government office",
+    "Ask about forms, documents and fees",
+    "Use 'have to' and 'must' for rules and obligations"
+  ],
+  "grammar": {
+    "explanation": "Use 'must' and 'have to' to talk about rules and obligations at offices. 'You must sign here.' 'You have to bring your passport.' For questions, say 'Do I have to…?': 'Do I have to make an appointment?'",
+    "explanationAr": "نستخدم «must» و«have to» للتعبير عن القواعد والالتزامات في المكاتب، مثل: يجب أن توقّع هنا، وعليك أن تحضر جواز سفرك. وفي السؤال نقول: هل يجب عليّ تحديد موعد؟",
+    "examples": [
+      {
+        "en": "You must sign here.",
+        "ar": "يجب أن توقّع هنا."
+      },
+      {
+        "en": "Do I have to make an appointment?",
+        "ar": "هل يجب عليّ تحديد موعد؟"
+      },
+      {
+        "en": "You have to fill in this form.",
+        "ar": "يجب أن تملأ هذه الاستمارة."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "office",
+      "meaningAr": "مكتب",
+      "example": "The office is on Main Street."
+    },
+    {
+      "word": "form",
+      "meaningAr": "استمارة",
+      "example": "This form has two pages."
+    },
+    {
+      "word": "application",
+      "meaningAr": "طلب رسمي",
+      "example": "My application was approved."
+    },
+    {
+      "word": "document",
+      "meaningAr": "مستند",
+      "example": "Check your documents before you travel."
+    },
+    {
+      "word": "passport",
+      "meaningAr": "جواز سفر",
+      "example": "My passport is valid for five years."
+    },
+    {
+      "word": "ID",
+      "meaningAr": "بطاقة هوية",
+      "example": "Show your ID at the desk."
+    },
+    {
+      "word": "renew",
+      "meaningAr": "يجدد",
+      "example": "Renew your card before it expires."
+    },
+    {
+      "word": "signature",
+      "meaningAr": "توقيع",
+      "example": "Put your signature at the bottom."
+    },
+    {
+      "word": "fee",
+      "meaningAr": "رسم",
+      "example": "The fee is ten dollars."
+    },
+    {
+      "word": "clerk",
+      "meaningAr": "موظف",
+      "example": "The clerk was very kind."
+    },
+    {
+      "word": "queue",
+      "meaningAr": "طابور",
+      "example": "The queue moves slowly."
+    },
+    {
+      "word": "certificate",
+      "meaningAr": "شهادة",
+      "example": "I came to collect my certificate."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I want to renew my passport.",
+      "ar": "أريد تجديد جواز سفري."
+    },
+    {
+      "en": "Where do I get the application form?",
+      "ar": "من أين أحصل على استمارة الطلب؟"
+    },
+    {
+      "en": "You have to fill in this form first.",
+      "ar": "يجب أن تملأ هذه الاستمارة أولاً."
+    },
+    {
+      "en": "Do I have to pay a fee?",
+      "ar": "هل يجب عليّ دفع رسم؟"
+    },
+    {
+      "en": "Please take a number and wait.",
+      "ar": "من فضلك خذ رقمًا وانتظر."
+    },
+    {
+      "en": "My ID card expires next month.",
+      "ar": "تنتهي صلاحية بطاقة هويتي الشهر القادم."
+    },
+    {
+      "en": "How long does it take to renew a passport?",
+      "ar": "كم يستغرق تجديد جواز السفر؟"
+    },
+    {
+      "en": "You must sign at the bottom.",
+      "ar": "يجب أن توقّع في الأسفل."
+    },
+    {
+      "en": "I need two copies of this document.",
+      "ar": "أحتاج إلى نسختين من هذا المستند."
+    },
+    {
+      "en": "Bring your old passport with you.",
+      "ar": "أحضر معك جواز سفرك القديم."
+    },
+    {
+      "en": "The office opens at nine in the morning.",
+      "ar": "يفتح المكتب في التاسعة صباحًا."
+    },
+    {
+      "en": "Is this the right window for passports?",
+      "ar": "هل هذا هو الشباك الصحيح لجوازات السفر؟"
+    },
+    {
+      "en": "What documents do I need?",
+      "ar": "ما المستندات التي أحتاجها؟"
+    },
+    {
+      "en": "I have an appointment at ten o'clock.",
+      "ar": "لديّ موعد في الساعة العاشرة."
+    },
+    {
+      "en": "The clerk checked my papers.",
+      "ar": "فحص الموظف أوراقي."
+    },
+    {
+      "en": "Your photo is too old.",
+      "ar": "صورتك قديمة جدًا."
+    },
+    {
+      "en": "Where is the waiting room?",
+      "ar": "أين قاعة الانتظار؟"
+    },
+    {
+      "en": "The queue is very long today.",
+      "ar": "الطابور طويل جدًا اليوم."
+    },
+    {
+      "en": "Do you have a pen I can borrow?",
+      "ar": "هل لديك قلم يمكنني استعارته؟"
+    },
+    {
+      "en": "Please write your full name here.",
+      "ar": "من فضلك اكتب اسمك الكامل هنا."
+    },
+    {
+      "en": "How much is the renewal fee?",
+      "ar": "كم يبلغ رسم التجديد؟"
+    },
+    {
+      "en": "I lost my ID card last week.",
+      "ar": "فقدتُ بطاقة هويتي الأسبوع الماضي."
+    },
+    {
+      "en": "You can apply for a new one online.",
+      "ar": "يمكنك التقدم بطلب جديد عبر الإنترنت."
+    },
+    {
+      "en": "It takes about two weeks.",
+      "ar": "يستغرق الأمر حوالي أسبوعين."
+    },
+    {
+      "en": "The office opens at eight in the morning.",
+      "ar": "يفتح المكتب في الثامنة صباحًا."
+    },
+    {
+      "en": "Please keep this receipt safe.",
+      "ar": "من فضلك احتفظ بهذا الإيصال في مكان آمن."
+    },
+    {
+      "en": "This form is only in English.",
+      "ar": "هذه الاستمارة بالإنجليزية فقط."
+    },
+    {
+      "en": "Can someone help me fill it in?",
+      "ar": "هل يمكن لأحد أن يساعدني في تعبئتها؟"
+    },
+    {
+      "en": "My application is still in process.",
+      "ar": "لا يزال طلبي قيد المعالجة."
+    },
+    {
+      "en": "When will I get my new card?",
+      "ar": "متى سأستلم بطاقتي الجديدة؟"
+    },
+    {
+      "en": "You will get a call next week.",
+      "alt": "You'll get a call next week.",
+      "ar": "ستتلقى مكالمة الأسبوع القادم."
+    },
+    {
+      "en": "I brought all the required documents.",
+      "ar": "أحضرتُ جميع المستندات المطلوبة."
+    },
+    {
+      "en": "Do you need a copy of my contract?",
+      "ar": "هل تحتاجون نسخة من عقدي؟"
+    },
+    {
+      "en": "The certificate is ready for collection.",
+      "ar": "الشهادة جاهزة للاستلام."
+    },
+    {
+      "en": "Please check the information before signing.",
+      "ar": "من فضلك تحقق من المعلومات قبل التوقيع."
+    },
+    {
+      "en": "Is there a photocopier in the building?",
+      "ar": "هل توجد آلة نسخ في المبنى؟"
+    },
+    {
+      "en": "The office is closed on Fridays.",
+      "ar": "المكتب مغلق أيام الجمعة."
+    },
+    {
+      "en": "I don't understand this section.",
+      "ar": "لا أفهم هذا القسم."
+    },
+    {
+      "en": "Ask the clerk at window five.",
+      "ar": "اسأل الموظف عند الشباك الخامس."
+    },
+    {
+      "en": "Don't forget your appointment slip.",
+      "alt": "Do not forget your appointment slip.",
+      "ar": "لا تنسَ ورقة موعدك."
+    },
+    {
+      "en": "You have to wait for your number.",
+      "ar": "عليك أن تنتظر دورك."
+    },
+    {
+      "en": "The staff were very helpful.",
+      "ar": "كان الموظفون متعاونين جدًا."
+    }
+  ],
+  "fb": [
+    {
+      "display": "I need to ___ my passport next month.",
+      "blank": "renew",
+      "en": "I need to renew my passport next month.",
+      "ar": "أحتاج إلى تجديد جواز سفري الشهر القادم."
+    },
+    {
+      "display": "My passport ___ next month.",
+      "blank": "expires",
+      "en": "My passport expires next month.",
+      "ar": "ينتهي جواز سفري الشهر القادم."
+    },
+    {
+      "display": "How much is the ___?",
+      "blank": "fee",
+      "en": "How much is the fee?",
+      "ar": "كم يبلغ الرسم؟"
+    },
+    {
+      "display": "Take a ___ and wait for your turn.",
+      "blank": "number",
+      "en": "Take a number and wait for your turn.",
+      "ar": "خذ رقمًا وانتظر دورك."
+    },
+    {
+      "display": "Sign your name at the ___ of the page.",
+      "blank": "bottom",
+      "en": "Sign your name at the bottom of the page.",
+      "ar": "وقّع اسمك في أسفل الصفحة."
+    },
+    {
+      "display": "I need a ___ of my certificate.",
+      "blank": "copy",
+      "en": "I need a copy of my certificate.",
+      "ar": "أحتاج إلى نسخة من شهادتي."
+    }
+  ],
+  "wo": [
+    {
+      "en": "Where do I submit the application?",
+      "ar": "أين أقدّم الطلب؟"
+    },
+    {
+      "en": "The passport office is on the second floor.",
+      "ar": "مكتب الجوازات في الطابق الثاني."
+    },
+    {
+      "en": "Do I have to bring photos?",
+      "ar": "هل يجب أن أحضر صورًا؟"
+    },
+    {
+      "en": "Please wait for your number.",
+      "ar": "من فضلك انتظر رقمك."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'renew' mean?",
+      "options": [
+        "يجدد",
+        "يدفع",
+        "يوقّع"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى الفعل renew؟"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "I have to bring my passport.",
+        "I have bring my passport.",
+        "I has to bring my passport."
+      ],
+      "answerIndex": 0,
+      "ar": "أي جملة صحيحة؟"
+    },
+    {
+      "question": "What should you do before signing a form?",
+      "options": [
+        "Read it carefully",
+        "Sign it quickly",
+        "Throw it away"
+      ],
+      "answerIndex": 0,
+      "ar": "ماذا يجب أن تفعل قبل توقيع الاستمارة؟"
+    }
+  ]
+}

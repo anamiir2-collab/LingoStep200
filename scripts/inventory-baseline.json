@@ -1,0 +1,2483 @@
+{
+ "totalLessons": 252,
+ "sections": {
+  "foundations": 20,
+  "daily-life": 25,
+  "home-family": 25,
+  "food-services": 25,
+  "travel": 25,
+  "health-emergency": 25,
+  "social-communication": 25,
+  "work-money": 27,
+  "education-digital": 25,
+  "complex-rights": 20,
+  "specialized": 10
+ },
+ "totalExercises": 14035,
+ "byType": {
+  "listen-and-type": 10680,
+  "fill-blank": 1545,
+  "word-order": 1031,
+  "multiple-choice": 779
+ },
+ "totalAcceptedAnswers": 16791,
+ "totalVocabulary": 3022,
+ "exercisesWithoutAccepted": 0,
+ "multiWordBlanks": 2,
+ "perLesson": {
+  "lesson-001": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 43,
+    "fill-blank": 5,
+    "word-order": 4,
+    "multiple-choice": 3
+   }
+  },
+  "lesson-002": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-003": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-004": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-005": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-006": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-007": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-008": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-009": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-010": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-011": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-012": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-013": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-014": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-015": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-016": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-017": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-018": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-019": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-020": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-021": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-022": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-023": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-024": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-025": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-026": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-027": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-028": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-029": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-030": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-031": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-032": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-033": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-034": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-035": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-036": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-037": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-038": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-039": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-040": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-041": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-042": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-043": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-044": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-045": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-046": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-047": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-048": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-049": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-050": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-051": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-052": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-053": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-054": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-055": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-056": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-057": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-058": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-059": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-060": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-061": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-062": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-063": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-064": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-065": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-066": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-067": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-068": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-069": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-070": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-071": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-072": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-073": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-074": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-075": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-076": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-077": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-078": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-079": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-080": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-081": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-082": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-083": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-084": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-085": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-086": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-087": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-088": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-089": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-090": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-091": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-092": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-093": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-094": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-095": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-096": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-097": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-098": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-099": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-100": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-101": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-102": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-103": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-104": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-105": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-106": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-107": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-108": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-109": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-110": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-111": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-112": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-113": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-114": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-115": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-116": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-117": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-118": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-119": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-120": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-121": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-122": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-123": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-124": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-125": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-126": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-127": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-128": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-129": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-130": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-131": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-132": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-133": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-134": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-135": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-136": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-137": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-138": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-139": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-140": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-141": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-142": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-143": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-144": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-145": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-146": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-147": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-148": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-149": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-150": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-151": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-152": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-153": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-154": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-155": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-156": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-157": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-158": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-159": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-160": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-161": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-162": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-163": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-164": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-165": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-166": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-167": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-168": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-169": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-170": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-171": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-172": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-173": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-174": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-175": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-176": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-177": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-178": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-179": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-180": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-181": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-182": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-183": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-184": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-185": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-186": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-187": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-188": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-189": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-190": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-191": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-192": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-193": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-194": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-195": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-196": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-197": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-198": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-199": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-200": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-201": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-202": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-203": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-204": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-205": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-206": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-207": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-208": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-209": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-210": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-211": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-212": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-213": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-214": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-215": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-216": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-217": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-218": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-219": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-220": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-221": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-222": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-223": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-224": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-225": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-226": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-227": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-228": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-229": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-230": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-231": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-232": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-233": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-234": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-235": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-236": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-237": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-238": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-239": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-240": {
+   "exercises": 70,
+   "counts": {
+    "listen-and-type": 50,
+    "fill-blank": 9,
+    "multiple-choice": 5,
+    "word-order": 6
+   }
+  },
+  "lesson-241": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-242": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-243": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-244": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-245": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-246": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-247": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-248": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-249": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "multiple-choice": 3,
+    "word-order": 4
+   }
+  },
+  "lesson-250": {
+   "exercises": 80,
+   "counts": {
+    "listen-and-type": 57,
+    "fill-blank": 10,
+    "multiple-choice": 6,
+    "word-order": 7
+   }
+  },
+  "lesson-251": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "word-order": 4,
+    "multiple-choice": 3
+   }
+  },
+  "lesson-252": {
+   "exercises": 55,
+   "counts": {
+    "listen-and-type": 42,
+    "fill-blank": 6,
+    "word-order": 4,
+    "multiple-choice": 3
+   }
+  }
+ },
+ "dialogues": {
+  "files": 45,
+  "totalLines": 0
+ },
+ "dialoguesDetail": [
+  {
+   "file": "dialogue-01.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-02.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-03.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-04.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-05.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-06.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-07.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-08.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-09.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-10.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-11.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-12.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-13.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-14.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-15.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-16.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-17.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-18.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-19.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-20.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-21.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-22.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-23a.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-24.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-25.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-26.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-27.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-28.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-29.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-30.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-31.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-32.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-33.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-34b.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-35a.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-36a.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-37.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-38.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-39a.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-40.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-41.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-42.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-43.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "dialogue-44.js",
+   "error": "SyntaxError: Expected property name or '}' in JSON at position 4 (line 2 column "
+  },
+  {
+   "file": "lesson-fields.js",
+   "error": "SyntaxError: Unexpected token '/', \"/* Builds \"... is not valid JSON"
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "lesson-092",
+  "objectives": [
+    "Buy cinema tickets and choose seats",
+    "Ask about showtimes and prices",
+    "Use present simple schedules for events"
+  ],
+  "grammar": {
+    "explanation": "We use the present simple to talk about timetables and schedules, like cinema showtimes. With he, she, or it, we add -s or -es to the verb: the film starts at nine. In questions, we use do or does: What time does the film start?",
+    "explanationAr": "نستخدم المضارع البسيط للتحدث عن الجداول وأوقات العروض. مع he أو she أو it نضيف s إلى الفعل: the film starts. وفي السؤال نستخدم do أو does للسؤال عن وقت العرض.",
+    "examples": [
+      {
+        "en": "The film starts at seven o'clock.",
+        "ar": "يبدأ الفيلم في السابعة."
+      },
+      {
+        "en": "The cinema opens at ten in the morning.",
+        "ar": "تفتح السينما في العاشرة صباحًا."
+      },
+      {
+        "en": "Does the film start at eight or nine?",
+        "ar": "هل يبدأ الفيلم في الثامنة أم في التاسعة؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "ticket",
+      "meaningAr": "تذكرة",
+      "example": "One ticket to the evening show, please."
+    },
+    {
+      "word": "showtime",
+      "meaningAr": "وقت العرض",
+      "example": "The showtime is nine o'clock."
+    },
+    {
+      "word": "screen",
+      "meaningAr": "شاشة",
+      "example": "Our film is on screen two."
+    },
+    {
+      "word": "seat",
+      "meaningAr": "مقعد",
+      "example": "This seat is very comfortable."
+    },
+    {
+      "word": "row",
+      "meaningAr": "صف",
+      "example": "We are sitting in row four."
+    },
+    {
+      "word": "popcorn",
+      "meaningAr": "فشار",
+      "example": "I love popcorn at the movies."
+    },
+    {
+      "word": "adult",
+      "meaningAr": "بالغ",
+      "example": "An adult ticket costs eight dollars."
+    },
+    {
+      "word": "child",
+      "meaningAr": "طفل",
+      "example": "A child ticket is half price."
+    },
+    {
+      "word": "student",
+      "meaningAr": "طالب",
+      "example": "Students pay less on weekdays."
+    },
+    {
+      "word": "discount",
+      "meaningAr": "خصم",
+      "example": "There is a discount for families."
+    },
+    {
+      "word": "cashier",
+      "meaningAr": "أمين الصندوق",
+      "example": "The cashier was very friendly."
+    },
+    {
+      "word": "trailer",
+      "meaningAr": "إعلان تشويقي",
+      "example": "We watched two trailers before the film."
+    }
+  ],
+  "lt": [
+    {
+      "en": "Two tickets for the eight o'clock show, please.",
+      "ar": "تذكرتان لعرض الثامنة من فضلك."
+    },
+    {
+      "en": "What time does the film start?",
+      "ar": "متى يبدأ الفيلم؟"
+    },
+    {
+      "en": "Do you have seats in the back row?",
+      "ar": "هل لديكم مقاعد في الصف الأخير؟"
+    },
+    {
+      "en": "The next show starts at half past nine.",
+      "ar": "يبدأ العرض التالي في التاسعة والنصف."
+    },
+    {
+      "en": "How much is a ticket for adults?",
+      "ar": "كم سعر تذكرة البالغين؟"
+    },
+    {
+      "en": "I'd like two seats in the middle row.",
+      "alt": "I would like two seats in the middle row.",
+      "ar": "أريد مقعدين في الصف الأوسط."
+    },
+    {
+      "en": "Is the film suitable for children?",
+      "ar": "هل الفيلم مناسب للأطفال؟"
+    },
+    {
+      "en": "One adult ticket and one child ticket, please.",
+      "ar": "تذكرة بالغ واحدة وتذكرة طفل واحدة من فضلك."
+    },
+    {
+      "en": "Are there any discounts for students?",
+      "ar": "هل هناك خصومات للطلاب؟"
+    },
+    {
+      "en": "The screen number is on your ticket.",
+      "ar": "رقم الشاشة مكتوب على تذكرتك."
+    },
+    {
+      "en": "We don't want seats at the front.",
+      "ar": "لا نريد مقاعد في المقدمة."
+    },
+    {
+      "en": "What time does the last show finish?",
+      "ar": "متى ينتهي العرض الأخير؟"
+    },
+    {
+      "en": "There is a discount for students on Mondays.",
+      "ar": "هناك خصم للطلاب يوم الاثنين."
+    },
+    {
+      "en": "Is that the comedy on screen three?",
+      "ar": "هل هذا فيلم الكوميديا على الشاشة الثالثة؟"
+    },
+    {
+      "en": "The film starts in ten minutes.",
+      "ar": "يبدأ الفيلم بعد عشر دقائق."
+    },
+    {
+      "en": "Where can I buy popcorn?",
+      "ar": "أين يمكنني شراء الفشار؟"
+    },
+    {
+      "en": "Please choose your seats from the seating plan.",
+      "ar": "من فضلك اختر مقاعدك من خطة المقاعد."
+    },
+    {
+      "en": "Do you sell tickets online?",
+      "ar": "هل تبيعون التذاكر عبر الإنترنت؟"
+    },
+    {
+      "en": "This seat has a good view of the screen.",
+      "ar": "لهذا المقعد إطلالة جيدة على الشاشة."
+    },
+    {
+      "en": "Are the tickets for tonight or for tomorrow?",
+      "ar": "هل التذاكر لهذه الليلة أم للغد؟"
+    },
+    {
+      "en": "The showtime for the new film is seven fifteen.",
+      "ar": "وقت عرض الفيلم الجديد هو السابعة والربع."
+    },
+    {
+      "en": "I booked the tickets on my phone.",
+      "ar": "حجزت التذاكر على هاتفي."
+    },
+    {
+      "en": "How long is the film?",
+      "ar": "كم مدة الفيلم؟"
+    },
+    {
+      "en": "The film is two hours long.",
+      "ar": "مدة الفيلم ساعتان."
+    },
+    {
+      "en": "Can we sit together in the same row?",
+      "ar": "هل يمكننا الجلوس معًا في الصف نفسه؟"
+    },
+    {
+      "en": "Sorry, those seats are already taken.",
+      "ar": "عذرًا، تلك المقاعد محجوزة بالفعل."
+    },
+    {
+      "en": "Which film is showing on screen two?",
+      "ar": "أي فيلم يُعرض على الشاشة الثانية؟"
+    },
+    {
+      "en": "A ticket for the morning show is cheaper.",
+      "ar": "تذكرة العرض الصباحي أرخص."
+    },
+    {
+      "en": "Do you have a show at nine o'clock?",
+      "ar": "هل لديكم عرض في التاسعة؟"
+    },
+    {
+      "en": "The cashier gave me two tickets.",
+      "ar": "أعطاني أمين الصندوق تذكرتين."
+    },
+    {
+      "en": "We'd like to see the new action film.",
+      "alt": "We would like to see the new action film.",
+      "ar": "نريد مشاهدة فيلم الأكشن الجديد."
+    },
+    {
+      "en": "Is the cinema open on Fridays?",
+      "ar": "هل السينما مفتوحة أيام الجمعة؟"
+    },
+    {
+      "en": "Children under five enter for free.",
+      "ar": "يدخل الأطفال دون الخامسة مجانًا."
+    },
+    {
+      "en": "Please turn off your phone inside the hall.",
+      "ar": "من فضلك أطفئ هاتفك داخل القاعة."
+    },
+    {
+      "en": "The trailer is playing before the film.",
+      "ar": "يُعرض الإعلان التشويقي قبل الفيلم."
+    },
+    {
+      "en": "Where is screen number four?",
+      "ar": "أين الشاشة رقم أربعة؟"
+    },
+    {
+      "en": "The line for tickets is very long.",
+      "ar": "طابور شراء التذاكر طويل جدًا."
+    },
+    {
+      "en": "Can I change my ticket to another day?",
+      "ar": "هل يمكنني تغيير تذكرتي إلى يوم آخر؟"
+    },
+    {
+      "en": "Enjoy the film!",
+      "ar": "استمتع بالفيلم!"
+    },
+    {
+      "en": "The doors open fifteen minutes before the show.",
+      "ar": "تُفتح الأبواب قبل العرض بخمس عشرة دقيقة."
+    },
+    {
+      "en": "We are in row five, seats twelve and thirteen.",
+      "ar": "نحن في الصف الخامس، في المقعد الثاني عشر والثالث عشر."
+    },
+    {
+      "en": "Here are your tickets for screen one.",
+      "ar": "تفضل تذكرتك للشاشة الأولى."
+    }
+  ],
+  "fb": [
+    {
+      "display": "The film ___ at eight o'clock.",
+      "blank": "starts",
+      "en": "The film starts at eight o'clock.",
+      "ar": "يبدأ الفيلم في الثامنة."
+    },
+    {
+      "display": "How much ___ a child ticket?",
+      "blank": "is",
+      "en": "How much is a child ticket?",
+      "ar": "كم سعر تذكرة الطفل؟"
+    },
+    {
+      "display": "Do you ___ seats in the front row?",
+      "blank": "have",
+      "en": "Do you have seats in the front row?",
+      "ar": "هل لديكم مقاعد في الصف الأول؟"
+    },
+    {
+      "display": "Two tickets ___ the late show, please.",
+      "blank": "for",
+      "en": "Two tickets for the late show, please.",
+      "ar": "تذكرتان للعرض المتأخر من فضلك."
+    },
+    {
+      "display": "The showtime ___ seven thirty tonight.",
+      "blank": "is",
+      "en": "The showtime is seven thirty tonight.",
+      "ar": "وقت العرض هو السابعة والنصف الليلة."
+    },
+    {
+      "display": "We don't want ___ near the door.",
+      "blank": "seats",
+      "en": "We don't want seats near the door.",
+      "ar": "لا نريد مقاعد قرب الباب."
+    }
+  ],
+  "wo": [
+    {
+      "en": "Two tickets, please.",
+      "ar": "تذكرتان من فضلك."
+    },
+    {
+      "en": "What time is the show?",
+      "ar": "متى العرض؟"
+    },
+    {
+      "en": "We want two seats together.",
+      "ar": "نريد مقعدين متجاورين."
+    },
+    {
+      "en": "The tickets are for tonight.",
+      "ar": "التذاكر لهذه الليلة."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'showtime' mean?",
+      "options": [
+        "المقعد",
+        "وقت العرض",
+        "التذكرة"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة showtime؟"
+    },
+    {
+      "question": "Which question asks about the start time?",
+      "options": [
+        "What time does the film start?",
+        "Where is the cinema?",
+        "How much is the popcorn?"
+      ],
+      "answerIndex": 0,
+      "ar": "أي سؤال يسأل عن وقت البدء؟"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "The film start at nine.",
+        "The film is start at nine.",
+        "The film starts at nine."
+      ],
+      "answerIndex": 2,
+      "ar": "أي جملة صحيحة؟"
+    }
+  ]
+}

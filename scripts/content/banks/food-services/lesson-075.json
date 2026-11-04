@@ -1,0 +1,348 @@
+{
+  "id": "lesson-075",
+  "objectives": [
+    "Ask for clothing items and their prices in a store",
+    "Use this, that, these, and those to talk about clothes",
+    "Ask for a different size and try clothes on"
+  ],
+  "grammar": {
+    "explanation": "We use 'this' and 'these' for clothes near us: this shirt, these shoes. We use 'that' and 'those' for clothes farther away: that jacket, those hats. 'This' and 'that' go with one item, while 'these' and 'those' go with two or more items.",
+    "explanationAr": "نستخدم this وthese للملابس القريبة منا مثل this shirt وthese shoes، ونستخدم that وthose للملابس الأبعد مثل that jacket وthose hats. وتأتي this وthat مع المفرد، بينما تأتي these وthose مع الاثنين أو أكثر.",
+    "examples": [
+      {
+        "en": "This dress is beautiful.",
+        "ar": "هذا الفستان جميل."
+      },
+      {
+        "en": "Those shoes look comfortable.",
+        "ar": "تلك الأحذية تبدو مريحة."
+      },
+      {
+        "en": "Can I try on these pants?",
+        "ar": "هل يمكنني قياس هذا البنطال؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "shirt",
+      "meaningAr": "قميص",
+      "example": "This shirt is too big for me."
+    },
+    {
+      "word": "pants",
+      "meaningAr": "بنطال",
+      "example": "I bought two pairs of pants."
+    },
+    {
+      "word": "dress",
+      "meaningAr": "فستان",
+      "example": "She tried on a red dress."
+    },
+    {
+      "word": "jacket",
+      "meaningAr": "سترة (جاكيت)",
+      "example": "That jacket looks very warm."
+    },
+    {
+      "word": "sweater",
+      "meaningAr": "بلوفر",
+      "example": "I wear a sweater in winter."
+    },
+    {
+      "word": "shoes",
+      "meaningAr": "أحذية",
+      "example": "These shoes are very comfortable."
+    },
+    {
+      "word": "size",
+      "meaningAr": "مقاس",
+      "example": "A medium size fits most people."
+    },
+    {
+      "word": "fitting room",
+      "meaningAr": "غرفة القياس",
+      "example": "The customer is in the fitting room."
+    },
+    {
+      "word": "tag",
+      "meaningAr": "بطاقة السعر",
+      "example": "Check the tag for the price."
+    },
+    {
+      "word": "cotton",
+      "meaningAr": "قطن",
+      "example": "I like shirts made of cotton."
+    },
+    {
+      "word": "sleeve",
+      "meaningAr": "كمّ القميص",
+      "example": "The sleeve is too long for me."
+    },
+    {
+      "word": "cheap",
+      "meaningAr": "رخيص",
+      "example": "This hat is cheap but nice."
+    }
+  ],
+  "lt": [
+    {
+      "en": "Hello! How can I help you today?",
+      "ar": "مرحبًا! كيف أستطيع مساعدتك اليوم؟"
+    },
+    {
+      "en": "I'm looking for a winter jacket.",
+      "ar": "أبحث عن سترة شتوية."
+    },
+    {
+      "en": "This shirt comes in three colors.",
+      "ar": "هذا القميص متوفر بثلاثة ألوان."
+    },
+    {
+      "en": "Can I try on these shoes?",
+      "ar": "هل يمكنني قياس هذه الأحذية؟"
+    },
+    {
+      "en": "Do you have this dress in my size?",
+      "ar": "هل هذا الفستان متوفر بمقاسي؟"
+    },
+    {
+      "en": "What size are you?",
+      "ar": "ما مقاسك؟"
+    },
+    {
+      "en": "The fitting room is over there.",
+      "ar": "غرفة القياس هناك."
+    },
+    {
+      "en": "These pants are too tight.",
+      "ar": "هذا البنطال ضيق جدًا."
+    },
+    {
+      "en": "This sweater feels very soft.",
+      "ar": "هذا البلوفر ملمسه ناعم جدًا."
+    },
+    {
+      "en": "These jeans don't fit me well.",
+      "alt": "These jeans do not fit me well.",
+      "ar": "هذا الجينز لا يناسبني جيدًا."
+    },
+    {
+      "en": "I'm just looking, thank you.",
+      "ar": "أنا أتفرج فقط، شكرًا لك."
+    },
+    {
+      "en": "How much do these jeans cost?",
+      "ar": "كم يكلِّف بنطال الجينز هذا؟"
+    },
+    {
+      "en": "That jacket is on sale this week.",
+      "ar": "هذه السترة معروضة بسعر مخفَّض هذا الأسبوع."
+    },
+    {
+      "en": "Can you show me another shirt?",
+      "ar": "هل يمكنك أن تريني قميصًا آخر؟"
+    },
+    {
+      "en": "It's too expensive for me.",
+      "ar": "إنه غالٍ جدًا بالنسبة لي.",
+      "alt": "It is too expensive for me."
+    },
+    {
+      "en": "Is this shirt made of cotton?",
+      "ar": "هل هذا القميص مصنوع من القطن؟"
+    },
+    {
+      "en": "I want to buy a gift for my sister.",
+      "ar": "أريد أن أشتري هدية لأختي."
+    },
+    {
+      "en": "The sleeves are too long.",
+      "ar": "الأكمام طويلة جدًا."
+    },
+    {
+      "en": "Where is the men's section?",
+      "ar": "أين قسم الرجال؟"
+    },
+    {
+      "en": "She wears a medium size.",
+      "ar": "إنها ترتدي مقاسًا متوسطًا."
+    },
+    {
+      "en": "This is my favorite store.",
+      "ar": "هذا متجري المفضل."
+    },
+    {
+      "en": "Cash refunds take five working days.",
+      "ar": "يستغرق استرداد النقد خمسة أيام عمل."
+    },
+    {
+      "en": "Do these shoes come in size forty?",
+      "ar": "هل هذه الأحذية متوفرة بالمقاس أربعين؟"
+    },
+    {
+      "en": "I need something warmer for winter.",
+      "ar": "أحتاج شيئًا أدفأ للشتاء."
+    },
+    {
+      "en": "How does it fit?",
+      "ar": "كيف يناسبك؟"
+    },
+    {
+      "en": "It fits perfectly, thank you.",
+      "ar": "يناسبني تمامًا، شكرًا لك."
+    },
+    {
+      "en": "Please wrap it as a gift.",
+      "ar": "من فضلك لفَّه كهدية."
+    },
+    {
+      "en": "We have a discount on all dresses.",
+      "ar": "لدينا خصم على جميع الفساتين."
+    },
+    {
+      "en": "I'll take two pairs of socks.",
+      "ar": "سآخذ زوجين من الجوارب."
+    },
+    {
+      "en": "Do you have a lighter one?",
+      "ar": "هل لديك واحد أفتح؟"
+    },
+    {
+      "en": "The tag says thirty dollars.",
+      "ar": "بطاقة السعر تقول ثلاثين دولارًا."
+    },
+    {
+      "en": "Are you looking for anything special?",
+      "ar": "هل تبحث عن شيء معين؟"
+    },
+    {
+      "en": "Yes, I need a warm sweater.",
+      "ar": "نعم، أحتاج بلوفرًا دافئًا."
+    },
+    {
+      "en": "My son needs new school shoes.",
+      "ar": "ابني يحتاج إلى حذاء مدرسي جديد."
+    },
+    {
+      "en": "Try it on and see if it fits.",
+      "ar": "قِسه وانظر إن كان يناسبك."
+    },
+    {
+      "en": "The store opens at nine in the morning.",
+      "ar": "يفتح المتجر في التاسعة صباحًا."
+    },
+    {
+      "en": "I bought three shirts yesterday.",
+      "ar": "اشتريت ثلاثة قمصان أمس."
+    },
+    {
+      "en": "This one is cheaper than the other.",
+      "ar": "هذا أرخص من الآخر."
+    },
+    {
+      "en": "Can you hold my bag, please?",
+      "ar": "هل يمكنك أن تحمل حقيبتي، من فضلك؟"
+    },
+    {
+      "en": "My brother loves sports clothes.",
+      "ar": "أخي يحب الملابس الرياضية."
+    },
+    {
+      "en": "Sorry, we don't have that size left.",
+      "ar": "نعتذر، لم يتبقَّ لدينا ذلك المقاس."
+    },
+    {
+      "en": "I'll come back tomorrow with my wife.",
+      "ar": "سأعود غدًا مع زوجتي."
+    }
+  ],
+  "fb": [
+    {
+      "display": "What ___ do you wear?",
+      "blank": "size",
+      "en": "What size do you wear?",
+      "ar": "ما المقاس الذي ترتديه؟"
+    },
+    {
+      "display": "This shirt is too ___ for me.",
+      "blank": "small",
+      "en": "This shirt is too small for me.",
+      "ar": "هذا القميص صغير جدًا عليّ."
+    },
+    {
+      "display": "This dress is ___ small for me.",
+      "blank": "too",
+      "en": "This dress is too small for me.",
+      "ar": "هذا الفستان صغير جدًا عليّ."
+    },
+    {
+      "display": "Is there a ___ room here?",
+      "blank": "fitting",
+      "en": "Is there a fitting room here?",
+      "ar": "هل توجد غرفة قياس هنا؟"
+    },
+    {
+      "display": "How ___ is this dress?",
+      "blank": "much",
+      "en": "How much is this dress?",
+      "ar": "كم سعر هذا الفستان؟"
+    },
+    {
+      "display": "I'll ___ it, thanks.",
+      "blank": "take",
+      "en": "I'll take it, thanks.",
+      "ar": "سآخذه، شكرًا لك."
+    }
+  ],
+  "wo": [
+    {
+      "en": "Do you have a smaller size?",
+      "ar": "هل لديك مقاس أصغر؟"
+    },
+    {
+      "en": "Where are the changing rooms?",
+      "ar": "أين غرف القياس؟"
+    },
+    {
+      "en": "I like this jacket very much.",
+      "ar": "تعجبني هذه السترة كثيرًا."
+    },
+    {
+      "en": "Where can I find dresses?",
+      "ar": "أين أجد الفساتين؟"
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'fitting room' mean?",
+      "options": [
+        "صندوق الدفع",
+        "غرفة القياس",
+        "قسم الأطفال"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى عبارة fitting room؟"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "These shoes are too tight.",
+        "This shoes are too tight.",
+        "These shoe are too tight."
+      ],
+      "answerIndex": 0,
+      "ar": "أي جملة صحيحة؟"
+    },
+    {
+      "question": "What do you check to see the price of a shirt?",
+      "options": [
+        "The sleeve",
+        "The zipper",
+        "The tag"
+      ],
+      "answerIndex": 2,
+      "ar": "ما الذي تفحصه لمعرفة سعر القميص؟"
+    }
+  ]
+}

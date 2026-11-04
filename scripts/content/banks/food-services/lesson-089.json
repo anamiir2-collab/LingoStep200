@@ -1,0 +1,348 @@
+{
+  "id": "lesson-089",
+  "objectives": [
+    "Send a letter or package at the post office",
+    "Ask about stamps, prices and delivery times",
+    "Use imperatives and polite requests in offices"
+  ],
+  "grammar": {
+    "explanation": "In offices, people use the imperative for simple instructions: 'Fill in this form.' 'Put it on the scale.' Add 'please' to sound polite, or use 'Could you…?' for a softer request: 'Could you weigh this package, please?'",
+    "explanationAr": "نستخدم صيغة الأمر لتقديم تعليمات بسيطة في المكاتب، مثل: املأ هذه الاستمارة. ولإظهار التأدب نضيف «من فضلك» أو نقول «هل يمكنك…؟» ليكون الطلب ألطف وأكثر لباقة.",
+    "examples": [
+      {
+        "en": "Fill in this form, please.",
+        "ar": "املأ هذه الاستمارة من فضلك."
+      },
+      {
+        "en": "Could you weigh this package, please?",
+        "ar": "هل يمكنك وزن هذا الطرد من فضلك؟"
+      },
+      {
+        "en": "Could you repeat that, please?",
+        "ar": "هل يمكنك التكرار من فضلك؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "stamp",
+      "meaningAr": "طابع بريد",
+      "example": "I need two stamps for these letters."
+    },
+    {
+      "word": "envelope",
+      "meaningAr": "مظروف",
+      "example": "Put the card in a small envelope."
+    },
+    {
+      "word": "parcel",
+      "meaningAr": "طرد",
+      "example": "The parcel arrived this morning."
+    },
+    {
+      "word": "postcard",
+      "meaningAr": "بطاقة بريدية",
+      "example": "He bought a postcard at the museum."
+    },
+    {
+      "word": "address",
+      "meaningAr": "عنوان",
+      "example": "Write the address on the front."
+    },
+    {
+      "word": "postcode",
+      "meaningAr": "الرمز البريدي",
+      "example": "My postcode is easy to remember."
+    },
+    {
+      "word": "postage",
+      "meaningAr": "أجرة البريد",
+      "example": "The postage depends on the weight."
+    },
+    {
+      "word": "scale",
+      "meaningAr": "ميزان",
+      "example": "The clerk put my box on the scale."
+    },
+    {
+      "word": "weigh",
+      "meaningAr": "يزن",
+      "example": "Weigh the package before you pay."
+    },
+    {
+      "word": "deliver",
+      "meaningAr": "يوصّل",
+      "example": "They deliver on Saturdays too."
+    },
+    {
+      "word": "receipt",
+      "meaningAr": "إيصال",
+      "example": "Always ask for a receipt."
+    },
+    {
+      "word": "tracking",
+      "meaningAr": "تتبع الشحنة",
+      "example": "Tracking shows where your parcel is."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I want to send this letter to Jordan.",
+      "ar": "أريد إرسال هذا الخطاب إلى الأردن."
+    },
+    {
+      "en": "How much is the postage for this letter?",
+      "ar": "كم تبلغ أجرة إرسال هذا الخطاب؟"
+    },
+    {
+      "en": "I need a stamp for this postcard.",
+      "ar": "أحتاج إلى طابع لهذه البطاقة البريدية."
+    },
+    {
+      "en": "Where can I buy envelopes?",
+      "ar": "أين يمكنني شراء المظاريف؟"
+    },
+    {
+      "en": "Does this price include delivery?",
+      "ar": "هل يشمل هذا السعر التوصيل؟"
+    },
+    {
+      "en": "It usually takes about five days.",
+      "ar": "يستغرق الأمر عادةً حوالي خمسة أيام."
+    },
+    {
+      "en": "I'd like to send it by express mail.",
+      "alt": "I would like to send it by express mail.",
+      "ar": "أودّ إرساله بالبريد السريع."
+    },
+    {
+      "en": "Please write the address clearly.",
+      "ar": "من فضلك اكتب العنوان بوضوح."
+    },
+    {
+      "en": "Don't forget the postcode.",
+      "alt": "Do not forget the postcode.",
+      "ar": "لا تنسَ الرمز البريدي."
+    },
+    {
+      "en": "Can I track my parcel online?",
+      "ar": "هل يمكنني تتبع طردي عبر الإنترنت؟"
+    },
+    {
+      "en": "I have a package for my sister.",
+      "ar": "لديّ طرد لأختي."
+    },
+    {
+      "en": "Put the parcel on the scale, please.",
+      "ar": "ضع الطرد على الميزان من فضلك."
+    },
+    {
+      "en": "Is there a post office near here?",
+      "ar": "هل يوجد مكتب بريد قريب من هنا؟"
+    },
+    {
+      "en": "The post office opens at eight o'clock.",
+      "ar": "يفتح مكتب البريد في الساعة الثامنة."
+    },
+    {
+      "en": "When will my letter arrive?",
+      "ar": "متى سيصل خطابي؟"
+    },
+    {
+      "en": "This letter is too heavy.",
+      "ar": "هذا الخطاب ثقيل جدًا."
+    },
+    {
+      "en": "You need a bigger envelope for this.",
+      "ar": "تحتاج إلى مظروف أكبر لهذا."
+    },
+    {
+      "en": "I sent the documents yesterday.",
+      "ar": "أرسلتُ المستندات أمس."
+    },
+    {
+      "en": "Did you put a return address on it?",
+      "ar": "هل وضعتَ عنوان المرسل عليه؟"
+    },
+    {
+      "en": "How long does delivery take to Europe?",
+      "ar": "كم يستغرق التوصيل إلى أوروبا؟"
+    },
+    {
+      "en": "I need a receipt, please.",
+      "ar": "أحتاج إلى إيصال من فضلك."
+    },
+    {
+      "en": "What does it cost to send a postcard?",
+      "ar": "كم يكلّف إرسال بطاقة بريدية؟"
+    },
+    {
+      "en": "Please write the zip code clearly.",
+      "ar": "من فضلك اكتب الرمز البريدي بوضوح."
+    },
+    {
+      "en": "The parcel weighs two kilograms.",
+      "ar": "يزن الطرد كيلوغرامين."
+    },
+    {
+      "en": "We deliver letters every morning.",
+      "ar": "نوصل الخطابات كل صباح."
+    },
+    {
+      "en": "There is a long line at the counter.",
+      "ar": "يوجد طابور طويل عند الشباك."
+    },
+    {
+      "en": "Do you sell envelopes here?",
+      "ar": "هل تبيعون أظرفة هنا؟"
+    },
+    {
+      "en": "My letter hasn't arrived yet.",
+      "ar": "لم يصل خطابي بعد."
+    },
+    {
+      "en": "Please handle this package with care.",
+      "ar": "من فضلك تعامل مع هذا الطرد بحذر."
+    },
+    {
+      "en": "Where do I write the postcode?",
+      "ar": "أين أكتب الرمز البريدي؟"
+    },
+    {
+      "en": "Express mail is faster but more expensive.",
+      "ar": "البريد السريع أسرع لكنه أغلى."
+    },
+    {
+      "en": "I lost the tracking number.",
+      "ar": "فقدتُ رقم التتبع."
+    },
+    {
+      "en": "She mails a package to her son every month.",
+      "ar": "ترسل طردًا إلى ابنها كل شهر."
+    },
+    {
+      "en": "Is my parcel ready for pickup?",
+      "ar": "هل طردي جاهز للاستلام؟"
+    },
+    {
+      "en": "The clerk gave me a small box.",
+      "ar": "أعطاني الموظف صندوقًا صغيرًا."
+    },
+    {
+      "en": "Do you sell boxes here?",
+      "ar": "هل تبيعون صناديق هنا؟"
+    },
+    {
+      "en": "Sign here to receive your parcel.",
+      "ar": "وقّع هنا لاستلام طردك."
+    },
+    {
+      "en": "I don't know the exact weight.",
+      "ar": "لا أعرف الوزن الدقيق."
+    },
+    {
+      "en": "Send it to this address, please.",
+      "ar": "أرسله إلى هذا العنوان من فضلك."
+    },
+    {
+      "en": "Airmail is quick and safe.",
+      "ar": "البريد الجوي سريع وآمن."
+    },
+    {
+      "en": "Why is the postage so expensive?",
+      "ar": "لماذا أجرة البريد مرتفعة إلى هذا الحد؟"
+    },
+    {
+      "en": "The counter closes at five o'clock.",
+      "ar": "يُغلق الشباك في الساعة الخامسة."
+    }
+  ],
+  "fb": [
+    {
+      "display": "I need to ___ this package to Amman.",
+      "blank": "send",
+      "en": "I need to send this package to Amman.",
+      "ar": "أحتاج إلى إرسال هذا الطرد إلى عمّان."
+    },
+    {
+      "display": "How much is the ___ for a postcard?",
+      "blank": "postage",
+      "en": "How much is the postage for a postcard?",
+      "ar": "كم تبلغ أجرة البريد للبطاقة البريدية؟"
+    },
+    {
+      "display": "Please write your ___ at the top.",
+      "blank": "address",
+      "en": "Please write your address at the top.",
+      "ar": "من فضلك اكتب عنوانك في الأعلى."
+    },
+    {
+      "display": "Do you have a bigger ___?",
+      "blank": "envelope",
+      "en": "Do you have a bigger envelope?",
+      "ar": "هل لديك مظروف أكبر؟"
+    },
+    {
+      "display": "The ___ weighs almost three kilograms.",
+      "blank": "parcel",
+      "en": "The parcel weighs almost three kilograms.",
+      "ar": "يزن الطرد ما يقارب ثلاثة كيلوغرامات."
+    },
+    {
+      "display": "Can I get a ___ with tracking?",
+      "blank": "receipt",
+      "en": "Can I get a receipt with tracking?",
+      "ar": "هل يمكنني الحصول على إيصال مع التتبع؟"
+    }
+  ],
+  "wo": [
+    {
+      "en": "Where is the nearest post office?",
+      "ar": "أين يقع أقرب مكتب بريد؟"
+    },
+    {
+      "en": "I want to mail this letter.",
+      "ar": "أريد إرسال هذا الخطاب بالبريد."
+    },
+    {
+      "en": "How long does delivery take?",
+      "ar": "كم يستغرق التوصيل؟"
+    },
+    {
+      "en": "Please give me two stamps.",
+      "ar": "من فضلك أعطني طابعين."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'parcel' mean?",
+      "options": [
+        "رسالة",
+        "طرد",
+        "طابع"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة parcel؟"
+    },
+    {
+      "question": "Which sentence is a polite request?",
+      "options": [
+        "Give me a stamp.",
+        "Could you give me a stamp, please?",
+        "I want a stamp."
+      ],
+      "answerIndex": 1,
+      "ar": "أي جملة تعتبر طلبًا مؤدبًا؟"
+    },
+    {
+      "question": "Where do you write the recipient's address?",
+      "options": [
+        "On the envelope",
+        "On the stamp",
+        "On the receipt"
+      ],
+      "answerIndex": 0,
+      "ar": "أين تكتب عنوان المستلم؟"
+    }
+  ]
+}

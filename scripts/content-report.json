@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-19T08:12:14.095Z",
+  "totalLessons": 123,
+  "totalExercises": 6825,
+  "uniqueSentences": 6049,
+  "rawSentences": 6456,
+  "duplicates": 0,
+  "sections": [
+    {
+      "section": "basics",
+      "lessons": 12,
+      "exercises": 660
+    },
+    {
+      "section": "tenses",
+      "lessons": 24,
+      "exercises": 1320
+    },
+    {
+      "section": "grammar",
+      "lessons": 16,
+      "exercises": 880
+    },
+    {
+      "section": "conversations",
+      "lessons": 20,
+      "exercises": 1100
+    },
+    {
+      "section": "practical-scenarios",
+      "lessons": 16,
+      "exercises": 880
+    },
+    {
+      "section": "vocabulary",
+      "lessons": 16,
+      "exercises": 880
+    },
+    {
+      "section": "listening-writing",
+      "lessons": 19,
+      "exercises": 1105
+    }
+  ]
+}

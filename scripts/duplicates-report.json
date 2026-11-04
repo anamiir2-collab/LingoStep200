@@ -1,0 +1,479 @@
+{
+  "generatedAt": "2026-11-04T06:25:20.550Z",
+  "exactDuplicates": [],
+  "similarForReview": [
+    {
+      "a": {
+        "lessonId": "lesson-013",
+        "exId": "lesson-013-ex-017",
+        "en": "Is the milk in the fridge?"
+      },
+      "b": {
+        "lessonId": "lesson-015",
+        "exId": "lesson-015-ex-005",
+        "en": "The milk is in the fridge."
+      },
+      "sim": 1
+    },
+    {
+      "a": {
+        "lessonId": "lesson-019",
+        "exId": "lesson-019-ex-002",
+        "en": "How do you spell your name?"
+      },
+      "b": {
+        "lessonId": "lesson-027",
+        "exId": "lesson-027-ex-001",
+        "en": "How do you spell your family name?"
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-026",
+        "exId": "lesson-026-ex-001",
+        "en": "Sorry, I can not hear you."
+      },
+      "b": {
+        "lessonId": "lesson-169",
+        "exId": "lesson-169-ex-046",
+        "en": "Sorry, I can not hear you well."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-026",
+        "exId": "lesson-026-ex-030",
+        "en": "Can you repeat the number, please?"
+      },
+      "b": {
+        "lessonId": "lesson-080",
+        "exId": "lesson-080-ex-052",
+        "en": "Can you repeat the order number, please?"
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-028",
+        "exId": "lesson-028-ex-009",
+        "en": "Can I speak to the manager?"
+      },
+      "b": {
+        "lessonId": "lesson-077",
+        "exId": "lesson-077-ex-037",
+        "en": "Can I speak to the manager, please?"
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-029",
+        "exId": "lesson-029-ex-026",
+        "en": "I will call you this evening."
+      },
+      "b": {
+        "lessonId": "lesson-169",
+        "exId": "lesson-169-ex-038",
+        "en": "I will call you back this evening."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-030",
+        "exId": "lesson-030-ex-039",
+        "en": "Is Thursday at ten free?"
+      },
+      "b": {
+        "lessonId": "lesson-121",
+        "exId": "lesson-121-ex-015",
+        "en": "Thursday at ten is free."
+      },
+      "sim": 1
+    },
+    {
+      "a": {
+        "lessonId": "lesson-044",
+        "exId": "lesson-044-ex-033",
+        "en": "The office is on the second floor."
+      },
+      "b": {
+        "lessonId": "lesson-175",
+        "exId": "lesson-175-ex-011",
+        "en": "His office is on the second floor."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-056",
+        "exId": "lesson-056-ex-014",
+        "en": "The water bill is high this month."
+      },
+      "b": {
+        "lessonId": "lesson-069",
+        "exId": "lesson-069-ex-030",
+        "en": "The water bill is high again this month."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-056",
+        "exId": "lesson-056-ex-035",
+        "en": "The electricity bill is high this month."
+      },
+      "b": {
+        "lessonId": "lesson-069",
+        "exId": "lesson-069-ex-001",
+        "en": "The electricity bill is too high this month."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-056",
+        "exId": "lesson-056-ex-035",
+        "en": "The electricity bill is high this month."
+      },
+      "b": {
+        "lessonId": "lesson-069",
+        "exId": "lesson-069-ex-025",
+        "en": "The electricity bill is high again this month."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-056",
+        "exId": "lesson-056-ex-038",
+        "en": "The phone bill is high this month."
+      },
+      "b": {
+        "lessonId": "lesson-069",
+        "exId": "lesson-069-ex-041",
+        "en": "The phone bill is high again this month."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-056",
+        "exId": "lesson-056-ex-039",
+        "en": "The gas bill is high this month."
+      },
+      "b": {
+        "lessonId": "lesson-069",
+        "exId": "lesson-069-ex-035",
+        "en": "The gas bill is high again this month."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-066",
+        "exId": "lesson-066-ex-005",
+        "en": "I smell smoke in the kitchen."
+      },
+      "b": {
+        "lessonId": "lesson-130",
+        "exId": "lesson-130-ex-002",
+        "en": "I can smell smoke in the kitchen!"
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-066",
+        "exId": "lesson-066-ex-035",
+        "en": "There is smoke in the kitchen."
+      },
+      "b": {
+        "lessonId": "lesson-130",
+        "exId": "lesson-130-ex-025",
+        "en": "There is smoke in the kitchen!"
+      },
+      "sim": 1
+    },
+    {
+      "a": {
+        "lessonId": "lesson-066",
+        "exId": "lesson-066-ex-039",
+        "en": "There is smoke in the living room."
+      },
+      "b": {
+        "lessonId": "lesson-130",
+        "exId": "lesson-130-ex-027",
+        "en": "There is smoke in the living room!"
+      },
+      "sim": 1
+    },
+    {
+      "a": {
+        "lessonId": "lesson-066",
+        "exId": "lesson-066-ex-042",
+        "en": "There is a small fire in the kitchen."
+      },
+      "b": {
+        "lessonId": "lesson-130",
+        "exId": "lesson-130-ex-030",
+        "en": "There is a fire in the kitchen!"
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-066",
+        "exId": "lesson-066-ex-046",
+        "en": "There is a small fire in the living room."
+      },
+      "b": {
+        "lessonId": "lesson-130",
+        "exId": "lesson-130-ex-033",
+        "en": "There is a fire in the living room!"
+      },
+      "sim": 0.89
+    },
+    {
+      "a": {
+        "lessonId": "lesson-069",
+        "exId": "lesson-069-ex-011",
+        "en": "The bills arrive at the beginning of the month."
+      },
+      "b": {
+        "lessonId": "lesson-190",
+        "exId": "lesson-190-ex-018",
+        "en": "Bills arrive at the beginning of each month."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-075",
+        "exId": "lesson-075-ex-001",
+        "en": "Hello! How can I help you today?"
+      },
+      "b": {
+        "lessonId": "lesson-178",
+        "exId": "lesson-178-ex-002",
+        "en": "How can I help you today?"
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-083",
+        "exId": "lesson-083-ex-046",
+        "en": "I have a problem with my order."
+      },
+      "b": {
+        "lessonId": "lesson-186",
+        "exId": "lesson-186-ex-002",
+        "en": "I have a problem with my recent order."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-085",
+        "exId": "lesson-085-ex-039",
+        "en": "Let me check that for you."
+      },
+      "b": {
+        "lessonId": "lesson-228",
+        "exId": "lesson-228-ex-016",
+        "en": "Let me check that line for you."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-087",
+        "exId": "lesson-087-ex-054",
+        "en": "Sorry, that time does not work for me."
+      },
+      "b": {
+        "lessonId": "lesson-157",
+        "exId": "lesson-157-ex-003",
+        "en": "That does not work for me, sorry."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-087",
+        "exId": "lesson-087-ex-054",
+        "en": "Sorry, that time does not work for me."
+      },
+      "b": {
+        "lessonId": "lesson-157",
+        "exId": "lesson-157-ex-051",
+        "en": "That time does not work for me."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-088",
+        "exId": "lesson-088-ex-026",
+        "en": "I want to exchange one hundred euros."
+      },
+      "b": {
+        "lessonId": "lesson-115",
+        "exId": "lesson-115-ex-029",
+        "en": "I want to exchange one hundred dollars to euros."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-102",
+        "exId": "lesson-102-ex-027",
+        "en": "Can I see your ID card, please?"
+      },
+      "b": {
+        "lessonId": "lesson-131",
+        "exId": "lesson-131-ex-001",
+        "en": "Can I see your ID, please?"
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-107",
+        "exId": "lesson-107-ex-014",
+        "en": "I will fill in this form."
+      },
+      "b": {
+        "lessonId": "lesson-197",
+        "exId": "lesson-197-ex-008",
+        "en": "I will fill in this form today."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-129",
+        "exId": "lesson-129-ex-003",
+        "en": "When and where did you see it last?"
+      },
+      "b": {
+        "lessonId": "lesson-233",
+        "exId": "lesson-233-ex-003",
+        "en": "Where and when did you last see it?"
+      },
+      "sim": 1
+    },
+    {
+      "a": {
+        "lessonId": "lesson-147",
+        "exId": "lesson-147-ex-014",
+        "en": "I love your bag!"
+      },
+      "b": {
+        "lessonId": "lesson-153",
+        "exId": "lesson-153-ex-024",
+        "en": "I love your your bag!"
+      },
+      "sim": 1
+    },
+    {
+      "a": {
+        "lessonId": "lesson-151",
+        "exId": "lesson-151-ex-046",
+        "en": "I will call you on Sunday."
+      },
+      "b": {
+        "lessonId": "lesson-169",
+        "exId": "lesson-169-ex-040",
+        "en": "I will call you back on Sunday."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-151",
+        "exId": "lesson-151-ex-048",
+        "en": "I will call you after lunch."
+      },
+      "b": {
+        "lessonId": "lesson-169",
+        "exId": "lesson-169-ex-034",
+        "en": "I will call you back after lunch."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-155",
+        "exId": "lesson-155-ex-008",
+        "en": "I do not agree with this decision."
+      },
+      "b": {
+        "lessonId": "lesson-176",
+        "exId": "lesson-176-ex-009",
+        "en": "Sorry, I do not agree with this decision."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-157",
+        "exId": "lesson-157-ex-030",
+        "en": "I would rather not go out tonight."
+      },
+      "b": {
+        "lessonId": "lesson-170",
+        "exId": "lesson-170-ex-003",
+        "en": "I would rather not go out tonight, sorry."
+      },
+      "sim": 0.88
+    },
+    {
+      "a": {
+        "lessonId": "lesson-178",
+        "exId": "lesson-178-ex-002",
+        "en": "How can I help you today?"
+      },
+      "b": {
+        "lessonId": "lesson-230",
+        "exId": "lesson-230-ex-001",
+        "en": "Welcome, how can I help you today?"
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-186",
+        "exId": "lesson-186-ex-049",
+        "en": "Thank you for your patience today."
+      },
+      "b": {
+        "lessonId": "lesson-225",
+        "exId": "lesson-225-ex-024",
+        "en": "Thank you for your patience today, officer."
+      },
+      "sim": 0.86
+    },
+    {
+      "a": {
+        "lessonId": "lesson-235",
+        "exId": "lesson-235-ex-039",
+        "en": "You take photos of the scene."
+      },
+      "b": {
+        "lessonId": "lesson-240",
+        "exId": "lesson-240-ex-015",
+        "en": "Did you take photos of the scene?"
+      },
+      "sim": 0.86
+    }
+  ],
+  "summary": {
+    "exactCount": 0,
+    "similarCount": 36,
+    "dictationSentences": 10680
+  }
+}

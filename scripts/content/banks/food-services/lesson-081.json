@@ -1,0 +1,348 @@
+{
+  "id": "lesson-081",
+  "objectives": [
+    "Describe simple symptoms to the pharmacist",
+    "Ask about medicines, doses, and prices",
+    "Use should and should not to give advice"
+  ],
+  "grammar": {
+    "explanation": "At the pharmacy, people give advice with 'should'. Use 'should' to say a good idea, like 'You should rest', and 'should not' for a bad idea. In questions, 'Should I take it with food?' politely asks for advice.",
+    "explanationAr": "نستخدم should لتقديم النصيحة في الصيدلية: You should rest أي ينبغي أن ترتاح، و should not للنصيحة بعدم فعل شيء. وفي الأسئلة نقول Should I take it with food? لطلب النصيحة بلطف.",
+    "examples": [
+      {
+        "en": "You should take this medicine after food.",
+        "ar": "ينبغي أن تتناول هذا الدواء بعد الأكل."
+      },
+      {
+        "en": "You should not take two pills together.",
+        "ar": "لا ينبغي أن تتناول حبتين معًا."
+      },
+      {
+        "en": "Should I take it with water?",
+        "ar": "هل ينبغي أن آخذه مع الماء؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "pharmacy",
+      "meaningAr": "صيدلية",
+      "example": "The pharmacy is next to the bank."
+    },
+    {
+      "word": "pharmacist",
+      "meaningAr": "صيدلي",
+      "example": "Ask the pharmacist for advice."
+    },
+    {
+      "word": "medicine",
+      "meaningAr": "دواء",
+      "example": "Do you have medicine for a cold?"
+    },
+    {
+      "word": "pill",
+      "meaningAr": "حبة (قرص دواء)",
+      "example": "Take one pill with water."
+    },
+    {
+      "word": "headache",
+      "meaningAr": "صداع",
+      "example": "I have a bad headache."
+    },
+    {
+      "word": "cough",
+      "meaningAr": "كحّة",
+      "example": "A hot drink helps my cough."
+    },
+    {
+      "word": "fever",
+      "meaningAr": "حمّى",
+      "example": "The child has a fever."
+    },
+    {
+      "word": "prescription",
+      "meaningAr": "وصفة طبية",
+      "example": "Here is my prescription."
+    },
+    {
+      "word": "painkiller",
+      "meaningAr": "مسكّن",
+      "example": "This painkiller is very strong."
+    },
+    {
+      "word": "syrup",
+      "meaningAr": "شراب (دواء)",
+      "example": "The syrup tastes sweet."
+    },
+    {
+      "word": "dose",
+      "meaningAr": "جرعة",
+      "example": "Never double the dose."
+    },
+    {
+      "word": "symptom",
+      "meaningAr": "عَرَض مرضي",
+      "example": "A fever is a common symptom."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I need something for a headache.",
+      "ar": "أحتاج شيئًا للصداع."
+    },
+    {
+      "en": "I have a sore throat.",
+      "ar": "عندي التهاب في الحلق.",
+      "alt": "I've got a sore throat."
+    },
+    {
+      "en": "My son has a fever.",
+      "ar": "ابني عنده حمّى."
+    },
+    {
+      "en": "This cough is worse at night.",
+      "ar": "هذه الكحّة تسوء في الليل."
+    },
+    {
+      "en": "How often should I take it?",
+      "ar": "كم مرة ينبغي أن آخذه؟"
+    },
+    {
+      "en": "Take one pill after every meal.",
+      "ar": "خذ حبة واحدة بعد كل وجبة."
+    },
+    {
+      "en": "Can I take these pills together?",
+      "ar": "هل يمكنني تناول هذه الحبوب معًا؟"
+    },
+    {
+      "en": "Yes, take it with a big glass of water.",
+      "ar": "نعم، خذه مع كأس كبير من الماء."
+    },
+    {
+      "en": "I have a prescription from my doctor.",
+      "ar": "عندي وصفة طبية من طبيبي."
+    },
+    {
+      "en": "Can you check the prescription, please?",
+      "ar": "هل يمكنك التحقق من الوصفة، من فضلك؟"
+    },
+    {
+      "en": "The pharmacy opens at nine o'clock.",
+      "ar": "تفتح الصيدلية في التاسعة."
+    },
+    {
+      "en": "Do you have this medicine?",
+      "ar": "هل عندكم هذا الدواء؟"
+    },
+    {
+      "en": "It comes as pills or syrup.",
+      "ar": "يتوفر على شكل حبوب أو شراب."
+    },
+    {
+      "en": "How much is this medicine?",
+      "ar": "بكم هذا الدواء؟"
+    },
+    {
+      "en": "It costs eight dollars.",
+      "ar": "ثمنه ثمانية دولارات."
+    },
+    {
+      "en": "Take the syrup twice a day.",
+      "ar": "خذ الشراب مرتين في اليوم."
+    },
+    {
+      "en": "Do not take more than the dose.",
+      "ar": "لا تأخذ أكثر من الجرعة.",
+      "alt": "Don't take more than the dose."
+    },
+    {
+      "en": "This medicine may make you sleepy.",
+      "ar": "قد يسبب لك هذا الدواء النعاس."
+    },
+    {
+      "en": "Do not drink coffee with these pills.",
+      "ar": "لا تشرب القهوة مع هذه الحبوب."
+    },
+    {
+      "en": "Are there any side effects?",
+      "ar": "هل توجد أعراض جانبية؟"
+    },
+    {
+      "en": "Do these drops need a prescription?",
+      "ar": "هل تحتاج هذه القطرات إلى وصفة طبية؟"
+    },
+    {
+      "en": "I feel dizzy today.",
+      "ar": "أشعر بالدوار اليوم."
+    },
+    {
+      "en": "My back pain is very strong.",
+      "ar": "ألم ظهري شديد جدًا."
+    },
+    {
+      "en": "Can I get something for a cold?",
+      "ar": "هل يمكنني الحصول على شيء للزكام؟"
+    },
+    {
+      "en": "My daughter cannot take pills.",
+      "ar": "ابنتي لا تستطيع تناول الحبوب."
+    },
+    {
+      "en": "Is there a syrup for children?",
+      "ar": "هل يوجد شراب للأطفال؟"
+    },
+    {
+      "en": "Here is a spoon for the syrup.",
+      "ar": "هذه ملعقة للشراب."
+    },
+    {
+      "en": "Take two pills a day, no more.",
+      "ar": "خذ حبتين في اليوم، لا أكثر."
+    },
+    {
+      "en": "Should I stay home today?",
+      "ar": "هل ينبغي أن أبقى في البيت اليوم؟"
+    },
+    {
+      "en": "You should rest and drink water.",
+      "ar": "ينبغي أن ترتاح وتشرب الماء."
+    },
+    {
+      "en": "You should not lift heavy things.",
+      "ar": "لا ينبغي أن ترفع أشياء ثقيلة."
+    },
+    {
+      "en": "I need a box of tissues too.",
+      "ar": "أحتاج علبة مناديل أيضًا."
+    },
+    {
+      "en": "Keep this medicine away from children.",
+      "ar": "احفظ هذا الدواء بعيدًا عن الأطفال."
+    },
+    {
+      "en": "This medicine is good until June.",
+      "ar": "هذا الدواء صالح حتى شهر يونيو."
+    },
+    {
+      "en": "Where is the nearest pharmacy?",
+      "ar": "أين أقرب صيدلية؟"
+    },
+    {
+      "en": "The pharmacist is very helpful.",
+      "ar": "الصيدلي متعاون جدًا."
+    },
+    {
+      "en": "Do you have anything for a cough?",
+      "ar": "هل لديكم شيء للكحة؟"
+    },
+    {
+      "en": "I am here to pick up my medicine.",
+      "ar": "جئت لاستلام دوائي."
+    },
+    {
+      "en": "The medicine is for my mother.",
+      "ar": "الدواء مخصص لأمي."
+    },
+    {
+      "en": "The prescription is ready for pickup.",
+      "ar": "الوصفة الطبية جاهزة للاستلام."
+    },
+    {
+      "en": "For five days, then stop.",
+      "ar": "لمدة خمسة أيام، ثم توقف."
+    },
+    {
+      "en": "I hope you feel better soon.",
+      "ar": "أتمنى أن تتحسن صحتك قريبًا."
+    }
+  ],
+  "fb": [
+    {
+      "display": "You ___ take it with food.",
+      "blank": "should",
+      "en": "You should take it with food.",
+      "ar": "ينبغي أن تأخذه مع الطعام."
+    },
+    {
+      "display": "I take one ___ in the morning.",
+      "blank": "pill",
+      "en": "I take one pill in the morning.",
+      "ar": "آخذ حبة واحدة في الصباح."
+    },
+    {
+      "display": "This ___ is for the pain.",
+      "blank": "cream",
+      "en": "This cream is for the pain.",
+      "ar": "هذا الكريم للآلام."
+    },
+    {
+      "display": "Keep it away from small ___.",
+      "blank": "children",
+      "en": "Keep it away from small children.",
+      "ar": "احفظه بعيدًا عن الأطفال الصغار."
+    },
+    {
+      "display": "Is this ___ still good?",
+      "blank": "medicine",
+      "en": "Is this medicine still good?",
+      "ar": "هل هذا الدواء ما زال صالحًا؟"
+    },
+    {
+      "display": "What do you take for a ___?",
+      "blank": "headache",
+      "en": "What do you take for a headache?",
+      "ar": "ماذا تأخذ للصداع؟"
+    }
+  ],
+  "wo": [
+    {
+      "en": "I need something for a cold.",
+      "ar": "أحتاج شيئًا للزكام."
+    },
+    {
+      "en": "I should take my medicine now.",
+      "ar": "ينبغي أن آخذ دوائي الآن."
+    },
+    {
+      "en": "Read the label before you start.",
+      "ar": "اقرأ الملصق قبل أن تبدأ."
+    },
+    {
+      "en": "Do not stop the medicine early.",
+      "ar": "لا توقف الدواء مبكرًا."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'pharmacist' mean?",
+      "options": [
+        "الطبيب",
+        "الصيدلي",
+        "الممرض"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة pharmacist؟"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "options": [
+        "You should rest today.",
+        "You should resting today.",
+        "You should to rest today."
+      ],
+      "answerIndex": 0,
+      "ar": "اختر الجملة الصحيحة."
+    },
+    {
+      "question": "What does 'dose' mean?",
+      "options": [
+        "الجرعة",
+        "الوصفة الطبية",
+        "الشراب"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى كلمة dose؟"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "id": "lesson-095",
+  "objectives": [
+    "Reuse service words from lessons 71–94 in new sentences",
+    "Handle requests, complaints and payments with confidence",
+    "Check your grammar: past, present, questions and polite requests"
+  ],
+  "grammar": {
+    "explanation": "This review lesson mixes sentences from every service topic in the section, so watch the tense: use the past simple for finished actions, the present simple for habits and opening times, and will for future plans. For polite requests, use can, could, or would like.",
+    "explanationAr": "هذا الدرس مراجعة يجمع كل موضوعات قسم الطعام والتسوق والخدمات. انتبه جيدًا للأزمنة: استخدم الماضي البسيط للأفعال المنتهية، والمضارع البسيط للعادات وأوقات العمل، وwill للخطط المستقبلية، واستخدم can أو could أو would like للطلب المهذب.",
+    "examples": [
+      {
+        "en": "I ordered a pizza and the delivery arrived late.",
+        "ar": "طلبت بيتزا ووصل التوصيل متأخرًا."
+      },
+      {
+        "en": "Could I exchange this shirt for a bigger size?",
+        "ar": "هل يمكنني استبدال هذا القميص بمقاس أكبر؟"
+      },
+      {
+        "en": "The pharmacy closes at ten o'clock every night.",
+        "ar": "تغلق الصيدلية في العاشرة كل ليلة."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "receipt",
+      "meaningAr": "إيصال",
+      "example": "The receipt shows everything you bought today."
+    },
+    {
+      "word": "refund",
+      "meaningAr": "استرداد المال",
+      "example": "He asked for a refund because the kettle was damaged."
+    },
+    {
+      "word": "delivery",
+      "meaningAr": "توصيل",
+      "example": "The delivery man left the box with my neighbor."
+    },
+    {
+      "word": "prescription",
+      "meaningAr": "وصفة طبية",
+      "example": "Take this prescription to the pharmacy on the corner."
+    },
+    {
+      "word": "appointment",
+      "meaningAr": "موعد",
+      "example": "My appointment with the dentist is at four o'clock."
+    },
+    {
+      "word": "account",
+      "meaningAr": "حساب",
+      "example": "She opened a savings account at the local bank."
+    },
+    {
+      "word": "stamp",
+      "meaningAr": "طابع بريد",
+      "example": "One stamp is not enough for this heavy letter."
+    },
+    {
+      "word": "membership",
+      "meaningAr": "عضوية",
+      "example": "My gym membership is valid for one full year."
+    },
+    {
+      "word": "reservation",
+      "meaningAr": "حجز",
+      "example": "Please call us if you need to change your reservation."
+    },
+    {
+      "word": "complaint",
+      "meaningAr": "شكوى",
+      "example": "The manager solved my complaint in five minutes."
+    },
+    {
+      "word": "cash",
+      "meaningAr": "نقد",
+      "example": "The taxi driver only takes cash, not cards."
+    },
+    {
+      "word": "discount",
+      "meaningAr": "خصم",
+      "example": "Students get a discount on cinema tickets here."
+    }
+  ],
+  "lt": [
+    {
+      "en": "The waiter brought our food very quickly.",
+      "ar": "أحضر النادل طعامنا بسرعة كبيرة."
+    },
+    {
+      "en": "We booked a table for six people on Friday.",
+      "ar": "حجزنا طاولة لستة أشخاص يوم الجمعة."
+    },
+    {
+      "en": "I did not like the soup, so I asked for a different one.",
+      "ar": "لم يعجبني الحساء، فطلبت غيره.",
+      "alt": "I didn't like the soup, so I asked for a different one."
+    },
+    {
+      "en": "Please bring the bill because we are in a hurry.",
+      "ar": "من فضلك أحضر الحساب لأننا على عجلة من أمرنا."
+    },
+    {
+      "en": "The soup was cold, so the manager gave us a free dessert.",
+      "ar": "كان الحساء باردًا، فأعطانا المدير حلوى مجانية."
+    },
+    {
+      "en": "How much tip should I leave for the waiter?",
+      "ar": "كم إكرامية ينبغي أن أترك للنادل؟"
+    },
+    {
+      "en": "I bought fresh bread and cheese from the bakery.",
+      "ar": "اشتريت خبزًا وجبنًا طازجين من المخبزة."
+    },
+    {
+      "en": "The supermarket gives a discount to members every Tuesday.",
+      "ar": "يمنح السوبر ماركت خصمًا للأعضاء كل ثلاثاء."
+    },
+    {
+      "en": "Can I pay by card at the street food cart?",
+      "ar": "هل يمكنني الدفع بالبطاقة عند بائع الطعام في الشارع؟"
+    },
+    {
+      "en": "She ordered a small salad and a glass of orange juice.",
+      "ar": "طلبت سلطة صغيرة وكوبًا من عصير البرتقال."
+    },
+    {
+      "en": "She exchanged the blue dress for a larger size yesterday.",
+      "ar": "استبدلت الفستان الأزرق بمقاس أكبر أمس."
+    },
+    {
+      "en": "Do you have these trousers in a bigger size?",
+      "ar": "هل يوجد هذا البنطلون بمقاس أكبر؟"
+    },
+    {
+      "en": "The green shirt is cheaper than the white one.",
+      "ar": "القميص الأخضر أرخص من الأبيض."
+    },
+    {
+      "en": "Can I try these shoes on before I buy them?",
+      "ar": "هل يمكنني تجربة هذه الأحذية قبل شرائها؟"
+    },
+    {
+      "en": "This bag costs eighty dollars, but it is on sale today.",
+      "ar": "سعر هذه الحقيبة ثمانون دولارًا، لكنه مخفض اليوم."
+    },
+    {
+      "en": "My online order arrived two days late, and the box was open.",
+      "ar": "وصل طلبي عبر الإنترنت متأخرًا يومين، وكان الصندوق مفتوحًا."
+    },
+    {
+      "en": "The delivery driver will call you when he reaches the gate.",
+      "ar": "سيتصل بك سائق التوصيل عندما يصل إلى البوابة."
+    },
+    {
+      "en": "I want to change the delivery address to my office.",
+      "ar": "أريد تغيير عنوان التوصيل إلى مكتبي."
+    },
+    {
+      "en": "Did the package from the supermarket arrive this morning?",
+      "ar": "هل وصل الطرد من السوبر ماركت هذا الصباح؟"
+    },
+    {
+      "en": "The pharmacist explained how to take the medicine twice a day.",
+      "ar": "شرح الصيدلي كيفية تناول الدواء مرتين في اليوم."
+    },
+    {
+      "en": "You need a prescription from the doctor for these tablets.",
+      "ar": "تحتاج إلى وصفة من الطبيب لهذه الأقراص."
+    },
+    {
+      "en": "Is there a pharmacy open near the hotel at night?",
+      "ar": "هل توجد صيدلية مفتوحة قرب الفندق ليلاً؟"
+    },
+    {
+      "en": "I opened a bank account and deposited two hundred dollars.",
+      "ar": "فتحت حسابًا في البنك وأودعت مئتي دولار."
+    },
+    {
+      "en": "The ATM outside the bank did not give back my card.",
+      "ar": "لم يُرجع الصراف الآلي خارج البنك بطاقتي."
+    },
+    {
+      "en": "Could you tell me where the nearest cash machine is?",
+      "ar": "هل يمكنك أن تخبرني أين أقرب صراف آلي؟",
+      "alt": "Can you tell me where the nearest cash machine is?"
+    },
+    {
+      "en": "She pays the electricity bill at the bank every month.",
+      "ar": "تدفع فاتورة الكهرباء في البنك كل شهر."
+    },
+    {
+      "en": "I need three stamps and a big envelope for this letter.",
+      "ar": "أحتاج إلى ثلاثة طوابع ومظروف كبير لهذا الخطاب."
+    },
+    {
+      "en": "How long does it take for a letter to reach London?",
+      "ar": "كم يستغرق وصول الرسالة إلى لندن؟"
+    },
+    {
+      "en": "Please send this package to my brother in Dubai.",
+      "ar": "من فضلك أرسل هذا الطرد إلى أخي في دبي."
+    },
+    {
+      "en": "I made an appointment with the dentist for tomorrow morning.",
+      "ar": "حددت موعدًا مع طبيب الأسنان صباح الغد."
+    },
+    {
+      "en": "Can we move our appointment to four o'clock on Thursday?",
+      "ar": "هل يمكننا نقل موعدنا إلى الرابعة يوم الخميس؟"
+    },
+    {
+      "en": "The barber was busy, so I waited twenty minutes.",
+      "ar": "كان الحلاق مشغولًا، فانتظرت عشرين دقيقة."
+    },
+    {
+      "en": "Please cut my hair short but leave the beard.",
+      "ar": "من فضلك قصّر شعري لكن اترك اللحية."
+    },
+    {
+      "en": "I want to make a complaint about the broken freezer.",
+      "ar": "أريد تقديم شكوى بشأن الثلاجة المعطلة."
+    },
+    {
+      "en": "The customer service team answered my email in one hour.",
+      "ar": "أجاب فريق خدمة العملاء على بريدي الإلكتروني خلال ساعة."
+    },
+    {
+      "en": "I asked the shop to repair my broken phone screen.",
+      "ar": "طلبت من المتجر إصلاح شاشة هاتفي المعطلة."
+    },
+    {
+      "en": "Excuse me, who can help me with this problem?",
+      "ar": "عفوًا، من يستطيع مساعدتي في هذه المشكلة؟"
+    },
+    {
+      "en": "Our cinema tickets were in the last row, but the film was great.",
+      "ar": "كانت تذاكر السينما لدينا في الصف الأخير، لكن الفيلم كان رائعًا."
+    },
+    {
+      "en": "I would like to cancel my gym membership next month.",
+      "ar": "أود إلغاء اشتراكي في النادي الرياضي الشهر القادم.",
+      "alt": "I'd like to cancel my gym membership next month."
+    },
+    {
+      "en": "They confirmed the reservation by text message.",
+      "ar": "أكدوا الحجز برسالة نصية."
+    },
+    {
+      "en": "The clerk asked me to fill in this form and sign it.",
+      "ar": "طلب مني الموظف أن أملأ هذه الاستمارة وأوقّع عليها."
+    },
+    {
+      "en": "Bring your passport when you visit the government office.",
+      "ar": "أحضر جواز سفرك عندما تزور المكتب الحكومي."
+    },
+    {
+      "en": "The laundry lost one of my white shirts.",
+      "ar": "أضاعت المغسلة أحد قمصاني البيضاء."
+    },
+    {
+      "en": "This sweater must be washed by hand in cold water.",
+      "ar": "يجب غسل هذه السترة يدويًا بماء بارد."
+    },
+    {
+      "en": "I picked up my medicine, then I bought fruit at the market.",
+      "ar": "استلمت دوائي ثم اشتريت فاكهة من السوق."
+    },
+    {
+      "en": "We watched a film, then we ate pizza at the food court.",
+      "ar": "شاهدنا فيلمًا ثم أكلنا بيتزا في منطقة المطاعم."
+    },
+    {
+      "en": "I paid cash for the coffee and kept the receipt.",
+      "ar": "دفعت نقدًا ثمن القهوة واحتفظت بالإيصال."
+    },
+    {
+      "en": "We will not shop at that store again because the staff were rude.",
+      "ar": "لن نتسوق في ذلك المتجر مرة أخرى لأن الموظفين كانوا فظين."
+    },
+    {
+      "en": "When does the bank open on Saturday?",
+      "ar": "متى يفتح البنك يوم السبت؟"
+    },
+    {
+      "en": "I will meet the manager at ten to discuss the refund.",
+      "ar": "سأقابل المدير في العاشرة لمناقشة استرداد المبلغ."
+    }
+  ],
+  "fb": [
+    {
+      "display": "The shop gave me a full ___ for the broken lamp.",
+      "blank": "refund",
+      "en": "The shop gave me a full refund for the broken lamp.",
+      "ar": "أعطاني المتجر المبلغ كاملًا مقابل المصباح المعطل."
+    },
+    {
+      "display": "Please keep the ___ after you pay.",
+      "blank": "receipt",
+      "en": "Please keep the receipt after you pay.",
+      "ar": "من فضلك احتفظ بالإيصال بعد أن تدفع."
+    },
+    {
+      "display": "The ___ opens at nine in the morning.",
+      "blank": "pharmacy",
+      "en": "The pharmacy opens at nine in the morning.",
+      "ar": "تفتح الصيدلية في التاسعة صباحًا."
+    },
+    {
+      "display": "I bought a ___ for the letter at the post office.",
+      "blank": "stamp",
+      "en": "I bought a stamp for the letter at the post office.",
+      "ar": "اشتريت طابعًا للخطاب من مكتب البريد."
+    },
+    {
+      "display": "Do you take ___ or card?",
+      "blank": "cash",
+      "en": "Do you take cash or card?",
+      "ar": "هل تقبلون الدفع نقدًا أم بالبطاقة؟"
+    },
+    {
+      "display": "Our ___ for Saturday night is at eight o'clock.",
+      "blank": "reservation",
+      "en": "Our reservation for Saturday night is at eight o'clock.",
+      "ar": "حجزنا لليلة السبت في الثامنة."
+    },
+    {
+      "display": "Members get a ten percent ___ every week.",
+      "blank": "discount",
+      "en": "Members get a ten percent discount every week.",
+      "ar": "يحصل الأعضاء على خصم عشرة في المئة كل أسبوع."
+    },
+    {
+      "display": "The doctor wrote a ___ for my cough medicine.",
+      "blank": "prescription",
+      "en": "The doctor wrote a prescription for my cough medicine.",
+      "ar": "كتب الطبيب وصفة طبية لدواء الكحة."
+    },
+    {
+      "display": "She has an ___ with the hairdresser at noon.",
+      "blank": "appointment",
+      "en": "She has an appointment with the hairdresser at noon.",
+      "ar": "لديها موعد مع المصفف في الظهر."
+    }
+  ],
+  "wo": [
+    {
+      "en": "Where is the fitting room?",
+      "ar": "أين غرفة قياس الملابس؟"
+    },
+    {
+      "en": "The bank opens at nine.",
+      "ar": "يفتح البنك في التاسعة."
+    },
+    {
+      "en": "Did you send the package?",
+      "ar": "هل أرسلت الطرد؟"
+    },
+    {
+      "en": "Where is the customer service desk?",
+      "ar": "أين مكتب خدمة العملاء؟"
+    },
+    {
+      "en": "Can you deliver it on Friday?",
+      "ar": "هل يمكنكم توصيله يوم الجمعة؟"
+    },
+    {
+      "en": "The delivery will arrive tomorrow.",
+      "ar": "سيصل التوصيل غدًا."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'refund' mean?",
+      "options": [
+        "وصل الشراء",
+        "استرداد المال",
+        "خدمة التوصيل"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة refund؟"
+    },
+    {
+      "question": "What does 'appointment' mean?",
+      "options": [
+        "وصفة طبية",
+        "طابع بريدي",
+        "موعد"
+      ],
+      "answerIndex": 2,
+      "ar": "ما معنى كلمة appointment؟"
+    },
+    {
+      "question": "Which sentence is a polite request?",
+      "options": [
+        "Give me the bill now.",
+        "Could I have the bill, please?",
+        "You must bring the bill.",
+        "The bill is on the table."
+      ],
+      "answerIndex": 1,
+      "ar": "أي جملة تُعدّ طلبًا مهذبًا؟"
+    },
+    {
+      "question": "Which sentence talks about a finished past action?",
+      "options": [
+        "I will order a pizza tonight.",
+        "I order fish every Friday.",
+        "I ordered a pizza last night."
+      ],
+      "answerIndex": 2,
+      "ar": "أي جملة تتحدث عن فعل انتهى في الماضي؟"
+    },
+    {
+      "question": "What is the best way to ask about a late delivery?",
+      "options": [
+        "Where is my order? It is late!",
+        "Could you check why my delivery is late, please?",
+        "You are always very slow."
+      ],
+      "answerIndex": 1,
+      "ar": "ما أفضل طريقة للسؤال عن توصيل متأخر؟"
+    }
+  ]
+}

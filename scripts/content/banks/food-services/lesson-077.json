@@ -1,0 +1,348 @@
+{
+  "id": "lesson-077",
+  "objectives": [
+    "Return or exchange an item with a receipt",
+    "Explain a problem with a product politely",
+    "Use the past simple to describe what happened"
+  ],
+  "grammar": {
+    "explanation": "Use the past simple to talk about a problem with something you bought. Say what happened: 'The zipper broke.' 'I bought it last week.' Regular verbs end in -ed, like 'cracked' and 'stopped'. For negatives, use did not or didn't with the base verb: 'It didn't work.'",
+    "explanationAr": "نستخدم الماضي البسيط للحديث عن مشكلة حدثت مع شيء اشتريته، مثل: انكسر السحاب، اشتريته الأسبوع الماضي. الأفعال المنتظمة تنتهي بـ ed، وللنفي نستخدم didn't مع مصدر الفعل.",
+    "examples": [
+      {
+        "en": "I bought this phone here last week.",
+        "ar": "اشتريت هذا الهاتف هنا الأسبوع الماضي."
+      },
+      {
+        "en": "The zipper broke after two days.",
+        "ar": "انكسر السحاب بعد يومين."
+      },
+      {
+        "en": "It didn't work, so I brought it back.",
+        "ar": "لم يعمل، لذلك أعده إلى المتجر."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "receipt",
+      "meaningAr": "إيصال",
+      "example": "Here is my receipt."
+    },
+    {
+      "word": "refund",
+      "meaningAr": "استرداد المال",
+      "example": "Can I get a refund?"
+    },
+    {
+      "word": "exchange",
+      "meaningAr": "استبدال",
+      "example": "I want to exchange these shoes."
+    },
+    {
+      "word": "return",
+      "meaningAr": "إرجاع",
+      "example": "I need to return this radio."
+    },
+    {
+      "word": "damaged",
+      "meaningAr": "تالف",
+      "example": "The box was damaged in shipping."
+    },
+    {
+      "word": "broken",
+      "meaningAr": "مكسور",
+      "example": "The handle is broken."
+    },
+    {
+      "word": "policy",
+      "meaningAr": "سياسة",
+      "example": "The policy is on the website."
+    },
+    {
+      "word": "manager",
+      "meaningAr": "مدير",
+      "example": "The manager is very kind."
+    },
+    {
+      "word": "tag",
+      "meaningAr": "بطاقة السعر",
+      "example": "Do not remove the tag."
+    },
+    {
+      "word": "credit",
+      "meaningAr": "رصيد",
+      "example": "Store credit is on this card."
+    },
+    {
+      "word": "cash",
+      "meaningAr": "نقدًا",
+      "example": "Do you take cash?"
+    },
+    {
+      "word": "condition",
+      "meaningAr": "حالة",
+      "example": "The shoes are in good condition."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I'd like to return this jacket, please.",
+      "alt": "I would like to return this jacket, please.",
+      "ar": "أود إرجاع هذه السترة من فضلك."
+    },
+    {
+      "en": "I bought it here last Saturday.",
+      "ar": "اشتريته هنا يوم السبت الماضي."
+    },
+    {
+      "en": "It doesn't work anymore.",
+      "alt": "It does not work anymore.",
+      "ar": "لم يعد يعمل."
+    },
+    {
+      "en": "Can I get a full refund?",
+      "ar": "هل يمكنني استرداد المال كاملًا؟"
+    },
+    {
+      "en": "The zipper is broken.",
+      "ar": "السحاب مكسور."
+    },
+    {
+      "en": "Do I need the receipt to return it?",
+      "ar": "هل أحتاج الإيصال لإرجاعه؟"
+    },
+    {
+      "en": "Yes, here is my receipt.",
+      "ar": "نعم، هذا إيصالي."
+    },
+    {
+      "en": "I lost the receipt, but I have my card.",
+      "ar": "أضعت الإيصال، لكن معي بطاقتي."
+    },
+    {
+      "en": "The shirt is the wrong size.",
+      "ar": "القميص بمقاس خاطئ."
+    },
+    {
+      "en": "It shrank after I washed it.",
+      "ar": "انكمش بعد أن غسلته."
+    },
+    {
+      "en": "Can I exchange it for a bigger one?",
+      "ar": "هل يمكنني استبداله بقطعة أكبر؟"
+    },
+    {
+      "en": "These shoes hurt my feet.",
+      "ar": "هذه الأحذية تؤلم قدميّ."
+    },
+    {
+      "en": "They are too tight.",
+      "ar": "هي ضيقة جدًا."
+    },
+    {
+      "en": "I want a different color, please.",
+      "ar": "أريد لونًا مختلفًا، من فضلك."
+    },
+    {
+      "en": "What is the store's return policy?",
+      "ar": "ما هي سياسة الإرجاع في المتجر؟"
+    },
+    {
+      "en": "You can exchange it for store credit.",
+      "ar": "يمكنك استبداله برصيد في المتجر."
+    },
+    {
+      "en": "The item must be in good condition.",
+      "ar": "يجب أن تكون القطعة بحالة جيدة."
+    },
+    {
+      "en": "Do you have the box?",
+      "ar": "هل معك الصندوق؟"
+    },
+    {
+      "en": "Yes, I kept the box and the tag.",
+      "ar": "نعم، احتفظت بالصندوق والبطاقة."
+    },
+    {
+      "en": "I paid in cash.",
+      "ar": "دفعت نقدًا."
+    },
+    {
+      "en": "Can I get the money back in cash?",
+      "ar": "هل يمكنني استرداد المال نقدًا؟"
+    },
+    {
+      "en": "We can give you store credit.",
+      "ar": "يمكننا أن نمنحك رصيدًا في المتجر."
+    },
+    {
+      "en": "I would prefer a refund, please.",
+      "ar": "أفضّل استرداد المال، من فضلك."
+    },
+    {
+      "en": "The zipper is stuck.",
+      "ar": "السحّاب عالق."
+    },
+    {
+      "en": "It stopped working after two days.",
+      "ar": "توقف عن العمل بعد يومين."
+    },
+    {
+      "en": "There is a hole in the sweater.",
+      "ar": "هناك ثقب في الكنزة."
+    },
+    {
+      "en": "I did not use it at all.",
+      "ar": "لم أستخدمه إطلاقًا."
+    },
+    {
+      "en": "Can I speak to the manager, please?",
+      "ar": "هل يمكنني التحدث إلى المدير، من فضلك؟"
+    },
+    {
+      "en": "The manager will help you.",
+      "ar": "سيساعدك المدير."
+    },
+    {
+      "en": "I am sorry about the problem.",
+      "ar": "أنا آسف على هذه المشكلة."
+    },
+    {
+      "en": "I don't need it anymore.",
+      "ar": "لم أعد بحاجة إليه."
+    },
+    {
+      "en": "Where is the returns desk?",
+      "ar": "أين مكتب الاسترجاع؟"
+    },
+    {
+      "en": "It's over there, near the door.",
+      "ar": "إنه هناك، قرب الباب."
+    },
+    {
+      "en": "Please keep the tag on the item.",
+      "ar": "من فضلك أبقِ البطاقة على القطعة."
+    },
+    {
+      "en": "Sign here, please.",
+      "ar": "وقّع هنا، من فضلك."
+    },
+    {
+      "en": "You will get your refund in three days.",
+      "ar": "ستحصل على المبلغ المسترد خلال ثلاثة أيام."
+    },
+    {
+      "en": "The refund goes back to your card.",
+      "ar": "يُعاد المبلغ إلى بطاقتك."
+    },
+    {
+      "en": "Bring the item in its original box.",
+      "ar": "أحضر القطعة في علبتها الأصلية."
+    },
+    {
+      "en": "No problem at all.",
+      "ar": "لا مشكلة على الإطلاق."
+    },
+    {
+      "en": "Can I return a gift without a receipt?",
+      "ar": "هل يمكنني إرجاع هدية بدون إيصال؟"
+    },
+    {
+      "en": "Sorry, we need a receipt for gifts.",
+      "ar": "عذرًا، نحتاج إيصالًا للهدايا."
+    },
+    {
+      "en": "I hope you find a better one.",
+      "ar": "أتمنى أن تجد قطعة أفضل."
+    }
+  ],
+  "fb": [
+    {
+      "display": "Can I get a ___ for this radio?",
+      "blank": "refund",
+      "en": "Can I get a refund for this radio?",
+      "ar": "هل يمكنني استرداد المال لهذا الراديو؟"
+    },
+    {
+      "display": "I want to ___ these shoes, please.",
+      "blank": "exchange",
+      "en": "I want to exchange these shoes, please.",
+      "ar": "أريد استبدال هذه الأحذية من فضلك."
+    },
+    {
+      "display": "Here is my ___, sir.",
+      "blank": "receipt",
+      "en": "Here is my receipt, sir.",
+      "ar": "هذا إيصالي يا سيدي."
+    },
+    {
+      "display": "The mug arrived ___.",
+      "blank": "broken",
+      "en": "The mug arrived broken.",
+      "ar": "وصل الكوب مكسورًا."
+    },
+    {
+      "display": "What is your return ___?",
+      "blank": "policy",
+      "en": "What is your return policy?",
+      "ar": "ما هي سياسة الإرجاع لديكم؟"
+    },
+    {
+      "display": "I kept the ___ on the shirt.",
+      "blank": "tag",
+      "en": "I kept the tag on the shirt.",
+      "ar": "احتفظت بالبطاقة على القميص."
+    }
+  ],
+  "wo": [
+    {
+      "en": "The kettle stopped working last week.",
+      "ar": "توقف الغلاية عن العمل الأسبوع الماضي."
+    },
+    {
+      "en": "Can I exchange this jacket for another?",
+      "ar": "هل يمكنني استبدال هذه السترة بأخرى؟"
+    },
+    {
+      "en": "I paid cash for this lamp.",
+      "ar": "دفعت نقدًا ثمن هذا المصباح."
+    },
+    {
+      "en": "Do you want the money in cash?",
+      "ar": "هل تريد المال نقدًا؟"
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'refund' mean?",
+      "options": [
+        "استبدال",
+        "استرداد المال",
+        "خصم"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة refund؟"
+    },
+    {
+      "question": "Which sentence is correct for a broken item?",
+      "options": [
+        "The zipper are broken.",
+        "The zipper is broken.",
+        "The zipper broken is."
+      ],
+      "answerIndex": 1,
+      "ar": "أي جملة صحيحة لوصف شيء مكسور؟"
+    },
+    {
+      "question": "What do you say to return an item politely?",
+      "options": [
+        "Give me my money now!",
+        "I'd like to return this, please.",
+        "You sold me a bad thing."
+      ],
+      "answerIndex": 1,
+      "ar": "ماذا تقول لإرجاع شيء بأدب؟"
+    }
+  ]
+}

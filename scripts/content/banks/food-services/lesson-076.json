@@ -1,0 +1,94 @@
+{
+  "id": "lesson-076",
+  "objectives": [
+    "Ask for clothing in a specific size",
+    "Name common colors and ask what is available",
+    "Compare two items using comparative adjectives"
+  ],
+  "grammar": {
+    "explanation": "To compare two items, add -er to short adjectives: cheaper, bigger, darker. Use 'than' after the comparative: the blue one is cheaper than the green one. With longer adjectives like 'comfortable', use 'more': these shoes are more comfortable.",
+    "explanationAr": "للمقارنة بين شيئين نضيف er إلى نهاية الصفات القصيرة مثل أرخص وأكبر وأغمق، ونستخدم كلمة than بعد الصفة. أما الصفات الطويلة مثل comfortable فنضع قبلها كلمة more.",
+    "examples": [
+      {"en": "The green one is cheaper.", "ar": "الأخضر أرخص."},
+      {"en": "This shirt is bigger than that one.", "ar": "هذا القميص أكبر من ذاك."},
+      {"en": "These shoes are more comfortable.", "ar": "هذا الحذاء أكثر راحة."}
+    ]
+  },
+  "vocabulary": [
+    {"word": "small", "meaningAr": "صغير", "example": "I take a small size in shirts."},
+    {"word": "medium", "meaningAr": "متوسط", "example": "A medium should fit you."},
+    {"word": "large", "meaningAr": "كبير", "example": "Do you have this in large?"},
+    {"word": "tight", "meaningAr": "ضيق", "example": "My new jeans are too tight."},
+    {"word": "loose", "meaningAr": "واسع غير ضيق", "example": "Old pants are usually loose."},
+    {"word": "red", "meaningAr": "أحمر", "example": "I want the red scarf."},
+    {"word": "blue", "meaningAr": "أزرق", "example": "The blue sweater is on sale."},
+    {"word": "green", "meaningAr": "أخضر", "example": "He bought a green hat."},
+    {"word": "black", "meaningAr": "أسود", "example": "Her black dress is elegant."},
+    {"word": "white", "meaningAr": "أبيض", "example": "A white shirt matches everything."},
+    {"word": "dark", "meaningAr": "غامق", "example": "I like dark colors in winter."},
+    {"word": "light", "meaningAr": "فاتح", "example": "A light shirt is better in summer."}
+  ],
+  "lt": [
+    {"en": "What size do you need?", "ar": "ما المقاس الذي تحتاجه؟"},
+    {"en": "Do you have this in medium?", "ar": "هل هذا متوفر بالمقاس المتوسط؟"},
+    {"en": "The blue one is bigger than the red one.", "ar": "الأزرق أكبر من الأحمر."},
+    {"en": "I want a dark color, please.", "ar": "أريد لونًا غامقًا، من فضلك."},
+    {"en": "These jeans are too tight.", "ar": "بنطال الجينز ضيق جدًا."},
+    {"en": "Is this shirt available in white?", "ar": "هل هذا القميص متوفر باللون الأبيض؟"},
+    {"en": "My size is small.", "ar": "مقاسي صغير."},
+    {"en": "The green scarf matches your eyes.", "ar": "الوشاح الأخضر يناسب عينيك."},
+    {"en": "How much is the large one?", "ar": "كم سعر المقاس الكبير؟"},
+    {"en": "I prefer light colors in summer.", "ar": "أفضِّل الألوان الفاتحة في الصيف."},
+    {"en": "This sweater is looser than that one.", "ar": "هذا البلوفر أوسع من ذاك."},
+    {"en": "Do you have it in a darker shade?", "ar": "هل لديك منه بدرجة أغمق؟"},
+    {"en": "The medium fits me well.", "ar": "المقاس المتوسط يناسبني جيدًا."},
+    {"en": "She wants the yellow dress.", "ar": "إنها تريد الفستان الأصفر."},
+    {"en": "Are these shoes black or brown?", "ar": "هل هذه الأحذية سوداء أم بنية؟"},
+    {"en": "A white shirt is good for work.", "ar": "القميص الأبيض مناسب للعمل."},
+    {"en": "Can you get me a bigger size?", "ar": "هل يمكنك أن تحضر لي مقاسًا أكبر؟"},
+    {"en": "This color is very popular this year.", "ar": "هذا اللون رائج جدًا هذا العام."},
+    {"en": "I don't wear bright colors.", "ar": "أنا لا أرتدي الألوان الزاهية.", "alt": "I do not wear bright colors."},
+    {"en": "The large is sold out.", "ar": "نفدت الكمية من المقاس الكبير."},
+    {"en": "Is the small too tight for you?", "ar": "هل المقاس الصغير ضيق عليك؟"},
+    {"en": "That red jacket is cheaper than this one.", "ar": "تلك السترة الحمراء أرخص من هذه."},
+    {"en": "I need a longer belt.", "ar": "أحتاج حزامًا أطول."},
+    {"en": "The dress comes in three colors.", "ar": "يتوفر الفستان بثلاثة ألوان."},
+    {"en": "My favorite color is green.", "ar": "لوني المفضل هو الأخضر."},
+    {"en": "Do these pants come in black?", "ar": "هل يتوفر هذا البنطال باللون الأسود؟"},
+    {"en": "The light blue shirt is very nice.", "ar": "القميص الأزرق الفاتح جميل جدًا."},
+    {"en": "This one is too loose around the waist.", "ar": "هذا واسع جدًا عند الخصر."},
+    {"en": "What colors does it come in?", "ar": "ما الألوان المتوفرة منه؟"},
+    {"en": "The small size is for children.", "ar": "المقاس الصغير مخصص للأطفال."},
+    {"en": "Could I see it in green?", "ar": "هل يمكنني أن أراه باللون الأخضر؟"},
+    {"en": "The blue shoes are more comfortable.", "ar": "الأحذية الزرقاء أكثر راحة."},
+    {"en": "The color will not fade after washing.", "ar": "لن يبهت اللون بعد الغسيل."},
+    {"en": "I'm between sizes, so I'll take the larger one.", "ar": "مقاسي يقع بين مقاسين، لذا سآخذ الأكبر."},
+    {"en": "Do you like the dark or the light one?", "ar": "هل تفضِّل الغامق أم الفاتح؟"},
+    {"en": "The extra large is over here.", "ar": "المقاس الكبير جدًا موجود هنا."},
+    {"en": "Brown doesn't suit me.", "ar": "اللون البني لا يناسبني.", "alt": "Brown does not suit me."},
+    {"en": "The pink sweater is for my daughter.", "ar": "البلوفر الوردي لابنتي."},
+    {"en": "Smaller sizes are on the left shelf.", "ar": "المقاسات الصغيرة على الرف الأيسر."},
+    {"en": "Is this the same color as the picture?", "ar": "هل هذا اللون هو نفسه اللون في الصورة؟"},
+    {"en": "I always wear black to work.", "ar": "أرتدي الأسود دائمًا في العمل."},
+    {"en": "Two shirts in different colors, please.", "ar": "قميصان بلونين مختلفين، من فضلك."}
+  ],
+  "fb": [
+    {"display": "Do you have this in a ___ color?", "blank": "darker", "en": "Do you have this in a darker color?", "ar": "هل هذا متوفر بلون أغمق؟"},
+    {"display": "This green shirt is ___ than that one.", "blank": "cheaper", "en": "This green shirt is cheaper than that one.", "ar": "هذا القميص الأخضر أرخص من ذاك."},
+    {"display": "This jacket is too ___ for me.", "blank": "loose", "en": "This jacket is too loose for me.", "ar": "هذه السترة واسعة جدًا عليّ."},
+    {"display": "Does it come in ___?", "blank": "black", "en": "Does it come in black?", "ar": "هل يتوفر باللون الأسود؟"},
+    {"display": "The ___ fits me perfectly.", "blank": "medium", "en": "The medium fits me perfectly.", "ar": "المقاس المتوسط يناسبني تمامًا."},
+    {"display": "I want a ___ shirt for work.", "blank": "white", "en": "I want a white shirt for work.", "ar": "أريد قميصًا أبيض للعمل."}
+  ],
+  "wo": [
+    {"en": "Can I try a bigger size?", "ar": "هل يمكنني تجربة مقاس أكبر؟"},
+    {"en": "What color do you prefer?", "ar": "أي لون تفضِّل؟"},
+    {"en": "The red dress is too short.", "ar": "الفستان الأحمر قصير جدًا."},
+    {"en": "I need a warmer jacket for winter.", "ar": "أحتاج سترة أدفأ للشتاء."}
+  ],
+  "mc": [
+    {"question": "What does 'loose' mean?", "options": ["ضيق جدًا", "واسع غير ضيق", "قصير جدًا"], "answerIndex": 1, "ar": "ما معنى كلمة loose؟"},
+    {"question": "Which sentence compares correctly?", "options": ["This shirt is more cheap than that one.", "This shirt is cheaper than that one.", "This shirt is cheap than that one."], "answerIndex": 1, "ar": "أي جملة تقارن بشكل صحيح؟"},
+    {"question": "What do you say when you want a color that is not dark?", "options": ["I want a tight color.", "I want a heavy color.", "I want a light color."], "answerIndex": 2, "ar": "ماذا تقول عندما تريد لونًا غير غامق؟"}
+  ]
+}

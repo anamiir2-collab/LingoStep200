@@ -1,0 +1,348 @@
+{
+  "id": "lesson-086",
+  "objectives": [
+    "Complain politely about a problem",
+    "Ask for a solution or replacement",
+    "Use polite softeners with complaints"
+  ],
+  "grammar": {
+    "explanation": "When you complain in English, softeners make you sound polite, not angry. Use phrases like I'm afraid..., There seems to be..., and Excuse me, but... before you name the problem. Then ask for help with Could you...? or Can you...?",
+    "explanationAr": "عند تقديم شكوى بالإنجليزية تجعل العبارات التمهيدية المهذبة كلامك لطيفًا لا غاضبًا. استخدم عبارات مثل I'm afraid و There seems to be و Excuse me, but قبل ذكر المشكلة، ثم اطلب الحل بلطف باستخدام Could you...? أو Can you...?",
+    "examples": [
+      {
+        "en": "I'm afraid there is a problem with my order.",
+        "ar": "أخشى أن هناك مشكلة في طلبي."
+      },
+      {
+        "en": "There seems to be a mistake in the bill.",
+        "ar": "يبدو أن هناك خطأ في الفاتورة."
+      },
+      {
+        "en": "Could you fix this, please?",
+        "ar": "هل يمكنك إصلاح هذا من فضلك؟"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "complaint",
+      "meaningAr": "شكوى",
+      "example": "I have a complaint about the noise."
+    },
+    {
+      "word": "problem",
+      "meaningAr": "مشكلة",
+      "example": "There is a problem with my food."
+    },
+    {
+      "word": "manager",
+      "meaningAr": "مدير",
+      "example": "The manager will see you now."
+    },
+    {
+      "word": "apologize",
+      "meaningAr": "يعتذر",
+      "example": "The waiter apologized for the delay."
+    },
+    {
+      "word": "refund",
+      "meaningAr": "استرداد المال",
+      "example": "I asked for a full refund."
+    },
+    {
+      "word": "replace",
+      "meaningAr": "يستبدل",
+      "example": "They replaced the broken cup."
+    },
+    {
+      "word": "receipt",
+      "meaningAr": "إيصال",
+      "example": "Here is my receipt."
+    },
+    {
+      "word": "broken",
+      "meaningAr": "مكسور أو معطل",
+      "example": "The TV is broken again."
+    },
+    {
+      "word": "polite",
+      "meaningAr": "مهذب",
+      "example": "Please be polite to the staff."
+    },
+    {
+      "word": "solution",
+      "meaningAr": "حل",
+      "example": "We need a quick solution."
+    },
+    {
+      "word": "mistake",
+      "meaningAr": "خطأ",
+      "example": "It was a small mistake."
+    },
+    {
+      "word": "noisy",
+      "meaningAr": "صاخب",
+      "example": "The street is noisy at night."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I'm afraid there is a problem with my order.",
+      "ar": "أخشى أن هناك مشكلة في طلبي.",
+      "alt": "I am afraid there is a problem with my order."
+    },
+    {
+      "en": "There seems to be a mistake in the bill.",
+      "ar": "يبدو أن هناك خطأ في الفاتورة."
+    },
+    {
+      "en": "The soup is too cold.",
+      "ar": "الحساء بارد جدًا."
+    },
+    {
+      "en": "Could you fix this, please?",
+      "ar": "هل يمكنك إصلاح هذا من فضلك؟"
+    },
+    {
+      "en": "Excuse me, but this is not what I ordered.",
+      "ar": "عذرًا، لكن هذا ليس ما طلبته."
+    },
+    {
+      "en": "I need to report a problem.",
+      "ar": "أحتاج إلى الإبلاغ عن مشكلة."
+    },
+    {
+      "en": "My food arrived very late.",
+      "ar": "وصل طعامي متأخرًا جدًا."
+    },
+    {
+      "en": "Is there a problem with the room?",
+      "ar": "هل هناك مشكلة في الغرفة؟"
+    },
+    {
+      "en": "The air conditioner is broken.",
+      "ar": "المكيف معطل."
+    },
+    {
+      "en": "I would like a refund, please.",
+      "ar": "أريد استرداد المبلغ من فضلك."
+    },
+    {
+      "en": "What can you do about this problem?",
+      "ar": "ماذا يمكنك أن تفعل بخصوص هذه المشكلة؟"
+    },
+    {
+      "en": "The bill is wrong.",
+      "ar": "الفاتورة خاطئة."
+    },
+    {
+      "en": "I paid too much money.",
+      "ar": "دفعت مالًا أكثر من اللازم."
+    },
+    {
+      "en": "Could you check the bill again, please?",
+      "ar": "هل يمكنك التحقق من الفاتورة مرة أخرى من فضلك؟"
+    },
+    {
+      "en": "Sorry, but the coffee is cold too.",
+      "ar": "عذرًا، لكن القهوة باردة أيضًا."
+    },
+    {
+      "en": "The waiter was not polite.",
+      "ar": "لم يكن النادل مهذبًا."
+    },
+    {
+      "en": "There is a problem with my shower.",
+      "ar": "هناك مشكلة في دش غرفتي."
+    },
+    {
+      "en": "Can you send someone to fix it?",
+      "ar": "هل يمكنك إرسال أحد لإصلاحه؟"
+    },
+    {
+      "en": "When will it be ready?",
+      "ar": "متى سيكون جاهزًا؟"
+    },
+    {
+      "en": "This chair is broken.",
+      "ar": "هذا الكرسي مكسور."
+    },
+    {
+      "en": "Could we sit at another table?",
+      "ar": "هل يمكننا الجلوس إلى طاولة أخرى؟"
+    },
+    {
+      "en": "The music is too loud.",
+      "ar": "الموسيقى عالية جدًا."
+    },
+    {
+      "en": "I'm not happy with this service.",
+      "ar": "لست سعيدًا بهذه الخدمة.",
+      "alt": "I am not happy with this service."
+    },
+    {
+      "en": "Do you have a quieter table?",
+      "ar": "هل لديكم طاولة أهدأ؟"
+    },
+    {
+      "en": "Please bring me another one.",
+      "ar": "من فضلك أحضر لي واحدة أخرى."
+    },
+    {
+      "en": "The shirt has a hole in it.",
+      "ar": "القميص فيه ثقب."
+    },
+    {
+      "en": "Who can help me with this?",
+      "ar": "من يستطيع مساعدتي في هذا؟"
+    },
+    {
+      "en": "I am not happy with this product.",
+      "ar": "لست سعيدًا بهذا المنتج."
+    },
+    {
+      "en": "Can I get my money back?",
+      "ar": "هل يمكنني استعادة أموالي؟"
+    },
+    {
+      "en": "The room was not clean.",
+      "ar": "لم تكن الغرفة نظيفة."
+    },
+    {
+      "en": "There is no hot water in my room.",
+      "ar": "لا يوجد ماء ساخن في غرفتي."
+    },
+    {
+      "en": "How long will the repair take?",
+      "ar": "كم من الوقت سيستغرق الإصلاح؟"
+    },
+    {
+      "en": "Please check the order number again.",
+      "ar": "من فضلك تحقق من رقم الطلب مرة أخرى."
+    },
+    {
+      "en": "I understand, but the problem is still there.",
+      "ar": "أفهم ذلك، لكن المشكلة ما زالت موجودة."
+    },
+    {
+      "en": "Please don't forget my request.",
+      "ar": "من فضلك لا تنسَ طلبي."
+    },
+    {
+      "en": "Is the manager here today?",
+      "ar": "هل المدير موجود اليوم؟"
+    },
+    {
+      "en": "I hope you can solve this quickly.",
+      "ar": "آمل أن تحل هذا بسرعة."
+    },
+    {
+      "en": "The lift is broken again.",
+      "ar": "المصعد معطل مرة أخرى."
+    },
+    {
+      "en": "Did you receive my complaint?",
+      "ar": "هل استلمتَ شكواي؟"
+    },
+    {
+      "en": "I have the receipt right here.",
+      "ar": "لدي الإيصال هنا."
+    },
+    {
+      "en": "This happened twice this week.",
+      "ar": "حدث هذا مرتين هذا الأسبوع."
+    },
+    {
+      "en": "A replacement is fine, thank you.",
+      "ar": "الاستبدال مناسب، شكرًا لك."
+    }
+  ],
+  "fb": [
+    {
+      "display": "Excuse me, ___ is a problem with my food.",
+      "blank": "there",
+      "en": "Excuse me, there is a problem with my food.",
+      "ar": "عذرًا، هناك مشكلة في طعامي."
+    },
+    {
+      "display": "There ___ to be a delay with my order.",
+      "blank": "seems",
+      "en": "There seems to be a delay with my order.",
+      "ar": "يبدو أن هناك تأخيرًا في طلبي."
+    },
+    {
+      "display": "Could you give me a ___, please?",
+      "blank": "refund",
+      "en": "Could you give me a refund, please?",
+      "ar": "هل يمكنك إعادة المبلغ من فضلك؟"
+    },
+    {
+      "display": "The room is too ___ for me.",
+      "blank": "noisy",
+      "en": "The room is too noisy for me.",
+      "ar": "الغرفة صاخبة جدًا بالنسبة لي."
+    },
+    {
+      "display": "This is not what I ___.",
+      "blank": "ordered",
+      "en": "This is not what I ordered.",
+      "ar": "هذا ليس ما طلبته."
+    },
+    {
+      "display": "Please bring me a ___ one.",
+      "blank": "new",
+      "en": "Please bring me a new one.",
+      "ar": "من فضلك أحضر لي واحدة جديدة."
+    }
+  ],
+  "wo": [
+    {
+      "en": "This is the third time I am calling.",
+      "ar": "هذه هي المرة الثالثة التي أتصل فيها."
+    },
+    {
+      "en": "The shower in my room is broken.",
+      "ar": "الدش في غرفتي معطل."
+    },
+    {
+      "en": "Could I have a new cup, please?",
+      "ar": "هل يمكنني الحصول على كوب جديد من فضلك؟"
+    },
+    {
+      "en": "I would like a replacement, please.",
+      "ar": "أود الحصول على بديل من فضلك."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'refund' mean?",
+      "options": [
+        "استرداد المال",
+        "استبدال",
+        "إيصال"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى كلمة refund؟"
+    },
+    {
+      "question": "Which phrase is the politest way to start a complaint?",
+      "options": [
+        "There is a problem!",
+        "I'm afraid there is a problem.",
+        "You are wrong!"
+      ],
+      "answerIndex": 1,
+      "ar": "أي عبارة هي الأكثر تهذيبًا لبدء شكوى؟"
+    },
+    {
+      "question": "Which sentence asks for a solution?",
+      "options": [
+        "Could you fix this, please?",
+        "The soup is cold.",
+        "I paid yesterday."
+      ],
+      "answerIndex": 0,
+      "ar": "أي جملة تطلب حلاً للمشكلة؟"
+    }
+  ]
+}

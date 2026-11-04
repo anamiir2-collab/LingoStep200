@@ -1,0 +1,348 @@
+{
+  "id": "lesson-080",
+  "objectives": [
+    "Track a delivery and confirm your address",
+    "Describe an order problem on the phone",
+    "Use present continuous for ongoing actions"
+  ],
+  "grammar": {
+    "explanation": "Use the present continuous (am, is, or are + verb with -ing) for actions happening now, like a driver who is on the way. You can also use it for a fixed plan very close to the future, such as 'My order is arriving tomorrow.'",
+    "explanationAr": "نستخدم المضارع المستمر (am / is / are + الفعل المنتهي بـ ing) للحديث عن حدث يجري الآن، مثل سائق يبحث عن شارعك، كما نستخدمه لحدث مؤكد سيقع قريبًا مثل: طلبك يصل غدًا.",
+    "examples": [
+      {
+        "en": "My package is arriving today.",
+        "ar": "طردي يصل اليوم."
+      },
+      {
+        "en": "The driver is calling you now.",
+        "ar": "السائق يتصل بك الآن."
+      },
+      {
+        "en": "The courier is coming to your door.",
+        "ar": "موظف التوصيل قادم إلى بابك."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "delivery",
+      "meaningAr": "توصيل",
+      "example": "The delivery comes before noon."
+    },
+    {
+      "word": "package",
+      "meaningAr": "طرد",
+      "example": "My package is still on the truck."
+    },
+    {
+      "word": "order",
+      "meaningAr": "طلب",
+      "example": "Is my order ready?"
+    },
+    {
+      "word": "driver",
+      "meaningAr": "سائق",
+      "example": "The driver called me this morning."
+    },
+    {
+      "word": "address",
+      "meaningAr": "عنوان",
+      "example": "Please write your address clearly."
+    },
+    {
+      "word": "tracking",
+      "meaningAr": "تتبّع",
+      "example": "Write the tracking number here."
+    },
+    {
+      "word": "courier",
+      "meaningAr": "موظف التوصيل",
+      "example": "The courier will call you soon."
+    },
+    {
+      "word": "signature",
+      "meaningAr": "توقيع",
+      "example": "They need a signature for this box."
+    },
+    {
+      "word": "refund",
+      "meaningAr": "استرداد المال",
+      "example": "Can I get a refund?"
+    },
+    {
+      "word": "delay",
+      "meaningAr": "تأخير",
+      "example": "There is a small delay today."
+    },
+    {
+      "word": "arrive",
+      "meaningAr": "يصل",
+      "example": "The box will arrive on Friday."
+    },
+    {
+      "word": "receive",
+      "meaningAr": "يستلم",
+      "example": "Did you receive my email?"
+    }
+  ],
+  "lt": [
+    {
+      "en": "My package is arriving today.",
+      "ar": "طردي يصل اليوم."
+    },
+    {
+      "en": "Where is my order?",
+      "ar": "أين طلبي؟"
+    },
+    {
+      "en": "The driver is looking for your street.",
+      "ar": "السائق يبحث عن شارعك."
+    },
+    {
+      "en": "I am waiting for my delivery.",
+      "ar": "أنا في انتظار طردي.",
+      "alt": "I'm waiting for my delivery."
+    },
+    {
+      "en": "Is my order on the way?",
+      "ar": "هل طلبي في الطريق؟"
+    },
+    {
+      "en": "The courier left a note at the door.",
+      "ar": "ترك موظف التوصيل رسالة عند الباب."
+    },
+    {
+      "en": "Please call me when you arrive.",
+      "ar": "من فضلك اتصل بي عندما تصل."
+    },
+    {
+      "en": "My order did not arrive yet.",
+      "ar": "لم يصل طلبي حتى الآن."
+    },
+    {
+      "en": "Can you deliver it today, please?",
+      "ar": "هل يمكنك توصيله اليوم، من فضلك؟"
+    },
+    {
+      "en": "The delivery man is at the gate.",
+      "ar": "رجل التوصيل عند البوابة."
+    },
+    {
+      "en": "I need to sign for the package.",
+      "ar": "أحتاج إلى التوقيع لاستلام الطرد."
+    },
+    {
+      "en": "What is the tracking number?",
+      "ar": "ما رقم التتبع؟"
+    },
+    {
+      "en": "My order is coming from another city.",
+      "ar": "طلبي قادم من مدينة أخرى."
+    },
+    {
+      "en": "There is a delay of two days.",
+      "ar": "هناك تأخير يومين."
+    },
+    {
+      "en": "The truck is stuck in traffic.",
+      "ar": "الشاحنة عالقة في الازدحام."
+    },
+    {
+      "en": "Express shipping arrives within two days.",
+      "ar": "الشحن السريع يصل خلال يومين."
+    },
+    {
+      "en": "Shipping is free for orders over fifty dollars.",
+      "ar": "الشحن مجاني للطلبات فوق خمسين دولارًا."
+    },
+    {
+      "en": "I paid extra for fast shipping.",
+      "ar": "دفعت مبلغًا إضافيًا مقابل الشحن السريع."
+    },
+    {
+      "en": "My address changed last month.",
+      "ar": "تغيّر عنواني الشهر الماضي."
+    },
+    {
+      "en": "Is this the correct address?",
+      "ar": "هل هذا العنوان الصحيح؟"
+    },
+    {
+      "en": "Please leave the box with my neighbor.",
+      "ar": "من فضلك اترك الصندوق مع جاري."
+    },
+    {
+      "en": "I did not receive a message.",
+      "ar": "لم أستلم أي رسالة."
+    },
+    {
+      "en": "The driver is calling me now.",
+      "ar": "السائق يتصل بي الآن.",
+      "alt": "The driver's calling me now."
+    },
+    {
+      "en": "Can I pick up my order from the store?",
+      "ar": "هل يمكنني استلام طلبي من المتجر؟"
+    },
+    {
+      "en": "The order arrived damaged.",
+      "ar": "وصل الطلب تالفًا."
+    },
+    {
+      "en": "I want a refund for my order.",
+      "ar": "أريد استرداد ثمن طلبي."
+    },
+    {
+      "en": "One item is missing from the box.",
+      "ar": "هناك قطعة ناقصة في الصندوق."
+    },
+    {
+      "en": "The box arrived broken.",
+      "ar": "وصل الصندوق مكسورًا."
+    },
+    {
+      "en": "When will my order arrive?",
+      "ar": "متى سيصل طلبي؟"
+    },
+    {
+      "en": "It will arrive before Friday.",
+      "ar": "سيصل قبل يوم الجمعة."
+    },
+    {
+      "en": "Please leave the package at the door.",
+      "ar": "من فضلك اترك الطرد عند الباب."
+    },
+    {
+      "en": "Sorry, I missed your call.",
+      "ar": "عذرًا، فاتني اتصالك."
+    },
+    {
+      "en": "I am on my way home now.",
+      "ar": "أنا في طريقي إلى البيت الآن."
+    },
+    {
+      "en": "Please deliver it after six o'clock.",
+      "ar": "من فضلك وصّله بعد الساعة السادسة."
+    },
+    {
+      "en": "Do you have my phone number?",
+      "ar": "هل لديك رقم هاتفي؟"
+    },
+    {
+      "en": "The courier left the box with the neighbor.",
+      "ar": "ترك مندوب التوصيل الصندوق عند الجار."
+    },
+    {
+      "en": "I checked the tracking page this morning.",
+      "ar": "تحققت من صفحة التتبع هذا الصباح."
+    },
+    {
+      "en": "The status says out for delivery.",
+      "ar": "الحالة تقول إن الطلب قيد التوصيل."
+    },
+    {
+      "en": "Can you repeat the order number, please?",
+      "ar": "هل يمكنك تكرار رقم الطلب، من فضلك؟"
+    },
+    {
+      "en": "Thank you for the fast delivery.",
+      "ar": "شكرًا لك على التوصيل السريع."
+    },
+    {
+      "en": "This is my second order this month.",
+      "ar": "هذا طلبي الثاني هذا الشهر."
+    },
+    {
+      "en": "I ordered two shirts and one bag.",
+      "ar": "طلبت قميصين وحقيبة واحدة."
+    }
+  ],
+  "fb": [
+    {
+      "display": "My order ___ arriving tomorrow.",
+      "blank": "is",
+      "en": "My order is arriving tomorrow.",
+      "ar": "طلبي يصل غدًا."
+    },
+    {
+      "display": "The boxes ___ very heavy.",
+      "blank": "are",
+      "en": "The boxes are very heavy.",
+      "ar": "الصناديق ثقيلة جدًا."
+    },
+    {
+      "display": "___ is the tracking number?",
+      "blank": "Where",
+      "en": "Where is the tracking number?",
+      "ar": "أين رقم التتبع؟"
+    },
+    {
+      "display": "Can you ___ my package at the door?",
+      "blank": "leave",
+      "en": "Can you leave my package at the door?",
+      "ar": "هل يمكنك ترك طردي عند الباب؟"
+    },
+    {
+      "display": "I did not ___ my order yet.",
+      "blank": "receive",
+      "en": "I did not receive my order yet.",
+      "ar": "لم أستلم طلبي بعد."
+    },
+    {
+      "display": "The ___ is coming this afternoon.",
+      "blank": "package",
+      "en": "The package is coming this afternoon.",
+      "ar": "الطرد قادم بعد الظهر."
+    }
+  ],
+  "wo": [
+    {
+      "en": "I am waiting for my package.",
+      "ar": "أنا في انتظار طردي."
+    },
+    {
+      "en": "Is the driver coming today?",
+      "ar": "هل السائق قادم اليوم؟"
+    },
+    {
+      "en": "My order did not arrive.",
+      "ar": "لم يصل طلبي."
+    },
+    {
+      "en": "Please confirm your full address.",
+      "ar": "من فضلك أكّد عنوانك الكامل."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'courier' mean?",
+      "options": [
+        "سائق التاكسي",
+        "شخص أو شركة تقوم بالتوصيل",
+        "نوع من الطرود"
+      ],
+      "answerIndex": 1,
+      "ar": "ما معنى كلمة courier؟"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The driver is looking for your street.",
+        "The driver looking for your street.",
+        "The driver are looking for your street."
+      ],
+      "answerIndex": 0,
+      "ar": "اختر الجملة الصحيحة."
+    },
+    {
+      "question": "What does 'refund' mean?",
+      "options": [
+        "إرجاع المال",
+        "تأخير الشحن",
+        "رقم التتبع"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى كلمة refund؟"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "lesson-079",
+  "objectives": [
+    "Buy things on a website or an app",
+    "Track an order and check the delivery",
+    "Use the present continuous for actions happening now"
+  ],
+  "grammar": {
+    "explanation": "Use the present continuous (am, is, or are plus a verb ending in -ing) for actions happening now or these days. Say: 'I am looking for a gift.' 'The app is not working.' For negatives, put not after am, is, or are.",
+    "explanationAr": "نستخدم المضارع المستمر (am/is/are + الفعل المنتهي بـ ing) للحدث الذي يحدث الآن أو في هذه الفترة، مثل: I am looking for a gift. وللنفي نضع not بعد am/is/are.",
+    "examples": [
+      {
+        "en": "I am looking for a gift for my mother.",
+        "ar": "أبحث عن هدية لأمي."
+      },
+      {
+        "en": "The app is not working right now.",
+        "ar": "التطبيق لا يعمل في هذه اللحظة."
+      },
+      {
+        "en": "My package is arriving on Friday.",
+        "ar": "طردتي تصل يوم الجمعة."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "website",
+      "meaningAr": "موقع إلكتروني",
+      "example": "This website sells handmade bags."
+    },
+    {
+      "word": "online",
+      "meaningAr": "عبر الإنترنت",
+      "example": "I bought shoes online last month."
+    },
+    {
+      "word": "cart",
+      "meaningAr": "سلة المشتريات",
+      "example": "I put three books in my cart."
+    },
+    {
+      "word": "checkout",
+      "meaningAr": "إتمام الشراء",
+      "example": "Pay for your cart at checkout."
+    },
+    {
+      "word": "shipping",
+      "meaningAr": "الشحن",
+      "example": "Shipping is free this month."
+    },
+    {
+      "word": "delivery",
+      "meaningAr": "التوصيل",
+      "example": "The delivery arrives on Monday."
+    },
+    {
+      "word": "order",
+      "meaningAr": "طلبية",
+      "example": "I placed an order last night."
+    },
+    {
+      "word": "review",
+      "meaningAr": "تقييم",
+      "example": "I read a good review of this shop."
+    },
+    {
+      "word": "search",
+      "meaningAr": "يبحث",
+      "example": "I search for gifts on my phone."
+    },
+    {
+      "word": "click",
+      "meaningAr": "ينقر",
+      "example": "Click here to pay."
+    },
+    {
+      "word": "account",
+      "meaningAr": "حساب",
+      "example": "I made an account with my email."
+    },
+    {
+      "word": "track",
+      "meaningAr": "يتتبع",
+      "example": "I track my order with the app."
+    }
+  ],
+  "lt": [
+    {
+      "en": "I do most of my shopping online.",
+      "ar": "أقوم بمعظم مشترياتي عبر الإنترنت."
+    },
+    {
+      "en": "I am looking for a new backpack.",
+      "alt": "I'm looking for a new backpack.",
+      "ar": "أبحث عن حقيبة ظهر جديدة."
+    },
+    {
+      "en": "Can you deliver to my home?",
+      "ar": "هل يمكنكم التوصيل إلى منزلي؟"
+    },
+    {
+      "en": "The delivery is free this week.",
+      "ar": "التوصيل مجاني هذا الأسبوع."
+    },
+    {
+      "en": "I added three things to my cart.",
+      "ar": "أضفت ثلاثة أشياء إلى سلتي."
+    },
+    {
+      "en": "How do I pay at checkout?",
+      "ar": "كيف أدفع عند إتمام الشراء؟"
+    },
+    {
+      "en": "You can pay with your card.",
+      "ar": "يمكنك الدفع ببطاقتك."
+    },
+    {
+      "en": "Is there a discount code for this?",
+      "ar": "هل هناك رمز خصم لهذا؟"
+    },
+    {
+      "en": "Yes, use the code SAVE10.",
+      "ar": "نعم، استخدم الرمز SAVE10."
+    },
+    {
+      "en": "My order arrived this morning.",
+      "ar": "وصل طلبي هذا الصباح."
+    },
+    {
+      "en": "The box was not damaged.",
+      "ar": "لم يكن الصندوق تالفًا."
+    },
+    {
+      "en": "How long does shipping take?",
+      "ar": "كم يستغرق الشحن؟"
+    },
+    {
+      "en": "It takes about three days.",
+      "ar": "يستغرق حوالي ثلاثة أيام."
+    },
+    {
+      "en": "Where is my package now?",
+      "ar": "أين طردي الآن؟"
+    },
+    {
+      "en": "You can track it with the app.",
+      "ar": "يمكنك تتبعه بالتطبيق."
+    },
+    {
+      "en": "The app is not working today.",
+      "alt": "The app isn't working today.",
+      "ar": "التطبيق لا يعمل اليوم."
+    },
+    {
+      "en": "Try the website instead.",
+      "ar": "جرّب الموقع بدلًا من ذلك."
+    },
+    {
+      "en": "I read the reviews before buying.",
+      "ar": "قرأت التقييمات قبل الشراء."
+    },
+    {
+      "en": "This shop has five stars.",
+      "ar": "حصل هذا المتجر على خمس نجوم."
+    },
+    {
+      "en": "The reviews are very good.",
+      "ar": "التقييمات جيدة جدًا."
+    },
+    {
+      "en": "Is this shirt the same as the picture?",
+      "ar": "هل هذا القميص مثل الصورة؟"
+    },
+    {
+      "en": "The color looks different in real life.",
+      "ar": "يبدو اللون مختلفًا في الواقع."
+    },
+    {
+      "en": "I want to return these jeans.",
+      "ar": "أريد إرجاع هذا البنطال."
+    },
+    {
+      "en": "You can send it back for free.",
+      "ar": "يمكنك إعادته مجانًا."
+    },
+    {
+      "en": "Print the label and stick it on the box.",
+      "ar": "اطبع الملصق والصقه على الصندوق."
+    },
+    {
+      "en": "The delivery man will pick it up tomorrow.",
+      "ar": "سيأتي عامل التوصيل لاستلامه غدًا."
+    },
+    {
+      "en": "I need to create an account first.",
+      "ar": "أحتاج إلى إنشاء حساب أولًا."
+    },
+    {
+      "en": "Choose a strong password, please.",
+      "ar": "اختر كلمة مرور قوية، من فضلك."
+    },
+    {
+      "en": "I forgot my password again.",
+      "ar": "نسيت كلمة المرور مرة أخرى."
+    },
+    {
+      "en": "You can reset it by email.",
+      "ar": "يمكنك استعادتها عبر البريد الإلكتروني."
+    },
+    {
+      "en": "Search for winter boots on the site.",
+      "ar": "ابحث عن حذاء شتوي في الموقع."
+    },
+    {
+      "en": "There are more than two hundred results.",
+      "ar": "هناك أكثر من مئتي نتيجة."
+    },
+    {
+      "en": "Sort the results by price.",
+      "ar": "رتّب النتائج حسب السعر."
+    },
+    {
+      "en": "The cheapest one is first.",
+      "ar": "الأرخص يأتي أولًا."
+    },
+    {
+      "en": "I am comparing two similar phones.",
+      "ar": "أقارن بين هاتفين متشابهين."
+    },
+    {
+      "en": "This one has more memory.",
+      "ar": "هذا فيه ذاكرة أكبر."
+    },
+    {
+      "en": "But that one is cheaper.",
+      "ar": "لكن ذاك أرخص."
+    },
+    {
+      "en": "I will buy the cheaper one.",
+      "ar": "سأشتري الأرخص."
+    },
+    {
+      "en": "Do they ship to small cities?",
+      "ar": "هل يشحنون إلى المدن الصغيرة؟"
+    },
+    {
+      "en": "Yes, they deliver everywhere.",
+      "ar": "نعم، يوصّلون إلى كل مكان."
+    },
+    {
+      "en": "Check your email for the receipt.",
+      "ar": "ابحث عن الإيصال في بريدك الإلكتروني."
+    },
+    {
+      "en": "Your order confirmation is in your email.",
+      "ar": "تأكيد طلبك في بريدك الإلكتروني."
+    }
+  ],
+  "fb": [
+    {
+      "display": "I put the shoes in my ___.",
+      "blank": "cart",
+      "en": "I put the shoes in my cart.",
+      "ar": "وضعت الحذاء في سلتي."
+    },
+    {
+      "display": "Pay for your order at ___.",
+      "blank": "checkout",
+      "en": "Pay for your order at checkout.",
+      "ar": "ادفع طلبك عند إتمام الشراء."
+    },
+    {
+      "display": "The ___ takes two days.",
+      "blank": "delivery",
+      "en": "The delivery takes two days.",
+      "ar": "يستغرق التوصيل يومين."
+    },
+    {
+      "display": "I like to shop ___.",
+      "blank": "online",
+      "en": "I like to shop online.",
+      "ar": "أحب التسوق عبر الإنترنت."
+    },
+    {
+      "display": "You can ___ on the picture.",
+      "blank": "click",
+      "en": "You can click on the picture.",
+      "ar": "يمكنك النقر على الصورة."
+    },
+    {
+      "display": "I read a ___ of this phone.",
+      "blank": "review",
+      "en": "I read a review of this phone.",
+      "ar": "قرأت تقييمًا لهذا الهاتف."
+    }
+  ],
+  "wo": [
+    {
+      "en": "My package arrived two days early.",
+      "ar": "وصلت طردي قبل يومين من الموعد."
+    },
+    {
+      "en": "Can I track my order online?",
+      "ar": "هل يمكنني تتبع طلبي عبر الإنترنت؟"
+    },
+    {
+      "en": "The website has many good deals.",
+      "ar": "في الموقع عروض جيدة كثيرة."
+    },
+    {
+      "en": "Add it to the cart, please.",
+      "ar": "أضفه إلى السلة، من فضلك."
+    }
+  ],
+  "mc": [
+    {
+      "question": "What does 'cart' mean in online shopping?",
+      "options": [
+        "سلة المشتريات",
+        "كلمة المرور",
+        "قائمة الأمنيات"
+      ],
+      "answerIndex": 0,
+      "ar": "ما معنى كلمة cart في التسوق عبر الإنترنت؟"
+    },
+    {
+      "question": "Which sentence uses the present continuous correctly?",
+      "options": [
+        "I am looking for a gift.",
+        "I looking for a gift.",
+        "I am look for a gift."
+      ],
+      "answerIndex": 0,
+      "ar": "أي جملة تستخدم المضارع المستمر بشكل صحيح؟"
+    },
+    {
+      "question": "What should you read before buying online?",
+      "options": [
+        "The reviews",
+        "The weather",
+        "The manager's name"
+      ],
+      "answerIndex": 0,
+      "ar": "ما الذي يجب أن تقرأه قبل الشراء عبر الإنترنت؟"
+    }
+  ]
+}
