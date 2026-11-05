@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">LingoStep</string>
-    <string name="title_activity_main">LingoStep</string>
-    <string name="package_name">com.anamiir2collab.lingostep</string>
-    <string name="custom_url_scheme">com.anamiir2collab.lingostep</string>
-</resources>
